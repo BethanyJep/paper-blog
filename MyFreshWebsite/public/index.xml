@@ -6,14 +6,18 @@
     <description>Recent content on bethanyjep</description>
     <generator>Hugo -- 0.134.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 30 Sep 2024 12:20:38 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 07:06:31 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/posts/my-first-post/</link>
-      <pubDate>Mon, 30 Sep 2024 12:20:38 +0000</pubDate>
-      <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Hello World&lt;/p&gt;</description>
+      <title>Welcome</title>
+      <link>http://localhost:1313/posts/welcome/</link>
+      <pubDate>Wed, 02 Oct 2024 07:06:31 +0000</pubDate>
+      <guid>http://localhost:1313/posts/welcome/</guid>
+      <description>&lt;p&gt;Hi 😊,&lt;/p&gt;
+&lt;p&gt;Welcome to my small garden on the internet.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m Bethany Jepchumba, currently a Cloud Advocate at Microsoft and I enjoy teaching.&lt;/p&gt;
+&lt;p&gt;I have created this website to share my various learnings and experiences in AI, machine learning and everything in between. Hope you enjoy the journey with me.&lt;/p&gt;
+&lt;p&gt;~ Pikachu 🐾&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,3 +2,17 @@ baseURL: https://bethany-jep.com/
 languageCode: en-us
 title: bethanyjep
 theme: ["PaperMod"]
+
+params:
+  homeInfoParams:
+    Title: "Bethany Jep"
+    Content: "I am a Cloud Advocate at Microsoft. Fun fact: I'm a house cat, but you'll find me hiking or ticking off my bucket list when I venture out. As a creative, I use whatever tools I have and share my work at @artsy.chu. Currently, I'm diving into African Literature, Psychology, AI, and fiction. Ask me anything about Data Science, Machine Learning, and AI."
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/bethanyjep"
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/bethany-jep/"
+    - name: "twitter"
+      url: "https://twitter.com/bethanyjep"
+    - name: "linktree"
+      url: "https://linktr.ee/bethanyjep"

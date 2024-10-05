@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bethany-jep.com/</loc>
+    <loc>http://localhost:42031/</loc>
     <lastmod>2024-10-02T16:30:17+00:00</lastmod>
   </url><url>
-    <loc>https://bethany-jep.com/posts/</loc>
+    <loc>http://localhost:42031/posts/</loc>
     <lastmod>2024-10-02T16:30:17+00:00</lastmod>
   </url><url>
-    <loc>https://bethany-jep.com/posts/welcome/</loc>
+    <loc>http://localhost:42031/posts/welcome/</loc>
     <lastmod>2024-10-02T07:06:31+00:00</lastmod>
   </url><url>
-    <loc>https://bethany-jep.com/categories/</loc>
+    <loc>http://localhost:42031/categories/</loc>
   </url><url>
-    <loc>https://bethany-jep.com/tags/</loc>
+    <loc>http://localhost:42031/tags/</loc>
   </url>
 </urlset>

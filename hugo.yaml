@@ -6,7 +6,14 @@ theme: ["PaperMod"]
 params:
   homeInfoParams:
     Title: "Bethany Jep"
-    Content: "I am a Cloud Advocate at Microsoft. Fun fact: I'm a house cat, but you'll find me hiking or ticking off my bucket list when I venture out. As a creative, I use whatever tools I have and share my work at @artsy.chu. Currently, I'm diving into African Literature, Psychology, AI, and fiction. Ask me anything about Data Science, Machine Learning, and AI."
+    Content: > 
+     Hey, I'm Bethany, a Cloud Advocate at Microsoft.
+
+      - Fun fact: I'm a house cat, but you'll find me hiking or ticking off my bucket list when I venture out. 
+
+      - Currently, I'm diving into African Literature, Psychology, AI, and fiction. 
+
+     - Ask me anything about Data Science, Machine Learning, and AI.
   socialIcons:
     - name: "github"
       url: "https://github.com/bethanyjep"

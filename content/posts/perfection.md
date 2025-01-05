@@ -4,12 +4,7 @@ date = 2025-01-05T16:30:17Z
 draft = false
 +++
 
-<aside>
-💡
-
-What if the only way to achieve perfection is completing your own damn work?
-
-</aside>
+> 💡 What if the only way to achieve perfection is completing your own damn work?
 
 For the longest time, I've been staring at blank pages. The idea of perfection in my head seems impossible to achieve in real life, leaving me frozen, unable to start. Time and again, I find myself struggling to take that first step.
 

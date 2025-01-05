@@ -24,14 +24,14 @@ I've held myself to the same harsh judgment, which has kept me from publishing e
 
 And now, as I log off after this extended rant, I hold onto one small victory—a sense of completion. A recent trip felt like the perfect opportunity to finally tackle my vision board. So, what did I do? I fired up Canva, categorized my goals, and jotted them down mid-flight. During my layover, I revisited Canva to transform those written goals into a visual representation. The result? Less than spectacular—but it was a start.
 
-![IMG_1222.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/b45f71eb-4ee9-473d-9496-c29446cee416/f002dcc2-5706-4031-a5f8-ba1d6eeee72b/IMG_1222.jpeg)
+![IMG_1222.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/initial-vb.png)
 
 I wanted to update my wallpaper with my first version of the vision board, but it was not quite right. When I arrived at my destination, I thought, why not give it another shot? This time, I turned to Pinterest. Ever tried making a collage on Pinterest? Neither had I—but that didn’t stop me. Perfection wasn’t the goal; finishing was. Two hours later, I had a revamped vision board—and I absolutely loved it!
 
-![IMG_1219.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/b45f71eb-4ee9-473d-9496-c29446cee416/89ff9733-6f1e-4927-aabc-7288b730be03/IMG_1219.jpeg)
+![IMG_1219.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/final-vb.jpg)
 
 It felt like digital scrapbooking—mapping out my plans for the year sparked a creative streak I can’t seem to shake. Now, I just want to keep going, building, and creating. I know you didn’t ask, but doesn’t my wallpaper look awesome?
 
-![IMG_1223.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/b45f71eb-4ee9-473d-9496-c29446cee416/f80f2605-f0c4-4fbd-804c-6e835f1cb232/IMG_1223.jpeg)
+![IMG_1223.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/wallpaper-vb.png?raw=true)
 
 As I step into this year, my mantra is simple: *What if perfection lies in completion?* I’m shifting my focus from endless planning to actually finishing what I start. Maybe this will be the year I finally launch my newsletter, ship products, write a book, create more, and build a brand. And who knows—maybe it’s your year too!

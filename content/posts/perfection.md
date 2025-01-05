@@ -10,7 +10,7 @@ For the longest time, I've been staring at blank pages. The idea of perfection i
 
 My process always starts with endless planning. It begins with a spark—something lights up in my brain, like my idea for a newsletter. Then I create list after list: topics I want to cover, actions needed to bring the idea to life. Gradually, I designed the whole newsletter layout. Yet a year later, all I have is a [Substack](https://open.substack.com/pub/abcdofai/p/coming-soon?r=bfag4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) page with nothing but a "launching soon" sign.
 
-![IMG_1221.jpeg](https://prod-files-secure.s3.us-west-2.amazonaws.com/b45f71eb-4ee9-473d-9496-c29446cee416/c03a2c74-d9d0-4ff5-97f6-ff0d1443dc83/IMG_1221.jpeg)
+![IMG_1221.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/newsletter-vb.jpg?raw=true)
 
 The pattern repeats endlessly. I dream up the perfect AI workshop but never bring it to life. I buy a domain for a blog but end up with nothing more than an empty "About" page for months. Round and round this cycle continues.
 

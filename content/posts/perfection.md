@@ -24,11 +24,11 @@ I've held myself to the same harsh judgment, which has kept me from publishing e
 
 And now, as I log off after this extended rant, I hold onto one small victory—a sense of completion. A recent trip felt like the perfect opportunity to finally tackle my vision board. So, what did I do? I fired up Canva, categorized my goals, and jotted them down mid-flight. During my layover, I revisited Canva to transform those written goals into a visual representation. The result? Less than spectacular—but it was a start.
 
-![IMG_1222.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/initial-vb.png)
+![IMG_1222.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/initial-vb.png?raw=true)
 
 I wanted to update my wallpaper with my first version of the vision board, but it was not quite right. When I arrived at my destination, I thought, why not give it another shot? This time, I turned to Pinterest. Ever tried making a collage on Pinterest? Neither had I—but that didn’t stop me. Perfection wasn’t the goal; finishing was. Two hours later, I had a revamped vision board—and I absolutely loved it!
 
-![IMG_1219.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/final-vb.jpg)
+![IMG_1219.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/final-vb.jpg?raw=true)
 
 It felt like digital scrapbooking—mapping out my plans for the year sparked a creative streak I can’t seem to shake. Now, I just want to keep going, building, and creating. I know you didn’t ask, but doesn’t my wallpaper look awesome?
 

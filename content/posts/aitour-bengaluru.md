@@ -1,6 +1,6 @@
 +++
 title = 'Microsoft AI Tour Bengaluru'
-date = 2025-01-13T16:30:17Z
+date = 2025-01-13T06:30:17Z
 draft = false
 +++
 

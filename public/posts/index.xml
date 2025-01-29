@@ -2,17 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on bethanyjep</title>
-    <link>http://localhost:44235/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on bethanyjep</description>
-    <generator>Hugo -- 0.134.2</generator>
+    <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2024 07:06:31 +0000</lastBuildDate>
-    <atom:link href="http://localhost:44235/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jan 2025 06:30:17 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Microsoft AI Tour Bengaluru</title>
+      <link>http://localhost:1313/posts/aitour-bengaluru/</link>
+      <pubDate>Mon, 13 Jan 2025 06:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aitour-bengaluru/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;💡 First speaking engagement 2025 in Bengaluru, India&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;It’s been a while since I’ve written an event recap — surprising, considering I spend so much time attending and speaking at conferences! Events are at the core of DevRel, where learning, sharing, and connecting happen in real-time. So, I’ve decided to make it a tradition: documenting my speaking engagements not only as a personal reflection but also as a resource for anyone interested in the topics I cover.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What if perfection is in completion?</title>
+      <link>http://localhost:1313/posts/perfection/</link>
+      <pubDate>Sun, 05 Jan 2025 16:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/perfection/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;💡 What if the only way to achieve perfection is completing your own damn work?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;For the longest time, I&amp;rsquo;ve been staring at blank pages. The idea of perfection in my head seems impossible to achieve in real life, leaving me frozen, unable to start. Time and again, I find myself struggling to take that first step.&lt;/p&gt;
+&lt;p&gt;My process always starts with endless planning. It begins with a spark—something lights up in my brain, like my idea for a newsletter. Then I create list after list: topics I want to cover, actions needed to bring the idea to life. Gradually, I designed the whole newsletter layout. Yet a year later, all I have is a &lt;a href=&#34;https://open.substack.com/pub/abcdofai/p/coming-soon?r=bfag4&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=false&#34;&gt;Substack&lt;/a&gt; page with nothing but a &amp;ldquo;launching soon&amp;rdquo; sign.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Welcome</title>
-      <link>http://localhost:44235/posts/welcome/</link>
+      <link>http://localhost:1313/posts/welcome/</link>
       <pubDate>Wed, 02 Oct 2024 07:06:31 +0000</pubDate>
-      <guid>http://localhost:44235/posts/welcome/</guid>
+      <guid>http://localhost:1313/posts/welcome/</guid>
       <description>&lt;p&gt;Hi 😊,&lt;/p&gt;
 &lt;p&gt;Welcome to my small garden on the internet.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m Bethany Jepchumba, currently a Cloud Advocate at Microsoft and I enjoy teaching.&lt;/p&gt;

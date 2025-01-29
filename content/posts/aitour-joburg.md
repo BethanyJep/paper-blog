@@ -1,7 +1,7 @@
 +++
 title = 'Microsoft AI Tour Johannesburg'
 date = 2025-01-26T06:30:17Z
-draft = true
+draft = false
 +++
 
 > The city of the hustle and bustle - AI Tour Joburg.
@@ -22,7 +22,8 @@ My workshop was being presented at the tour, and with products you always have t
 
 You get an Agent, You get an Agent, Everyone...well you know the drill. Our team came up with a new Agents workshop & breakout. It was incredible to attend the first workshop - a fully packed workshop!
 
-## TimeZoneess :-(
+## TimeZoneess :unamused:
+
     
 I posted how messed up timezones are on my profile and a friend commented that it is the kind of problems the wish to have. It felt reassuring after I missed an entire online session simply because I messed up the time, did +1 instead of -1. I was so worried. Mentally beating myself up for this faltering, but the reassurances I got from my teammates! 
 

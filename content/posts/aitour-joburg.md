@@ -1,7 +1,7 @@
 +++
 title = 'Microsoft AI Tour Johannesburg'
 date = 2025-01-26T06:30:17Z
-draft = false
+draft = true
 +++
 
 > The city of the hustle and bustle - AI Tour Joburg.

@@ -11,6 +11,8 @@ Have you ever attended a meetup with the perfect view of the Atlantic Ocean? Spe
 
 ### **Session: Building AI Solutions in Azure AI Foundry**
 
+![](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_1410%20(1).jpeg?raw=true)
+
 For this meetup, I stuck to the philosophy: *if it’s not broken, it doesn’t need fixing.* So, [I redelivered the same session](https://github.com/microsoft/aitour-concept-to-creation-ai-studio) I did in Joburg. The difference? **More questions, more interaction, and an even more engaged audience.** Plus, I got the chance to attend my colleagues’ sessions, which was a great learning experience.
 
 This session serves as a perfect introduction to **Azure AI Foundry** and how to build AI solutions. For this blog, I want to focus on one key part of the session—**Retrieval-Augmented Generation (RAG).**
@@ -19,7 +21,7 @@ This session serves as a perfect introduction to **Azure AI Foundry** and how to
 
 RAG is a technique that enhances LLM responses by incorporating your own data. Here’s how it works:
 
-![image.png](attachment:4f0d3ccb-48c7-4713-8470-679fd4728b35:image.png)
+![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(2).png?raw=true)
 
 - **Data Sourcing and Formatting:** Collect and store your data in one location.
     - Depending on its size, you may need to break it into smaller **chunks**—a process called **chunking.**
@@ -30,7 +32,7 @@ RAG is a technique that enhances LLM responses by incorporating your own data. H
 - **Augmentation:** The retrieved data is added to the prompt to enhance the response.
 - **Generation:** The enhanced prompt is fed to the LLM, which generates a more accurate and context-aware response.
 
-![image.png](attachment:5e7aa12c-26be-48d1-a4c8-956d843a1f8b:image.png)
+![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(1).png?raw=true)
 
 Sounds simpler now, right? You can learn more about **implementing RAG** in our [**Generative AI for Beginners**](https://github.com/microsoft/generative-ai-for-beginners/tree/main/15-rag-and-vector-databases) course.
 

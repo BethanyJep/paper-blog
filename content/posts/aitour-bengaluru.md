@@ -15,7 +15,7 @@ The year kicked off on an exciting note with me speaking at [AI Tour, Bengaluru]
 Over the past few months, I’ve been working behind the scenes on a beginner-level workshop designed to introduce interaction with multimodal models. This workshop is tailored for complete beginners, making it accessible to both developers and business decision-makers alike. The AI Tour in Bengaluru gave me the perfect opportunity to deliver it live for the very first time — an exciting milestone that brought months of preparation to life.
 The workshop experience was fantastic — at least until we ran into WiFi issues. What started as a planned 15-minute introductory session quickly evolved into a hands-on session that stretched over an hour. And I did it *twice* 😓. The key lesson I walked away with? If someone offers to help lighten your load, just say *yes*!
 
-![presenting the workshop at the tour](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_1205.jpeg?raw=true)
+![presenting the workshop at the tour](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/AI_Tour_Bengaluru_2025_01_07_0018.JPG?raw=true)
 
 If you are interested in learning more about the workshop, check it out at: https://aka.ms/aitour/wrk540
 
@@ -39,7 +39,7 @@ Yes, the African nature to always say yes and step in when needed meant I had to
 
 The session is fascinating for me because having AI on edge means everyone gets access to Generative AI capabilities regardless of device and can deploy these models offline. Opening up a world of possibilities for accessibility and flexibility.
 
-![upcoming session chart](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_4990.jpg?raw=true)
+![upcoming session chart](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/AI_Tour_Bengaluru_2025_01_07_0090.JPG?raw=true)
 
 You can learn more about the session and get the resources at https://aka.ms/aitour/brk453
 

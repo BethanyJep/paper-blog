@@ -10,6 +10,8 @@ I know, I missed a post last week and the other. Life happened — I was confuse
 
 Alright, let’s get into it.
 
+![](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/AI_Tour_Johannesburg_2025_01_23_-0010.jpg?raw=true)
+
 Last week, I landed in South Africa early Tuesday mid-morning—right in the middle of our weekly team meeting. I was ready to work, explore, and make the most of the week ahead. This time, I was here for just one breakout session and to spend time with colleagues.
 
 ### **Debugging, un-bugging and everything in between**
@@ -26,11 +28,13 @@ Our team introduced a new Agents workshop & breakout, and I had the chance to at
 
 ### **Breakout: Building AI Solutions in Azure AI Foundry**
 
+![](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/AI_Tour_Johannesburg_2025_01_23_-0022.jpg?raw=true)
+
 Late last year, I delivered this session in Australia, and I absolutely loved it! It covers the core building blocks of AI—from prompt engineering to Retrieval-Augmented Generation (RAG) and evaluation.
 
 Azure AI Foundry is Microsoft’s end-to-end AI platform that enables you to **build, develop, deploy, and monitor** your AI solutions.
 
-![image.png](attachment:54ef3cbd-62ef-4e75-b9aa-42dbbbb98a78:image.png)
+![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/1738073041776.jpg?raw=true)
 
 👉 [Catch up with the prototype and session materials here.](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 

@@ -1,42 +1,49 @@
 +++
 title = 'Microsoft AI Tour Johannesburg'
 date = 2025-01-26T06:30:17Z
-draft = true
+draft = false
 +++
+> 🛠️ The city of the hustle and bustle - [AI Tour Joburg](https://aitour.microsoft.com/en-US/home).
+> 
 
-> The city of the hustle and bustle - AI Tour Joburg.
+I know, I missed a post last week and the other. Life happened — I was confused, hurt, sad, and betrayed. Basically, adulting! One day, I’ll look back and laugh, but at the time, I was at my lowest. So, to make up for it, this week and the next few weeks we’re doubling up with two event recaps, some lessons from Robben Island, a new book I’m reading, and more.
 
-Last week I missed a post, I know. I spent the week confused, hurt and betrayed. One day I will look back but I was on my lows. So this week, we do two event recaps anddddd.... some lessons I picked from the Robben Island, reading a new book, Busy Idiots and just existing.
+Alright, let’s get into it.
 
-Okay, let's get to the meat of it all. This week I arrived in South Africa early Tuesday mid-morning, ready to work, tour and prepared for the week ahead. And for the first time, I was here for just that one breakout session, and spending time with colleagues.
+Last week, I landed in South Africa early Tuesday mid-morning—right in the middle of our weekly team meeting. I was ready to work, explore, and make the most of the week ahead. This time, I was here for just one breakout session and to spend time with colleagues.
 
-## Breakout: Building AI Solutions in Azure AI Foundry
+### **Debugging, un-bugging and everything in between**
 
-Late last year, I did this session in Australia and loved it! The session covers the building blocks of AI, from prompt engineering, RAG
+My [workshop](http://aka.ms/aitour/wrk540) was part of the AI Tour, and when working with products, you always have to stay on top of things to ensure everything runs like a well-oiled machine. Well, something *didn't* quite work, and I spent the day before the session trying to fix it. The biggest lesson? Sometimes, you *can’t* fix everything in the moment. Instead, document the workaround, get through the session, and fix it later—without the stress of everything toppling over.
 
-## Debugging, unbugging and the in-betweens
+### **Agents**
 
-My workshop was being presented at the tour, and with products you always have to keep an eye on the ins-and-outs to ensure everything works like a well-oiled machine. Well, something didn't quite work and I spent the day prior trying to hack it, and the lesson I learnt? Sometimes you can't fix everything, write documentation to navigate around it, then fix without the pressure of everything failing and toppling over.
+*You get an Agent, you get an Agent, everyone gets an Agent!*
 
-## Agents
+Our team introduced a new Agents workshop & breakout, and I had the chance to attend the first-ever session—it was **fully packed**! This session focused on using tools like **Function Calling, Code Interpreter, File Search,** and **Bing Search** to analyze and visualize an organization’s sales data.
 
-You get an Agent, You get an Agent, Everyone...well you know the drill. Our team came up with a new Agents workshop & breakout. It was incredible to attend the first workshop - a fully packed workshop!
+👉 [Learn more and code along with the workshop here.](https://github.com/microsoft/aitour-build-your-first-agent-with-azure-ai-agent-service)
 
-## TimeZoneess :unamused:
+### **Breakout: Building AI Solutions in Azure AI Foundry**
 
-    
-I posted how messed up timezones are on my profile and a friend commented that it is the kind of problems the wish to have. It felt reassuring after I missed an entire online session simply because I messed up the time, did +1 instead of -1. I was so worried. Mentally beating myself up for this faltering, but the reassurances I got from my teammates! 
+Late last year, I delivered this session in Australia, and I absolutely loved it! It covers the core building blocks of AI—from prompt engineering to Retrieval-Augmented Generation (RAG) and evaluation.
 
-So next time your brain messes up because of timezones, know it happens - and sometimes the only remedy is to not beat ourselves about it.
+Azure AI Foundry is Microsoft’s end-to-end AI platform that enables you to **build, develop, deploy, and monitor** your AI solutions.
 
-## Touring and catching up.
+![image.png](attachment:54ef3cbd-62ef-4e75-b9aa-42dbbbb98a78:image.png)
 
-Enroute to the tour, we took a detour to Agents of AI: AgentsCon South Africa, be on the look out - the Kenyan Edition is coming very soon! I can't reveal too much but stay tuned.
+👉 [Catch up with the prototype and session materials here.](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 
-## Lessons learned....
+### More on Agents - scandalous, I know!
 
-Next, I plan to be more intentional. Spend more time learning and engaging. Plan my meetings before hand and what I would like to gain. I had so many people around but barely got time to meet them and network. So, plan better Bethany!!
+Before the tour, we made a quick detour to [**Agents of AI: AgentsCon South Africa](https://agentsofai.co.za/),** which took place at the Microsoft Johannesburg office. Be on the lookout—**the [Kenyan edition is happening on March 13th](https://www.linkedin.com/posts/donasarkar_agentcon-agentcon-agentcon-activity-7287851846772092928-CGSK?utm_source=share&utm_medium=member_desktop)!** I can’t reveal too much yet but stay tuned.
 
-For now, it’s onto the next adventure!
+### **Lessons learned....**
 
-> P.S. I done it and loved it! Speaking at [Cape Town Developers UG]()
+Next time, I plan to be **more intentional**—spend more time learning and engaging, plan my meetings ahead of time, and set clear goals for what I want to gain. There were so many people I wanted to meet, but I barely had time to network properly.
+
+So, plan better, Bethany!
+
+For now, it’s on to the next adventure.
+
+> 🙈 **P.S.** *I did it and loved it!* Speaking at [Cape Town Developers UG](https://cptmsdug.dev/). 🚀

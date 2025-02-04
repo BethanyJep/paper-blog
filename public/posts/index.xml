@@ -6,8 +6,42 @@
     <description>Recent content in Posts on bethanyjep</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 13 Jan 2025 06:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 06:30:17 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure AI Foundry - Live edition</title>
+      <link>http://localhost:1313/posts/foundry-live-edition/</link>
+      <pubDate>Tue, 04 Feb 2025 06:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/foundry-live-edition/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Have you ever had that warm sensation in your belly where you &lt;em&gt;feel&lt;/em&gt; like &lt;em&gt;this&lt;/em&gt; is what all the hard work was for? For me, it’s when I receive heartwarming feedback from participants in a session I’m moderating. That moment when I know I’ve &lt;strong&gt;made an impact&lt;/strong&gt; on someone’s journey—it makes it all worth it. And yes, I always treat myself afterward. Not for the recognition, but for the &lt;strong&gt;impact.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cape Town Developer User Group Meetup</title>
+      <link>http://localhost:1313/posts/cptdug-meetup/</link>
+      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/cptdug-meetup/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;⛵ The meetup with a view - &lt;a href=&#34;https://cptmsdug.dev/&#34;&gt;Cape Town Developer User Group&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Have you ever attended a meetup with the perfect view of the Atlantic Ocean? Speaking right next to where you board the ferry to the history-filled &lt;strong&gt;Robben Island&lt;/strong&gt;? Yeah, I never thought I would—but I did. And afterward, I took a boat ride to Robben Island to immerse myself in its history.&lt;/p&gt;
+&lt;h3 id=&#34;session-building-ai-solutions-in-azure-ai-foundry&#34;&gt;&lt;strong&gt;Session: Building AI Solutions in Azure AI Foundry&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_1410%20%281%29.jpeg?raw=true&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Microsoft AI Tour Johannesburg</title>
+      <link>http://localhost:1313/posts/aitour-joburg/</link>
+      <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/aitour-joburg/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🛠️ The city of the hustle and bustle - &lt;a href=&#34;https://aitour.microsoft.com/en-US/home&#34;&gt;AI Tour Joburg&lt;/a&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I know, I missed a post last week and the other. Life happened — I was confused, hurt, sad, and betrayed. Basically, adulting! One day, I’ll look back and laugh, but at the time, I was at my lowest. So, to make up for it, this week and the next few weeks we’re doubling up with two event recaps, some lessons from Robben Island, a new book I’m reading, and more.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Microsoft AI Tour Bengaluru</title>
       <link>http://localhost:1313/posts/aitour-bengaluru/</link>

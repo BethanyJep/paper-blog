@@ -6,19 +6,31 @@
     <description>Recent content on bethanyjep</description>
     <generator>Hugo -- 0.139.4</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Jan 2025 06:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 06:30:17 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Azure AI Foundry - Live edition</title>
+      <link>http://localhost:1313/posts/foundry-live-edition/</link>
+      <pubDate>Tue, 04 Feb 2025 06:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/foundry-live-edition/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Have you ever had that warm sensation in your belly where you &lt;em&gt;feel&lt;/em&gt; like &lt;em&gt;this&lt;/em&gt; is what all the hard work was for? For me, it’s when I receive heartwarming feedback from participants in a session I’m moderating. That moment when I know I’ve &lt;strong&gt;made an impact&lt;/strong&gt; on someone’s journey—it makes it all worth it. And yes, I always treat myself afterward. Not for the recognition, but for the &lt;strong&gt;impact.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Cape Town Developer User Group Meetup</title>
       <link>http://localhost:1313/posts/cptdug-meetup/</link>
-      <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/cptdug-meetup/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;The meetup with a view - Cape Town Developer User Group.&lt;/p&gt;
+&lt;p&gt;⛵ The meetup with a view - &lt;a href=&#34;https://cptmsdug.dev/&#34;&gt;Cape Town Developer User Group&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Have you ever had a meetup with the perfect view of the Atlantic Ocean. Speaking next to where you board the ferry to the history filled Robben Island. Yeah, I never thought I would, but I did. And afterwards, took a boat to Robben Island for the History.&lt;/p&gt;
-&lt;h2 id=&#34;session-building-ai-solutions-in-azure-ai-foundry&#34;&gt;Session: Building AI Solutions in Azure AI Foundry&lt;/h2&gt;
-&lt;p&gt;For this meetup, I went with if it is not broke it needs no fixing and redelivered the same session I did in Joburg. Difference, I got so many questions, much more interaction with the Audince and as a plus, got to hear my collegues sessions as well.&lt;/p&gt;</description>
+&lt;p&gt;Have you ever attended a meetup with the perfect view of the Atlantic Ocean? Speaking right next to where you board the ferry to the history-filled &lt;strong&gt;Robben Island&lt;/strong&gt;? Yeah, I never thought I would—but I did. And afterward, I took a boat ride to Robben Island to immerse myself in its history.&lt;/p&gt;
+&lt;h3 id=&#34;session-building-ai-solutions-in-azure-ai-foundry&#34;&gt;&lt;strong&gt;Session: Building AI Solutions in Azure AI Foundry&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_1410%20%281%29.jpeg?raw=true&#34; alt=&#34;&#34;  /&gt;
+&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft AI Tour Johannesburg</title>
@@ -26,10 +38,9 @@
       <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/aitour-joburg/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;The city of the hustle and bustle - AI Tour Joburg.&lt;/p&gt;
+&lt;p&gt;🛠️ The city of the hustle and bustle - &lt;a href=&#34;https://aitour.microsoft.com/en-US/home&#34;&gt;AI Tour Joburg&lt;/a&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Last week I missed a post, I know. I spent the week confused, hurt and betrayed. One day I will look back but I was on my lows. So this week, we do two event recaps anddddd&amp;hellip;. some lessons I picked from the Robben Island, reading a new book, Busy Idiots and just existing.&lt;/p&gt;
-&lt;p&gt;Okay, let&amp;rsquo;s get to the meat of it all. This week I arrived in South Africa early Tuesday mid-morning, ready to work, tour and prepared for the week ahead. And for the first time, I was here for just that one breakout session, and spending time with colleagues.&lt;/p&gt;</description>
+&lt;p&gt;I know, I missed a post last week and the other. Life happened — I was confused, hurt, sad, and betrayed. Basically, adulting! One day, I’ll look back and laugh, but at the time, I was at my lowest. So, to make up for it, this week and the next few weeks we’re doubling up with two event recaps, some lessons from Robben Island, a new book I’m reading, and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft AI Tour Bengaluru</title>
@@ -51,13 +62,6 @@
 &lt;/blockquote&gt;
 &lt;p&gt;For the longest time, I&amp;rsquo;ve been staring at blank pages. The idea of perfection in my head seems impossible to achieve in real life, leaving me frozen, unable to start. Time and again, I find myself struggling to take that first step.&lt;/p&gt;
 &lt;p&gt;My process always starts with endless planning. It begins with a spark—something lights up in my brain, like my idea for a newsletter. Then I create list after list: topics I want to cover, actions needed to bring the idea to life. Gradually, I designed the whole newsletter layout. Yet a year later, all I have is a &lt;a href=&#34;https://open.substack.com/pub/abcdofai/p/coming-soon?r=bfag4&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=false&#34;&gt;Substack&lt;/a&gt; page with nothing but a &amp;ldquo;launching soon&amp;rdquo; sign.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Learnings on Money</title>
-      <link>http://localhost:1313/posts/learnings-on-money/</link>
-      <pubDate>Wed, 02 Oct 2024 16:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/learnings-on-money/</guid>
-      <description>&lt;p&gt;I am no expert when it comes to finances but I&amp;rsquo;ve been doing this long enough that my friends believe I can share some nuggets. To start of, the main and greatest lesson I have learnt is personal finance is &lt;strong&gt;personal.&lt;/strong&gt; Although you may have similiarities with your family, neighbours or even friends, when it comes to money - experiences are unique and varied.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Welcome</title>

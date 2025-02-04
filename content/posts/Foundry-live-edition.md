@@ -1,12 +1,15 @@
 +++
 title = 'Azure AI Foundry - Live edition'
-date = 2025-02-04T06:30:17Z
+date = 2025-02-03T06:30:17Z
 draft = false
 +++
 
 > 🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_N2pVyqgNE3gB-9i&amp;list=PLmsFUfdnGr3zTs9lpTDVa4jAECFELd778" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![Video Title](https://img.youtube.com/vi/AI8D7UPbdU4/0.jpg)](https://www.youtube.com/watch?v=AI8D7UPbdU4)
+
 
 Have you ever had that warm sensation in your belly where you *feel* like *this* is what all the hard work was for? For me, it’s when I receive heartwarming feedback from participants in a session I’m moderating. That moment when I know I’ve **made an impact** on someone’s journey—it makes it all worth it. And yes, I always treat myself afterward. Not for the recognition, but for the **impact.**
 
@@ -32,6 +35,9 @@ So, next time your brain fails you because of time zones—**don’t stress**. I
 What did I talk about today? **Azure AI Foundry.** Yeah, it’s basically what I *always* talk about! But this time, aside from the **end-to-end AI Foundry** journey, I also **dived into Prompty.** And yes, you can watch the recording below:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AI8D7UPbdU4?si=HTIhOooABeoQVI4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![YouTube Video](https://img.youtube.com/vi/AI8D7UPbdU4/0.jpg)](https://www.youtube.com/watch?v=AI8D7UPbdU4)
+
 
 ### Let’s talk Prompty, promptly…
 

@@ -1,6 +1,6 @@
 +++
 title = 'Explore and Evaluate AI  models for free with GitHub Models'
-date = 2025-01-31T06:30:17Z
+date = 2025-02-24T06:30:17Z
 draft = false
 +++
 

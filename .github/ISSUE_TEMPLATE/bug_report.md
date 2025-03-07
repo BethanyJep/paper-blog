@@ -1,6 +1,5 @@
 name:  Bug Report
-description: Create a bug report to help us improve
-title: "[BUG]"
+about: Create a bug report to help us improve
 labels: [bug]
 assignees: BethanyJep
 body:

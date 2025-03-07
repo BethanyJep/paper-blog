@@ -1,0 +1,37 @@
+name: 📖 Documentation Request
+description: Suggest an improvement or addition to the documentation
+title: "[Documentation]"
+labels: [documentation]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 📖 Documentation Request
+        Before submitting, please ensure that:
+        - You have checked the existing documentation.
+        - You have searched for similar requests.
+        - Your suggestion clearly explains the needed improvements.
+
+  - type: textarea
+    attributes:
+      label: Is your request related to a problem?
+      description: Provide a clear and concise description of the issue.
+      placeholder: "Example: I'm always frustrated when..."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe the improvement or addition you’d like to see
+      description: Outline the updates, clarifications, or new sections needed in the documentation.
+      placeholder: "Clearly explain what needs to be changed or added."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Additional Context
+      description: Add any relevant details, links, or screenshots.
+      placeholder: "Provide any extra context for your request."

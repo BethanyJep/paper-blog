@@ -3,7 +3,6 @@ description: Create a bug report to help us improve
 title: "[BUG]"
 labels: [bug]
 assignees: BethanyJep
-
 body:
   - type: textarea
     attributes:
@@ -43,9 +42,4 @@ body:
       label: Your environment
       description: Provide details about your setup.
       placeholder: |
-        - OS:
-        - Browser:
-        - Device:
-        - Node.js version:
-        - Package manager (npm/yarn) & version:
-        - Project version:
+        - Environment:

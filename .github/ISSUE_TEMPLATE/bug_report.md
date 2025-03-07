@@ -1,7 +1,11 @@
+---
 name:  Bug Report
 about: Create a bug report to help us improve
 labels: [bug]
 assignees: BethanyJep
+
+---
+
 body:
   - type: textarea
     attributes:

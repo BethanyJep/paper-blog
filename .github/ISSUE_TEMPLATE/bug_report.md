@@ -1,11 +1,9 @@
----
-name: Bug report
-about: Create a report to help us improve
+name:  Bug Report
+description: Create a bug report to help us improve
 title: "[BUG]"
-labels: 'bug'
+labels: [bug]
 assignees: BethanyJep
 
----
 body:
   - type: textarea
     attributes:
@@ -44,5 +42,10 @@ body:
     attributes:
       label: Your environment
       description: Provide details about your setup.
-      value: |
-        - Environment:
+      placeholder: |
+        - OS:
+        - Browser:
+        - Device:
+        - Node.js version:
+        - Package manager (npm/yarn) & version:
+        - Project version:

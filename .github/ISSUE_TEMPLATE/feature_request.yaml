@@ -1,0 +1,37 @@
+name: 🚀 Feature Request
+description: Suggest an idea to improve the project
+title: "[Feature]"
+labels: [enhancement]
+assignees: []
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🚀 Feature Request
+        Before submitting, please ensure that:
+        - You have searched for similar feature requests.
+        - You have considered alternative solutions.
+        - Your request clearly explains the benefit to users.
+
+  - type: textarea
+    attributes:
+      label: Is your feature request related to a problem?
+      description: Provide a clear and concise description of the issue.
+      placeholder: "Example: I'm always frustrated when..."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe the solution you'd like
+      description: Clearly describe what you want to happen.
+      placeholder: "Explain the feature you’re suggesting."
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Describe alternatives you've considered
+      description: Mention any alternative solutions or features you've considered.
+      placeholder: "Are there other ways to achieve this?"

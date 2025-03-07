@@ -2,22 +2,47 @@
 name: Bug report
 about: Create a report to help us improve
 title: "[BUG]"
-labels: ''
+labels: 'bug'
 assignees: BethanyJep
 
 ---
+body:
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: List the steps to reproduce the bug.
+      placeholder: |
+        1. Step 1...
+        2. Step 2...
+        3. Step 3...
+    validations:
+      required: true
 
-🛠  **Steps to reproduce the bug**
-Steps to reproduce the behavior:
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+      placeholder: Describe what should have happened.
+    validations:
+      required: true
 
-✅  **What did you expect to happen?**
-A clear and concise description of what you expected to happen.
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: What actually happened? Include error messages if applicable.
+      placeholder: Describe what happened.
+    validations:
+      required: true
 
-❌ **What happened?**
-A clear and concise description of what the bug is.
+  - type: textarea
+    attributes:
+      label: Screenshots & logs
+      description: Attach screenshots or log messages to help diagnose the issue.
+      placeholder: Drag and drop images or paste logs here.
 
-**Screenshots**
-If applicable, add screenshots to help explain the problem.
-
-**Additional context**
-Add any other context about the problem here e.g. your OS, Device or anything else?
+  - type: textarea
+    attributes:
+      label: Your environment
+      description: Provide details about your setup.
+      value: |
+        - Environment:

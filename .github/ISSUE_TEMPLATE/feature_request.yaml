@@ -9,29 +9,48 @@ body:
     attributes:
       value: |
         ## 🚀 Feature Request
-        Before submitting, please ensure that:
-        - You have searched for similar feature requests.
-        - You have considered alternative solutions.
-        - Your request clearly explains the benefit to users.
+        Please complete the following checklist and provide detailed information about your feature request.
 
-  - type: textarea
+  - type: checkboxes
     attributes:
-      label: Is your feature request related to a problem?
-      description: Provide a clear and concise description of the issue.
-      placeholder: "Example: I'm always frustrated when..."
+      label: Prerequisites
+      description: Please ensure you've completed these steps before submitting
+      options:
+        - label: I have checked the latest documentationand this feature doesn't exist
+          required: true
+        - label: I have searched for similar feature requests and found none
+          required: true
+        - label: I have linked to related issues or discussions in the description (if any exist)
+          required: false
+          
+  - type: dropdown
+    attributes:
+      label: Type of Improvement
+      description: What category does your feature request fall into?
+      options:
+        - Documentation Enhancement
+        - User Interface Improvement
+        - Performance Optimization
+        - New Functionality
+        - Developer Experience
+        - Other
     validations:
       required: true
 
   - type: textarea
     attributes:
-      label: Describe the solution you'd like
-      description: Clearly describe what you want to happen.
-      placeholder: "Explain the feature you’re suggesting."
+      label: Proposed Solution
+      description: Describe the solution you'd like to see implemented
+      placeholder: |
+        Please provide:
+        - Detailed description of the feature
+        - How it should work
+        - Expected user interaction
+        - Potential impact on existing features
+        
+        Examples:
+        - "Add a keyboard shortcut for..."
+        - "Implement auto-save functionality that..."
+        - "Create a new section in docs for..."
     validations:
       required: true
-
-  - type: textarea
-    attributes:
-      label: Describe alternatives you've considered
-      description: Mention any alternative solutions or features you've considered.
-      placeholder: "Are there other ways to achieve this?"

@@ -5,41 +5,60 @@ assignees: BethanyJep
 
 body:
   - type: textarea
+      attributes:
+        label: Buge Description
+        description: Provide a clear and concise description of the bug
+        placeholder: |
+          A clear and specific explanation of what the bug is. For example:
+          "The save button doesn't respond when clicked on the settings page"
+      validations: 
+        required: true
+  - type: textarea
     attributes:
       label: Steps to reproduce
-      description: List the steps to reproduce the bug.
+      description: Help us recreate the issue by providing detailed steps
       placeholder: |
-        1. Step 1...
-        2. Step 2...
-        3. Step 3...
+        1. Go to '...'
+        2. Click on '....'
+        3. Scroll down to '....'
+        4. See error '....'
+
+        Pro tip: Include specific details like:
+        - Which page/screen you were on
+        - What you clicked/typed
+        - What data you entered
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Expected behavior
-      description: What did you expect to happen?
-      placeholder: Describe what should have happened.
+      description: Describe what you expected to happen
+      placeholder: |
+        A clear and concise description of what you expected to happen. For example:
+        "I expected the save button to save my settings and show a success message"
     validations:
       required: true
 
   - type: textarea
     attributes:
       label: Actual behavior
-      description: What actually happened? Include error messages if applicable.
-      placeholder: Describe what happened.
+      description: What actually happened? Include screenshots and error messages if applicable
+      placeholder: |
+        Example:
+        "The page freezes and shows a spinning loader indefinitely"
+        "Getting error: 'Cannot read property of undefined'"
+
+        Tip: You can paste images directly in this field
     validations:
       required: true
-
-  - type: textarea
-    attributes:
-      label: Screenshots & logs
-      description: Attach screenshots or log messages to help diagnose the issue.
-      placeholder: Drag and drop images or paste logs here.
 
   - type: textarea
     attributes:
       label: Your environment
       description: Provide details about your setup.
       placeholder: |
-        - Environment:
+        - Operating System: [e.g., Windows 10, MacOS 12.1]
+        - Browser: [e.g., Chrome 98, Firefox 97]
+        - Version: [e.g., v1.2.3]
+        - Device: [e.g., Desktop, iPhone 13]

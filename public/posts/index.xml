@@ -4,22 +4,31 @@
     <title>Posts on bethanyjep</title>
     <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on bethanyjep</description>
-    <generator>Hugo -- 0.139.4</generator>
+    <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Mar 2025 06:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 06:30:17 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The in-betweens, before we continue</title>
+      <link>http://localhost:1313/posts/the-in-betweens-before-we-continue-1e7cc4931389806d82f9c997492af0a0/</link>
+      <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-in-betweens-before-we-continue-1e7cc4931389806d82f9c997492af0a0/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;I really threw this page away, huh!&lt;/p&gt;&lt;/blockquote&gt;
+&lt;h2 id=&#34;in-my-defense&#34;&gt;In my defense….&lt;/h2&gt;
+&lt;p&gt;I really hate being that person who&amp;rsquo;s always saying sorry always apologizing. I also hate being inconsistent&amp;hellip; but consistency keeps slipping through my fingers. To be fair, I’ve never truly been consistent.  Right now, I’m back to basics learning, re-learning, and trying to create again. And let me tell you: creating content is rough.&lt;/p&gt;
+&lt;p&gt;So far, I’ve managed to put out &lt;a href=&#34;https://abcdofai.substack.com/&#34;&gt;three newsletters&lt;/a&gt;, I’m on video three in my &lt;a href=&#34;https://www.youtube.com/@bethany-jep&#34;&gt;fun demo series&lt;/a&gt;, but I haven’t posted a single blog here since February. Or March since I deleted the last blog.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Life is Like Laundry — It Doesn’t Stop</title>
       <link>http://localhost:1313/posts/laundry-life/</link>
       <pubDate>Mon, 24 Mar 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/laundry-life/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;my not so pointless, rant 😅&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;my not so pointless, rant 😅&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;You remember those motivational speakers from back in the day? The ones who defined life for us and expected us to just &lt;em&gt;get it&lt;/em&gt;? Well, I expect you not just to get—but to &lt;strong&gt;relate&lt;/strong&gt; to—this opener:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;Life is a huge heap of laundry. It doesn’t stop. It doesn’t even pause.&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Life is a huge heap of laundry. It doesn’t stop. It doesn’t even pause.&lt;/strong&gt;&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;One day you&amp;rsquo;re washing, the next you&amp;rsquo;re folding, and before you know it—&lt;strong&gt;another pile of dirty clothes&lt;/strong&gt; is waiting for round two. The cycle never ends.&lt;/p&gt;</description>
     </item>
     <item>
@@ -28,8 +37,7 @@
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/github-models-intro/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
     </item>
     <item>
@@ -38,8 +46,7 @@
       <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/generative-ai-for-trainers/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;👩‍🏫 When a teacher gives you Kudos, you know teaching was always your calling!&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;👩‍🏫 When a teacher gives you Kudos, you know teaching was always your calling!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/Screenshot%202025-01-28%20193856.png?raw=true&#34; alt=&#34;Screenshot 2025-01-28 193856.png&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;I always find it so wholesome collaborating with &lt;a href=&#34;https://leap.microsoft.com/en-US/regions/emea/&#34;&gt;Microsoft LEAP&lt;/a&gt; because teaching is where my heart is.
@@ -53,8 +60,7 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
       <pubDate>Tue, 04 Feb 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/linked-or-locked-in/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;📶  and it’s basically the only Social media platform I use&amp;hellip;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;📶  and it’s basically the only Social media platform I use&amp;hellip;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;P.S. WhatsApp &amp;amp; Snapchat don’t count since they’re basically messaging apps, not social media.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Before you come at me with pitchforks, hear me out.&lt;/p&gt;
 &lt;p&gt;I did a social media audit, and let’s just say…it was bad. &lt;em&gt;Really&lt;/em&gt; bad. So bad that I can’t even share the results publicly—it’s that embarrassing. But the nature of my work requires me to be active on social media, because, well… my work can’t speak for itself.&lt;/p&gt;</description>
@@ -65,8 +71,7 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
       <pubDate>Mon, 03 Feb 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/foundry-live-edition/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty&lt;/p&gt;&lt;/blockquote&gt;
 &lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=AI8D7UPbdU4&#34;&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://img.youtube.com/vi/AI8D7UPbdU4/0.jpg&#34; alt=&#34;Video Title&#34;  /&gt;
 &lt;/a&gt;&lt;/p&gt;
@@ -78,8 +83,7 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
       <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/cptdug-meetup/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;⛵ The meetup with a view - &lt;a href=&#34;https://cptmsdug.dev/&#34;&gt;Cape Town Developer User Group&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;⛵ The meetup with a view - &lt;a href=&#34;https://cptmsdug.dev/&#34;&gt;Cape Town Developer User Group&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;Have you ever attended a meetup with the perfect view of the Atlantic Ocean? Speaking right next to where you board the ferry to the history-filled &lt;strong&gt;Robben Island&lt;/strong&gt;? Yeah, I never thought I would—but I did. And afterward, I took a boat ride to Robben Island to immerse myself in its history.&lt;/p&gt;
 &lt;h3 id=&#34;session-building-ai-solutions-in-azure-ai-foundry&#34;&gt;&lt;strong&gt;Session: Building AI Solutions in Azure AI Foundry&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_1410%20%281%29.jpeg?raw=true&#34; alt=&#34;&#34;  /&gt;
@@ -91,8 +95,7 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
       <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/aitour-joburg/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;🛠️ The city of the hustle and bustle - &lt;a href=&#34;https://aitour.microsoft.com/en-US/home&#34;&gt;AI Tour Joburg&lt;/a&gt;.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;🛠️ The city of the hustle and bustle - &lt;a href=&#34;https://aitour.microsoft.com/en-US/home&#34;&gt;AI Tour Joburg&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I know, I missed a post last week and the other. Life happened — I was confused, hurt, sad, and betrayed. Basically, adulting! One day, I’ll look back and laugh, but at the time, I was at my lowest. So, to make up for it, this week and the next few weeks we’re doubling up with two event recaps, some lessons from Robben Island, a new book I’m reading, and more.&lt;/p&gt;</description>
     </item>
     <item>
@@ -101,8 +104,7 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
       <pubDate>Mon, 13 Jan 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/aitour-bengaluru/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;💡 First speaking engagement 2025 in Bengaluru, India&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;💡 First speaking engagement 2025 in Bengaluru, India&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;It’s been a while since I’ve written an event recap — surprising, considering I spend so much time attending and speaking at conferences! Events are at the core of DevRel, where learning, sharing, and connecting happen in real-time. So, I’ve decided to make it a tradition: documenting my speaking engagements not only as a personal reflection but also as a resource for anyone interested in the topics I cover.&lt;/p&gt;</description>
     </item>
     <item>
@@ -111,8 +113,7 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
       <pubDate>Sun, 05 Jan 2025 16:30:17 +0000</pubDate>
       <guid>http://localhost:1313/posts/perfection/</guid>
       <description>&lt;blockquote&gt;
-&lt;p&gt;💡 What if the only way to achieve perfection is completing your own damn work?&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;p&gt;💡 What if the only way to achieve perfection is completing your own damn work?&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;For the longest time, I&amp;rsquo;ve been staring at blank pages. The idea of perfection in my head seems impossible to achieve in real life, leaving me frozen, unable to start. Time and again, I find myself struggling to take that first step.&lt;/p&gt;
 &lt;p&gt;My process always starts with endless planning. It begins with a spark—something lights up in my brain, like my idea for a newsletter. Then I create list after list: topics I want to cover, actions needed to bring the idea to life. Gradually, I designed the whole newsletter layout. Yet a year later, all I have is a &lt;a href=&#34;https://open.substack.com/pub/abcdofai/p/coming-soon?r=bfag4&amp;amp;utm_campaign=post&amp;amp;utm_medium=web&amp;amp;showWelcomeOnShare=false&#34;&gt;Substack&lt;/a&gt; page with nothing but a &amp;ldquo;launching soon&amp;rdquo; sign.&lt;/p&gt;</description>
     </item>

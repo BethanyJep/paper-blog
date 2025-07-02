@@ -65,8 +65,6 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-      - name: Check favicon
-        run: ls -la public/favicon.svg
 
   # Deployment job
   deploy:

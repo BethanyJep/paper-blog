@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Content-Creation on bethanyjep</title>
-    <link>https://bethany-jep.com/tags/content-creation/</link>
+    <link>http://localhost:1313/tags/content-creation/</link>
     <description>Recent content in Content-Creation on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 06:30:17 +0000</lastBuildDate>
-    <atom:link href="https://bethany-jep.com/tags/content-creation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/content-creation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The in-betweens, before we continue</title>
-      <link>https://bethany-jep.com/posts/the-in-betweens/</link>
+      <link>http://localhost:1313/posts/the-in-betweens/</link>
       <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/the-in-betweens/</guid>
+      <guid>http://localhost:1313/posts/the-in-betweens/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;I really threw this page away, huh!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;in-my-defense&#34;&gt;In my defense….&lt;/h2&gt;
@@ -21,10 +21,10 @@
     </item>
     <item>
       <title>What if perfection is in completion?</title>
-      <link>https://bethany-jep.com/posts/perfection/</link>
+      <link>http://localhost:1313/posts/perfection/</link>
       <pubDate>Sun, 05 Jan 2025 16:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/perfection/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/life%20perfection.png&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/perfection/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/life%20perfection.png&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;💡 What if the only way to achieve perfection is completing your own damn work?&lt;/p&gt;&lt;/blockquote&gt;

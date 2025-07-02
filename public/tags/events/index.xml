@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Events on bethanyjep</title>
-    <link>http://localhost:1313/tags/events/</link>
+    <link>https://bethany-jep.com/tags/events/</link>
     <description>Recent content in Events on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Jan 2025 06:30:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bethany-jep.com/tags/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Microsoft AI Tour Johannesburg</title>
-      <link>http://localhost:1313/posts/aitour-joburg/</link>
+      <link>https://bethany-jep.com/posts/aitour-joburg/</link>
       <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/aitour-joburg/</guid>
+      <guid>https://bethany-jep.com/posts/aitour-joburg/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠️ The city of the hustle and bustle - &lt;a href=&#34;https://aitour.microsoft.com/en-US/home&#34;&gt;AI Tour Joburg&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I know, I missed a post last week and the other. Life happened   I was confused, hurt, sad, and betrayed. Basically, adulting! One day, I’ll look back and laugh, but at the time, I was at my lowest. So, to make up for it, this week and the next few weeks we’re doubling up with two event recaps, some lessons from Robben Island, a new book I’m reading, and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft AI Tour Bengaluru</title>
-      <link>http://localhost:1313/posts/aitour-bengaluru/</link>
+      <link>https://bethany-jep.com/posts/aitour-bengaluru/</link>
       <pubDate>Mon, 13 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/aitour-bengaluru/</guid>
+      <guid>https://bethany-jep.com/posts/aitour-bengaluru/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;💡 First speaking engagement 2025 in Bengaluru, India&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;It’s been a while since I’ve written an event recap surprising, considering I spend so much time attending and speaking at conferences! Events are at the core of DevRel, where learning, sharing, and connecting happen in real-time. So, I’ve decided to make it a tradition: documenting my speaking engagements not only as a personal reflection but also as a resource for anyone interested in the topics I cover.&lt;/p&gt;</description>

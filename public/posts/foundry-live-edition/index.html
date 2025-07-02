@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
+<meta name="robots" content="index, follow">
 <title>Azure AI Foundry - Live edition | bethanyjep</title>
 <meta name="keywords" content="AI, Azure AI Foundry, Tech">
 <meta name="description" content="an overview of how you can build AI solutions with Azure AI Foundry and Prompty">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/posts/foundry-live-edition/">
+<link rel="canonical" href="https://bethany-jep.com/posts/foundry-live-edition/">
 <link crossorigin="anonymous" href="/assets/css/stylesheet.5533ad552425f10f2b693ec30dd49f53d0ad01487019141bb4577aef189972c2.css" integrity="sha256-VTOtVSQl8Q8raT7DDdSfU9CtAUhwGRQbtFd67xiZcsI=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.svg">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/safari-pinned-tab.svg">
+<link rel="icon" href="https://bethany-jep.com/favicon.svg">
+<link rel="icon" type="image/png" sizes="16x16" href="https://bethany-jep.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://bethany-jep.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://bethany-jep.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://bethany-jep.com/safari-pinned-tab.svg">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/posts/foundry-live-edition/">
+<link rel="alternate" hreflang="en" href="https://bethany-jep.com/posts/foundry-live-edition/">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,7 +55,67 @@
         }
 
     </style>
-</noscript>
+</noscript><meta property="og:title" content="Azure AI Foundry - Live edition" />
+<meta property="og:description" content="an overview of how you can build AI solutions with Azure AI Foundry and Prompty" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://bethany-jep.com/posts/foundry-live-edition/" /><meta property="article:section" content="posts" />
+<meta property="article:published_time" content="2025-02-03T06:30:17+00:00" />
+<meta property="article:modified_time" content="2025-02-03T06:30:17+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Azure AI Foundry - Live edition"/>
+<meta name="twitter:description" content="an overview of how you can build AI solutions with Azure AI Foundry and Prompty"/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Posts",
+      "item": "https://bethany-jep.com/posts/"
+    }, 
+    {
+      "@type": "ListItem",
+      "position":  2 ,
+      "name": "Azure AI Foundry - Live edition",
+      "item": "https://bethany-jep.com/posts/foundry-live-edition/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Azure AI Foundry - Live edition",
+  "name": "Azure AI Foundry - Live edition",
+  "description": "an overview of how you can build AI solutions with Azure AI Foundry and Prompty",
+  "keywords": [
+    "AI", "Azure AI Foundry", "Tech"
+  ],
+  "articleBody": " 🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty\nHave you ever had that warm sensation in your belly where you feel like this is what all the hard work was for? For me, it’s when I receive heartwarming feedback from participants in a session I’m moderating. That moment when I know I’ve made an impact on someone’s journey—it makes it all worth it. And yes, I always treat myself afterward. Not for the recognition, but for the impact.\nYou might be wondering, what the hell is this girl on about?\nWell, today, during my first online session (after a time zone mix-up, oops), I received the most wholesome comment. And don’t I feel like I’m on cloud nine? Okay, I know you didn’t ask, but here’s the feedback I got:\n🗨️ The Microsoft learning challenge has been very key in preparing me for the series presentations and understanding the Azure landscape\nTime Zones 😩 Before we dive into the session itself, let’s address the elephant in the room: time zones.\nThe session was postponed for over a week because I miscalculated the hours—did +1 instead of -1 (rookie mistake). I even posted about it, and a friend commented that these are the kinds of problems they wish they had. That made me feel a bit better after the initial panic of canceling a session over a simple miscalculation.\nI was mentally beating myself up over it, but the reassurances from my teammates got me back on track.\nSo, next time your brain fails you because of time zones—don’t stress. It happens! And sometimes, the only solution is to not beat yourself up over it.\nLights, camera, live!! What did I talk about today? Azure AI Foundry. Yeah, it’s basically what I always talk about! But this time, aside from the end-to-end AI Foundry journey, I also dived into Prompty. And yes, you can watch the recording below:\nLet’s talk Prompty, promptly… Since I’ve now become the unofficial Azure AI Foundry spokesperson, let’s shift gears a bit and talk about Prompty—what it is and why you should care.\nI see Prompty as a bridge beyond simple API calls when working with models—allowing you to create a custom model playground directly in your Visual Studio Code environment.\nPrompty is made up of three main parts:\nSpecification (.prompty file) - This is the Prompty file format which is markdown with some front matter Tooling (VS Code Extension) – where it integrates essential features such as syntax highlighting and more Runtime (Prompty to Code) - enables you to convert your Prompty file to code either Python, C#, Sematic Kernel or Langchain with just one click. Yes, you’ve read it right, just one click. An illustration I made is as follows:\n👉 Try it out today: prompty.ai\nAnd make sure to check out the docs, I’m an active contributor, and I’d love your feedback as I work on making them even better!\n🎥 P.S. I’m working on an Intro to Prompty video series—stay tuned!\n",
+  "wordCount" : "504",
+  "inLanguage": "en",
+  "datePublished": "2025-02-03T06:30:17Z",
+  "dateModified": "2025-02-03T06:30:17Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://bethany-jep.com/posts/foundry-live-edition/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "bethanyjep",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://bethany-jep.com/favicon.svg"
+    }
+  }
+}
+</script>
 </head>
 
 <body class="" id="top">
@@ -73,7 +133,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="bethanyjep (Alt + H)">bethanyjep</a>
+            <a href="https://bethany-jep.com/" accesskey="h" title="bethanyjep (Alt + H)">bethanyjep</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -99,17 +159,17 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/archives/" title="Archives">
+                <a href="https://bethany-jep.com/archives/" title="Archives">
                     <span>Archives</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
+                <a href="https://bethany-jep.com/search/" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/tags/" title="Tags">
+                <a href="https://bethany-jep.com/tags/" title="Tags">
                     <span>Tags</span>
                 </a>
             </li>
@@ -171,16 +231,16 @@
 
   <footer class="post-footer">
     <ul class="post-tags">
-      <li><a href="http://localhost:1313/tags/ai/">AI</a></li>
-      <li><a href="http://localhost:1313/tags/azure-ai-foundry/">Azure AI Foundry</a></li>
-      <li><a href="http://localhost:1313/tags/tech/">Tech</a></li>
+      <li><a href="https://bethany-jep.com/tags/ai/">AI</a></li>
+      <li><a href="https://bethany-jep.com/tags/azure-ai-foundry/">Azure AI Foundry</a></li>
+      <li><a href="https://bethany-jep.com/tags/tech/">Tech</a></li>
     </ul>
   </footer>
 </article>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2025 <a href="http://localhost:1313/">bethanyjep</a></span> · 
+        <span>&copy; 2025 <a href="https://bethany-jep.com/">bethanyjep</a></span> · 
 
     <span>
         Powered by

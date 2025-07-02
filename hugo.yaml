@@ -35,3 +35,9 @@ menu:
     - name: Tags
       url: /tags/
       weight: 15
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON

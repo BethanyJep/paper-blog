@@ -1,7 +1,9 @@
 +++
 title = 'Azure AI Foundry - Live edition'
 date = 2025-02-03T06:30:17Z
+description = "an overview of how you can build AI solutions with Azure AI Foundry and Prompty"
 draft = false
+tags = ["AI", "Azure AI Foundry", "Tech"]
 +++
 
 > 🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty

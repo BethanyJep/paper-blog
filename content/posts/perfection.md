@@ -2,6 +2,7 @@
 title = 'What if perfection is in completion?'
 date = 2025-01-05T16:30:17Z
 draft = false
+tags = ["personal", "reflection", "productivity", "content-creation"]
 +++
 
 ![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20perfection.png?raw=true)

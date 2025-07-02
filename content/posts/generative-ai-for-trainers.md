@@ -2,6 +2,7 @@
 title = 'Generative AI Train the Trainer Session - Microsoft LEAP'
 date = 2025-02-10T06:30:17Z
 draft = false
+tags = ["AI", "training", "Microsoft", "education", "teaching"]
 +++
 
 > 👩‍🏫 When a teacher gives you Kudos, you know teaching was always your calling!

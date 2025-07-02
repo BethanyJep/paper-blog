@@ -2,6 +2,7 @@
 title = 'Learnings on Money'
 date = 2024-10-02T16:30:17Z
 draft = true
+tags = ["personal", "finances"]
 +++
 
 ![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20money.png?raw=true)

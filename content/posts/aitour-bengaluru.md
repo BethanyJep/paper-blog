@@ -2,6 +2,7 @@
 title = 'Microsoft AI Tour Bengaluru'
 date = 2025-01-13T06:30:17Z
 draft = false
+tags = ["events", "speaking", "AI", "Microsoft", "travel"]
 +++
 
 > 💡 First speaking engagement 2025 in Bengaluru, India

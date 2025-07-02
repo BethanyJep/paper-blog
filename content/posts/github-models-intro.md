@@ -2,6 +2,7 @@
 title = 'Explore and Evaluate AI  models for free with GitHub Models'
 date = 2025-02-24T06:30:17Z
 draft = false
+tags = ["AI", "GitHub", "tech", "workshop"]
 +++
 
 > 🛠 I have the workshop; you just need to try it out and tell me what you think!

@@ -1,7 +1,8 @@
 +++
-title = 'Life is Like Laundry, It Doesn’t Stop'
+title = 'Life is like Laundry, it does not stop'
 date = 2025-03-24T06:30:17Z
 draft = false
+tags = ["personal", "reflection", "life-lessons"]
 +++
 
 ![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20laundry.png?raw=true)

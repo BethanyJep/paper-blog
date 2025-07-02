@@ -2,6 +2,7 @@
 title = 'Microsoft AI Tour Johannesburg'
 date = 2025-01-26T06:30:17Z
 draft = false
+tags = ["events", "speaking", "AI", "Microsoft", "travel"]
 +++
 > 🛠️ The city of the hustle and bustle - [AI Tour Joburg](https://aitour.microsoft.com/en-US/home).
 > 

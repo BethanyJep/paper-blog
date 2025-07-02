@@ -1,5 +1,5 @@
 +++
-title = 'Life is Like Laundry — It Doesn’t Stop'
+title = 'Life is Like Laundry, It Doesn’t Stop'
 date = 2025-03-24T06:30:17Z
 draft = false
 +++

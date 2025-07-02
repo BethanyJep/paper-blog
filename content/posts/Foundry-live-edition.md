@@ -51,7 +51,7 @@ Prompty is made up of three main parts:
 
 An illustration I made is as follows:
 
-![](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/imgpsh_fullsize_anim.jpg?raw=true)
+![Foundry event](/assets/images/imgpsh_fullsize_anim.jpg)
 
 👉 **Try it out today:** [prompty.ai](https://prompty.ai/)
 

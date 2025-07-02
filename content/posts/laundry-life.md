@@ -5,7 +5,7 @@ draft = false
 tags = ["personal", "reflection", "life-lessons"]
 +++
 
-![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20laundry.png?raw=true)
+![blog banner](/assets/images/life%20laundry.png)
 
 > my not so pointless, rant 😅
 > 

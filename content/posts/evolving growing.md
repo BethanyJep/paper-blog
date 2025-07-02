@@ -5,7 +5,7 @@ draft = false
 tags = ["personal", "reflection", "growth", "life-journey"]
 +++
 
-![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20evolving.png?raw=true)
+![blog banner](/assets/images/life%20evolving.png)
 
 > the endless desire to fix everything or run away
 

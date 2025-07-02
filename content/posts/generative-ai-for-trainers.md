@@ -7,7 +7,7 @@ tags = ["AI", "training", "Microsoft", "education", "teaching"]
 
 > 👩‍🏫 When a teacher gives you Kudos, you know teaching was always your calling!
 
-![Screenshot 2025-01-28 193856.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/Screenshot%202025-01-28%20193856.png?raw=true)
+![Workshop screenshot](/assets/images/Screenshot%202025-01-28%20193856.png)
 
 I always find it so wholesome collaborating with [Microsoft LEAP](https://leap.microsoft.com/en-US/regions/emea/) because teaching is where my heart is.
 While getting kudos is always nice, the real impact comes from seeing people's faces light up as they discover something new that alone makes it all worth it.

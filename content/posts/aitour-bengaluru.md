@@ -16,7 +16,7 @@ The year kicked off on an exciting note with me speaking at [AI Tour, Bengaluru]
 Over the past few months, I’ve been working behind the scenes on a beginner-level workshop designed to introduce interaction with multimodal models. This workshop is tailored for complete beginners, making it accessible to both developers and business decision-makers alike. The AI Tour in Bengaluru gave me the perfect opportunity to deliver it live for the very first time an exciting milestone that brought months of preparation to life.
 The workshop experience was fantastic at least until we ran into WiFi issues. What started as a planned 15-minute introductory session quickly evolved into a hands-on session that stretched over an hour. And I did it *twice* 😓. The key lesson I walked away with? If someone offers to help lighten your load, just say *yes*!
 
-![presenting the workshop at the tour](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/AI_Tour_Bengaluru_2025_01_07_0018.JPG?raw=true)
+![presenting the workshop at the tour](/assets/images/AI_Tour_Bengaluru_2025_01_07_0018.JPG)
 
 If you are interested in learning more about the workshop, check it out at: https://aka.ms/aitour/wrk540
 
@@ -30,7 +30,7 @@ I’ve always appreciated how Microsoft delivers keynotes at major events a cris
 
 My other highlight for the keynote was the demo by the GitHub team on [Copilot workspaces](https://copilot-workspace.githubnext.com/). Copilot Workspaces enables you to brainstorm, test and deploy your copilot changes seamlessly. It takes is multi-agent approach where you can brainstorm on any changes, validate and test them and when done, share with your teammates.
 
-![Keynote by Satya Nandela](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_5100.jpg?raw=true)
+![Keynote by Satya Nandela](/assets/images/IMG_5100.jpg)
 
 You can watch the keynote at: https://www.youtube.com/live/bYgP-tC5BFU?si=Sz6g0zYewbs82sUt
 
@@ -40,7 +40,7 @@ Yes, the African nature to always say yes and step in when needed meant I had to
 
 The session is fascinating for me because having AI on edge means everyone gets access to Generative AI capabilities regardless of device and can deploy these models offline. Opening up a world of possibilities for accessibility and flexibility.
 
-![upcoming session chart](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/AI_Tour_Bengaluru_2025_01_07_0090.JPG?raw=true)
+![upcoming session chart](/assets/images/AI_Tour_Bengaluru_2025_01_07_0090.JPG)
 
 You can learn more about the session and get the resources at https://aka.ms/aitour/brk453
 
@@ -48,7 +48,7 @@ You can learn more about the session and get the resources at https://aka.ms/ait
 
 ### What more….
 
-![glass house at Lalbagh, India](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/IMG_5056.jpg?raw=true)
+![glass house at Lalbagh, India](/assets/images/IMG_5056.jpg)
 
 In addition to the AI Tour, I had the opportunity to visit the Microsoft offices in Bengaluru and connect with various teammates. As part of a global team, I truly value these in-person interactions, as we’re rarely in the same time zone or location. India was absolutely beautiful, and I’m already looking forward to my next visit.
 

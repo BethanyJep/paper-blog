@@ -9,7 +9,7 @@ tags = ["AI", "GitHub", "tech", "workshop"]
 
 I recently converted my workshop from Azure AI to [GitHub Models](https://github.com/marketplace/models), and it will be globally used as [introductory content](https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot) for the [Global AI Bootcamps](https://globalai.community/bootcamp) all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using [GitHub Models](https://github.com/marketplace/models) is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.
 
-![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(11).png?raw=true)
+![GitHub Models homepage](/assets/images/image%20(11).png)
 
 ## Prompt Engineering
 
@@ -18,27 +18,27 @@ I recently converted my workshop from Azure AI to [GitHub Models](https://github
 
 Prompt engineering is the art of creating a prompt to fine tune the model’s response. In GitHub Models, you can interact with models using both text and multimodal prompts. An example is the prompt below to generate marketing message for the image uploaded.
 
-![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(5).png?raw=true)
+![Model selection](/assets/images/image%20(5).png)
 
 Besides interacting with the models, you can tweak the different parameters and add a system message to nourish your interactions. In the next example, I have added a System Message, and you can see the difference in the response:
 
-![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(6).png?raw=true)
+![Model playground](/assets/images/image%20(6).png)
 
 On the top right, you will find **Prompt Editor,** where you can iterate through prompts and ensure your prompts are finely tuned, see the example below:
 
-![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(7).png?raw=true)
+![Code generation](/assets/images/image%20(7).png)
 
 ## Compare models
 
 Before choosing a model, you’ll want to compare their outputs to find the best fit. You can do that in GitHub Models using the compare feature. Giving you details such as input tokens, latency and output tokens to be able to make a decision on the model to use:
 
-![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(8).png?raw=true)
+![API integration](/assets/images/image%20(8).png)
 
 ## From Playground to Code
 
 Now that we have explored the components of GitHub Models on the playground, let’s take it up a notch can we generate more lyrics or craft eye-catching marketing copy using code? To move our Lyrics generator, Lyrics Muse from playground to code, we use the **get API key** button and follow the steps to create a personal access token, install dependencies and run our code.
 
-![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(9).png?raw=true)
+![Rate limits](/assets/images/image%20(9).png)
 
 Once we open up our Codespace, we will need to:
 
@@ -48,7 +48,7 @@ Once we open up our Codespace, we will need to:
 - Update the user question to: `I want to write an upbeat, energetic pop song about breaking free from fear and embracing self-confidence.`
 - Run the file to generate music lyrics as shown below.
 
-![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(10).png?raw=true)
+![Usage dashboard](/assets/images/image%20(10).png)
 
 ## Go forth and conquer!
 

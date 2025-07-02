@@ -5,6 +5,6 @@ draft = true
 tags = ["personal", "finances"]
 +++
 
-![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20money.png?raw=true)
+![blog banner](/assets/images/life%20money.png)
 
 I am no expert when it comes to finances but I've been doing this long enough that my friends believe I can share some nuggets. To start of, the main and greatest lesson I have learnt is personal finance is **personal.** Although you may have similiarities with your family, neighbours or even friends, when it comes to money - experiences are unique and varied.

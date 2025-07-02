@@ -5,7 +5,7 @@ draft = false
 tags = ["personal", "reflection", "productivity", "content-creation"]
 +++
 
-![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20perfection.png?raw=true)
+![blog banner](/assets/images/life%20perfection.png)
 
 > 💡 What if the only way to achieve perfection is completing your own damn work?
 
@@ -13,7 +13,7 @@ For the longest time, I've been staring at blank pages. The idea of perfection i
 
 My process always starts with endless planning. It begins with a spark something lights up in my brain, like my idea for a newsletter. Then I create list after list: topics I want to cover, actions needed to bring the idea to life. Gradually, I designed the whole newsletter layout. Yet a year later, all I have is a [Substack](https://open.substack.com/pub/abcdofai/p/coming-soon?r=bfag4&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) page with nothing but a "launching soon" sign.
 
-![IMG_1221.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/newsletter-vb.jpg?raw=true)
+![Newsletter image](/assets/images/newsletter-vb.jpg)
 
 The pattern repeats endlessly. I dream up the perfect AI workshop but never bring it to life. I buy a domain for a blog but end up with nothing more than an empty "About" page for months. Round and round this cycle continues.
 
@@ -27,14 +27,14 @@ I've held myself to the same harsh judgment, which has kept me from publishing e
 
 And now, as I log off after this extended rant, I hold onto one small victory a sense of completion. A recent trip felt like the perfect opportunity to finally tackle my vision board. So, what did I do? I fired up Canva, categorized my goals, and jotted them down mid-flight. During my layover, I revisited Canva to transform those written goals into a visual representation. The result? Less than spectacular but it was a start.
 
-![IMG_1222.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/initial-vb.png?raw=true)
+![Initial vision board](/assets/images/initial-vb.png)
 
 I wanted to update my wallpaper with my first version of the vision board, but it was not quite right. When I arrived at my destination, I thought, why not give it another shot? This time, I turned to Pinterest. Ever tried making a collage on Pinterest? Neither had I but that didn’t stop me. Perfection wasn’t the goal; finishing was. Two hours later, I had a revamped vision board and I absolutely loved it!
 
-![IMG_1219.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/final-vb.jpg?raw=true)
+![Final vision board](/assets/images/final-vb.jpg)
 
 It felt like digital scrapbooking mapping out my plans for the year sparked a creative streak I can’t seem to shake. Now, I just want to keep going, building, and creating. I know you didn’t ask, but doesn’t my wallpaper look awesome?
 
-![IMG_1223.jpeg](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/wallpaper-vb.png?raw=true)
+![Wallpaper vision board](/assets/images/wallpaper-vb.png)
 
 As I step into this year, my mantra is simple: *What if perfection lies in completion?* I’m shifting my focus from endless planning to actually finishing what I start. Maybe this will be the year I finally launch my newsletter, ship products, write a book, create more, and build a brand. And who knows maybe it’s your year too!

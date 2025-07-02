@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tech on bethanyjep</title>
-    <link>http://localhost:57090/tags/tech/</link>
+    <link>https://bethany-jep.com/tags/tech/</link>
     <description>Recent content in Tech on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 May 2025 06:30:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57090/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bethany-jep.com/tags/tech/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The in-betweens, before we continue</title>
-      <link>http://localhost:57090/posts/the-in-betweens/</link>
+      <link>https://bethany-jep.com/posts/the-in-betweens/</link>
       <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:57090/posts/the-in-betweens/</guid>
+      <guid>https://bethany-jep.com/posts/the-in-betweens/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;I really threw this page away, huh!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;in-my-defense&#34;&gt;In my defense….&lt;/h2&gt;
@@ -21,18 +21,18 @@
     </item>
     <item>
       <title>Explore and Evaluate AI  models for free with GitHub Models</title>
-      <link>http://localhost:57090/posts/github-models-intro/</link>
+      <link>https://bethany-jep.com/posts/github-models-intro/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:57090/posts/github-models-intro/</guid>
+      <guid>https://bethany-jep.com/posts/github-models-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Azure AI Foundry - Live edition</title>
-      <link>http://localhost:57090/posts/foundry-live-edition/</link>
+      <link>https://bethany-jep.com/posts/foundry-live-edition/</link>
       <pubDate>Mon, 03 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:57090/posts/foundry-live-edition/</guid>
+      <guid>https://bethany-jep.com/posts/foundry-live-edition/</guid>
       <description>an overview of how you can build AI solutions with Azure AI Foundry and Prompty</description>
     </item>
   </channel>

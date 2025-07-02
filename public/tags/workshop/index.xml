@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Workshop on bethanyjep</title>
-    <link>http://localhost:57090/tags/workshop/</link>
+    <link>https://bethany-jep.com/tags/workshop/</link>
     <description>Recent content in Workshop on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 06:30:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:57090/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bethany-jep.com/tags/workshop/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explore and Evaluate AI  models for free with GitHub Models</title>
-      <link>http://localhost:57090/posts/github-models-intro/</link>
+      <link>https://bethany-jep.com/posts/github-models-intro/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:57090/posts/github-models-intro/</guid>
+      <guid>https://bethany-jep.com/posts/github-models-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>

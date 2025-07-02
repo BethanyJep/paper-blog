@@ -104,12 +104,6 @@
     <loc>http://localhost:1313/tags/speaking/</loc>
     <lastmod>2025-01-31T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/ai-for-personal-growth/</loc>
-    <lastmod>2025-01-30T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/productivity/</loc>
-    <lastmod>2025-01-30T06:30:17+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/events/</loc>
     <lastmod>2025-01-26T06:30:17+00:00</lastmod>
   </url><url>
@@ -122,14 +116,11 @@
     <loc>http://localhost:1313/posts/aitour-bengaluru/</loc>
     <lastmod>2025-01-13T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/perfection/</loc>
+    <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2025-01-05T16:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/finances/</loc>
-    <lastmod>2024-10-02T16:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/learnings-on-money/</loc>
-    <lastmod>2024-10-02T16:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/posts/perfection/</loc>
+    <lastmod>2025-01-05T16:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/introduction/</loc>
     <lastmod>2024-10-02T07:06:31+00:00</lastmod>

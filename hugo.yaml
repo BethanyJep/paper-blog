@@ -17,6 +17,7 @@ params:
   assets:
     css:
       - "css/custom.css"
+    favicon: "/favicon.svg"
   socialIcons:
     - name: "github"
       url: "https://github.com/bethanyjep"

@@ -14,6 +14,9 @@ params:
       - Currently, I'm diving into African Literature, Psychology, AI, and fiction. 
 
       - Click here to subscribe to my Newsletter: [the abcd of ai.](https://abcdofai.substack.com/)
+  assets:
+    css:
+      - "css/custom.css"
   socialIcons:
     - name: "github"
       url: "https://github.com/bethanyjep"

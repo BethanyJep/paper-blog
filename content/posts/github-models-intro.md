@@ -35,7 +35,7 @@ Before choosing a model, you’ll want to compare their outputs to find the best
 
 ## From Playground to Code
 
-Now that we have explored the components of GitHub Models on the playground, let’s take it up a notch—can we generate more lyrics or craft eye-catching marketing copy using code? To move our Lyrics generator, Lyrics Muse from playground to code, we use the **get API key** button and follow the steps to create a personal access token, install dependencies and run our code.
+Now that we have explored the components of GitHub Models on the playground, let’s take it up a notch can we generate more lyrics or craft eye-catching marketing copy using code? To move our Lyrics generator, Lyrics Muse from playground to code, we use the **get API key** button and follow the steps to create a personal access token, install dependencies and run our code.
 
 ![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(9).png?raw=true)
 

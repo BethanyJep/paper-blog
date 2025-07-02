@@ -49,7 +49,7 @@ Prompty is made up of three main parts:
 
 - **Specification (.prompty file)** - This is the Prompty file format which is markdown with some front matter
 - **Tooling (VS Code Extension)** – where it integrates essential features such as syntax highlighting and more
-- **Runtime (Prompty to Code)** - enables you to convert your Prompty file to code either Python, C#, Sematic Kernel or Langchain with just one click. Yes, you’ve read it right - just one click.
+- **Runtime (Prompty to Code)** - enables you to convert your Prompty file to code either Python, C#, Sematic Kernel or Langchain with just one click. Yes, you’ve read it right, just one click.
 
 An illustration I made is as follows:
 
@@ -57,7 +57,7 @@ An illustration I made is as follows:
 
 👉 **Try it out today:** [prompty.ai](https://prompty.ai/)
 
-And make sure to check out the **docs**—I’m an **active contributor**, and I’d love your feedback as I work on making them even better!
+And make sure to check out the **docs**, I’m an **active contributor**, and I’d love your feedback as I work on making them even better!
 
 > 🎥 P.S.  I’m working on an **Intro to Prompty** video series—stay tuned!
 >

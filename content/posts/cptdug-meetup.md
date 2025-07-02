@@ -4,10 +4,10 @@ date = 2025-01-31T06:30:17Z
 draft = false
 +++
 
-> ⛵ The meetup with a view - [Cape Town Developer User Group](https://cptmsdug.dev/).
+> ⛵ The meetup with a view [Cape Town Developer User Group](https://cptmsdug.dev/).
 > 
 
-Have you ever attended a meetup with the perfect view of the Atlantic Ocean? Speaking right next to where you board the ferry to the history-filled **Robben Island**? Yeah, I never thought I would—but I did. And afterward, I took a boat ride to Robben Island to immerse myself in its history.
+Have you ever attended a meetup with the perfect view of the Atlantic Ocean? Speaking right next to where you board the ferry to the history filled **Robben Island**? Yeah, I never thought I would—but I did. And afterward, I took a boat ride to Robben Island to immerse myself in its history.
 
 ### **Session: Building AI Solutions in Azure AI Foundry**
 
@@ -24,9 +24,9 @@ RAG is a technique that enhances LLM responses by incorporating your own data. H
 ![image.png](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/image%20(2).png?raw=true)
 
 - **Data Sourcing and Formatting:** Collect and store your data in one location.
-    - Depending on its size, you may need to break it into smaller **chunks**—a process called **chunking.**
+    - Depending on its size, you may need to break it into smaller **chunks** a process called **chunking.**
     - To make the data understandable for the model, it must be converted into a numerical format, known as **vectorization.**
-    - Once vectorized, a **search index** makes the data easily searchable—just like a library catalog.
+    - Once vectorized, a **search index** makes the data easily searchable just like a library catalog.
     - Finally, to ensure relevant results, the retrieved data is **ranked** based on importance.
 - **Retrieval:** When a user asks a question, the app searches the database for relevant information.
 - **Augmentation:** The retrieved data is added to the prompt to enhance the response.

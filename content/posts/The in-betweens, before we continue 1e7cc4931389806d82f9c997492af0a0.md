@@ -9,7 +9,7 @@ draft = false
 
 ## In my defense….
 
-I really hate being that person who's always saying sorry always apologizing. I also hate being inconsistent... but consistency keeps slipping through my fingers. To be fair, I’ve never truly been consistent.  Right now, I’m back to basics learning, re-learning, and trying to create again. And let me tell you: creating content is rough.
+I really hate being that person who's always saying sorry always apologizing. I also hate being inconsistent...but consistency keeps slipping through my fingers. To be fair, I’ve never truly been consistent.  Right now, I’m back to basics learning, re-learning, and trying to create again. And let me tell you: creating content is rough.
 
 So far, I’ve managed to put out [three newsletters](https://abcdofai.substack.com/), I’m on video three in my [fun demo series](https://www.youtube.com/@bethany-jep), but I haven’t posted a single blog here since February. Or March since I deleted the last blog.
 

@@ -6,14 +6,14 @@ draft = false
 
 > 💡 First speaking engagement 2025 in Bengaluru, India
 
-It’s been a while since I’ve written an event recap — surprising, considering I spend so much time attending and speaking at conferences! Events are at the core of DevRel, where learning, sharing, and connecting happen in real-time. So, I’ve decided to make it a tradition: documenting my speaking engagements not only as a personal reflection but also as a resource for anyone interested in the topics I cover.
+It’s been a while since I’ve written an event recap surprising, considering I spend so much time attending and speaking at conferences! Events are at the core of DevRel, where learning, sharing, and connecting happen in real-time. So, I’ve decided to make it a tradition: documenting my speaking engagements not only as a personal reflection but also as a resource for anyone interested in the topics I cover.
 
-The year kicked off on an exciting note with me speaking at [AI Tour, Bengaluru](https://aitour.microsoft.com/en-US/Bengaluru). I had a fully packed day, filled with workshops and wrapped up with a breakout session of my own. With such a full schedule, I didn’t have much time to explore other talks, but I did catch the keynote — and it was an absolute delight.
+The year kicked off on an exciting note with me speaking at [AI Tour, Bengaluru](https://aitour.microsoft.com/en-US/Bengaluru). I had a fully packed day, filled with workshops and wrapped up with a breakout session of my own. With such a full schedule, I didn’t have much time to explore other talks, but I did catch the keynote and it was an absolute delight.
 
 ### Workshop (s) - Interacting with Multimodal Models on Azure AI Foundry
 
-Over the past few months, I’ve been working behind the scenes on a beginner-level workshop designed to introduce interaction with multimodal models. This workshop is tailored for complete beginners, making it accessible to both developers and business decision-makers alike. The AI Tour in Bengaluru gave me the perfect opportunity to deliver it live for the very first time — an exciting milestone that brought months of preparation to life.
-The workshop experience was fantastic — at least until we ran into WiFi issues. What started as a planned 15-minute introductory session quickly evolved into a hands-on session that stretched over an hour. And I did it *twice* 😓. The key lesson I walked away with? If someone offers to help lighten your load, just say *yes*!
+Over the past few months, I’ve been working behind the scenes on a beginner-level workshop designed to introduce interaction with multimodal models. This workshop is tailored for complete beginners, making it accessible to both developers and business decision-makers alike. The AI Tour in Bengaluru gave me the perfect opportunity to deliver it live for the very first time an exciting milestone that brought months of preparation to life.
+The workshop experience was fantastic at least until we ran into WiFi issues. What started as a planned 15-minute introductory session quickly evolved into a hands-on session that stretched over an hour. And I did it *twice* 😓. The key lesson I walked away with? If someone offers to help lighten your load, just say *yes*!
 
 ![presenting the workshop at the tour](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/AI_Tour_Bengaluru_2025_01_07_0018.JPG?raw=true)
 
@@ -21,7 +21,7 @@ If you are interested in learning more about the workshop, check it out at: http
 
 ### Keynote: Leading in the new age of AI
 
-I’ve always appreciated how Microsoft delivers keynotes at major events — a crisp 30-minute overview packed with demos and exciting announcements. This event was no exception. The keynote room was filled to capacity. And the highlight for me? The insightful tidbits shared by Satya Nadella!
+I’ve always appreciated how Microsoft delivers keynotes at major events a crisp 30-minute overview packed with demos and exciting announcements. This event was no exception. The keynote room was filled to capacity. And the highlight for me? The insightful tidbits shared by Satya Nadella!
 
 - Thinking with AI, working with teammates
 - Every time you improve healthcare efficiency, you improve the economy
@@ -35,7 +35,7 @@ You can watch the keynote at: https://www.youtube.com/live/bYgP-tC5BFU?si=Sz6g0z
 
 ### Breakout: Explore cutting edge models, SLMs, LLMs and more…
 
-Yes, the African nature to always say yes and step in when needed meant I had to do an extra session as my teammate was unavailable. I had previously done this session back at [AI Tour Sydney](https://aitour.microsoft.com/en-US/sydney). The session begins with a comparison between SLMs (Small Language Models) and LLMs (Large Language Models), followed by a dive into SLMOps — the end-to-end process of customizing and deploying your SLMs. The focus is primarily on using tools like [ONNX](https://onnx.ai/) for inferencing and [Microsoft Olive](https://github.com/microsoft/OLive) (ONNX Live) to customize and deploy your models.
+Yes, the African nature to always say yes and step in when needed meant I had to do an extra session as my teammate was unavailable. I had previously done this session back at [AI Tour Sydney](https://aitour.microsoft.com/en-US/sydney). The session begins with a comparison between SLMs (Small Language Models) and LLMs (Large Language Models), followed by a dive into SLMOps the end-to-end process of customizing and deploying your SLMs. The focus is primarily on using tools like [ONNX](https://onnx.ai/) for inferencing and [Microsoft Olive](https://github.com/microsoft/OLive) (ONNX Live) to customize and deploy your models.
 
 The session is fascinating for me because having AI on edge means everyone gets access to Generative AI capabilities regardless of device and can deploy these models offline. Opening up a world of possibilities for accessibility and flexibility.
 

@@ -4,6 +4,8 @@ date = 2025-03-24T06:30:17Z
 draft = false
 +++
 
+![blog banner](https://github.com/BethanyJep/paper-blog/blob/main/public/assets/images/life%20laundry.png?raw=true)
+
 > my not so pointless, rant 😅
 > 
 

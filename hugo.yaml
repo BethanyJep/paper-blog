@@ -7,15 +7,13 @@ params:
   homeInfoParams:
     Title: "Bethany Jep"
     Content: > 
-     Hey, I'm Bethany, a Cloud Advocate at Microsoft.
+     Hey, I'm Bethany, currently doing devrel at Microsoft.
 
       - Fun fact: I'm a house cat, but you'll find me hiking or ticking off my bucket list when I venture out. 
 
       - Currently, I'm diving into African Literature, Psychology, AI, and fiction. 
 
-     - Ask me anything about Data Science, Machine Learning, and AI.
-
-     - Click here to subscribe to my Newsletter: [the abcd of ai.](https://abcdofai.substack.com/)
+      - Click here to subscribe to my Newsletter: [the abcd of ai.](https://abcdofai.substack.com/)
   socialIcons:
     - name: "github"
       url: "https://github.com/bethanyjep"
@@ -25,3 +23,15 @@ params:
       url: "https://twitter.com/bethanyjep"
     - name: "linktree"
       url: "https://linktr.ee/bethanyjep"
+
+menu:
+  main:
+    - name: Archives
+      url: /archives/
+      weight: 5
+    - name: Search
+      url: /search/
+      weight: 10
+    - name: Tags
+      url: /tags/
+      weight: 15

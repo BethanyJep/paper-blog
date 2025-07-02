@@ -6,8 +6,6 @@ draft = false
 
 > 🎙️ A bit on Azure AI Foundry and a smallish rant on Prompty
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=_N2pVyqgNE3gB-9i&amp;list=PLmsFUfdnGr3zTs9lpTDVa4jAECFELd778" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 [![Video Title](https://img.youtube.com/vi/AI8D7UPbdU4/0.jpg)](https://www.youtube.com/watch?v=AI8D7UPbdU4)
 
 
@@ -33,8 +31,6 @@ So, next time your brain fails you because of time zones—**don’t stress**. I
 ### Lights, camera, live!!
 
 What did I talk about today? **Azure AI Foundry.** Yeah, it’s basically what I *always* talk about! But this time, aside from the **end-to-end AI Foundry** journey, I also **dived into Prompty.** And yes, you can watch the recording below:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AI8D7UPbdU4?si=HTIhOooABeoQVI4P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [![YouTube Video](https://img.youtube.com/vi/AI8D7UPbdU4/0.jpg)](https://www.youtube.com/watch?v=AI8D7UPbdU4)
 

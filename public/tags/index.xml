@@ -2,101 +2,101 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on bethanyjep</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://bethany-jep.com/tags/</link>
     <description>Recent content in Tags on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Jul 2025 06:30:17 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bethany-jep.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Personal</title>
-      <link>http://localhost:1313/tags/personal/</link>
+      <link>https://bethany-jep.com/tags/personal/</link>
       <pubDate>Mon, 07 Jul 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/personal/</guid>
+      <guid>https://bethany-jep.com/tags/personal/</guid>
       <description></description>
     </item>
     <item>
       <title>Reflection</title>
-      <link>http://localhost:1313/tags/reflection/</link>
+      <link>https://bethany-jep.com/tags/reflection/</link>
       <pubDate>Mon, 07 Jul 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reflection/</guid>
+      <guid>https://bethany-jep.com/tags/reflection/</guid>
       <description></description>
     </item>
     <item>
       <title>Tech</title>
-      <link>http://localhost:1313/tags/tech/</link>
+      <link>https://bethany-jep.com/tags/tech/</link>
       <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tech/</guid>
+      <guid>https://bethany-jep.com/tags/tech/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
+      <link>https://bethany-jep.com/tags/ai/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <guid>https://bethany-jep.com/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>GitHub</title>
-      <link>http://localhost:1313/tags/github/</link>
+      <link>https://bethany-jep.com/tags/github/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/github/</guid>
+      <guid>https://bethany-jep.com/tags/github/</guid>
       <description></description>
     </item>
     <item>
       <title>Workshop</title>
-      <link>http://localhost:1313/tags/workshop/</link>
+      <link>https://bethany-jep.com/tags/workshop/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/workshop/</guid>
+      <guid>https://bethany-jep.com/tags/workshop/</guid>
       <description></description>
     </item>
     <item>
       <title>Microsoft</title>
-      <link>http://localhost:1313/tags/microsoft/</link>
+      <link>https://bethany-jep.com/tags/microsoft/</link>
       <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/microsoft/</guid>
+      <guid>https://bethany-jep.com/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>
       <title>Azure AI Foundry</title>
-      <link>http://localhost:1313/tags/azure-ai-foundry/</link>
+      <link>https://bethany-jep.com/tags/azure-ai-foundry/</link>
       <pubDate>Mon, 03 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/azure-ai-foundry/</guid>
+      <guid>https://bethany-jep.com/tags/azure-ai-foundry/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
-      <link>http://localhost:1313/tags/community/</link>
+      <link>https://bethany-jep.com/tags/community/</link>
       <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/community/</guid>
+      <guid>https://bethany-jep.com/tags/community/</guid>
       <description></description>
     </item>
     <item>
       <title>Speaking</title>
-      <link>http://localhost:1313/tags/speaking/</link>
+      <link>https://bethany-jep.com/tags/speaking/</link>
       <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/speaking/</guid>
+      <guid>https://bethany-jep.com/tags/speaking/</guid>
       <description></description>
     </item>
     <item>
       <title>Events</title>
-      <link>http://localhost:1313/tags/events/</link>
+      <link>https://bethany-jep.com/tags/events/</link>
       <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/events/</guid>
+      <guid>https://bethany-jep.com/tags/events/</guid>
       <description></description>
     </item>
     <item>
       <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
+      <link>https://bethany-jep.com/tags/travel/</link>
       <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <guid>https://bethany-jep.com/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/tags/productivity/</link>
+      <link>https://bethany-jep.com/tags/productivity/</link>
       <pubDate>Sun, 05 Jan 2025 16:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/productivity/</guid>
+      <guid>https://bethany-jep.com/tags/productivity/</guid>
       <description></description>
     </item>
   </channel>

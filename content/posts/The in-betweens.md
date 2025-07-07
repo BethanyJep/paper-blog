@@ -2,7 +2,7 @@
 title = 'The in-betweens, before we continue'
 date = 2025-05-01T06:30:17Z
 draft = false
-tags = ["personal", "content-creation", "updates", "reflection", "tech"]
+tags = ["personal", "reflection", "tech"]
 +++
 
 > I really threw this page away, huh!

@@ -2,7 +2,7 @@
 title = 'Welcome'
 date = 2024-10-02T07:06:31Z
 draft = false
-tags = ["introduction", "personal"]
+tags = ["personal"]
 ShowToc = false
 +++
 

@@ -23,45 +23,10 @@
       <description></description>
     </item>
     <item>
-      <title>Growth</title>
-      <link>http://localhost:1313/tags/growth/</link>
-      <pubDate>Wed, 02 Jul 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/growth/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life-Journey</title>
-      <link>http://localhost:1313/tags/life-journey/</link>
-      <pubDate>Wed, 02 Jul 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/life-journey/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Content-Creation</title>
-      <link>http://localhost:1313/tags/content-creation/</link>
-      <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/content-creation/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Tech</title>
       <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/tags/tech/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Updates</title>
-      <link>http://localhost:1313/tags/updates/</link>
-      <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/updates/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Life-Lessons</title>
-      <link>http://localhost:1313/tags/life-lessons/</link>
-      <pubDate>Mon, 24 Mar 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/life-lessons/</guid>
       <description></description>
     </item>
     <item>
@@ -86,45 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>Education</title>
-      <link>http://localhost:1313/tags/education/</link>
-      <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/education/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Microsoft</title>
       <link>http://localhost:1313/tags/microsoft/</link>
       <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/tags/microsoft/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teaching</title>
-      <link>http://localhost:1313/tags/teaching/</link>
-      <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/teaching/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Training</title>
-      <link>http://localhost:1313/tags/training/</link>
-      <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/training/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>LinkedIn</title>
-      <link>http://localhost:1313/tags/linkedin/</link>
-      <pubDate>Tue, 04 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/linkedin/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Social-Media</title>
-      <link>http://localhost:1313/tags/social-media/</link>
-      <pubDate>Tue, 04 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/social-media/</guid>
       <description></description>
     </item>
     <item>
@@ -135,31 +65,10 @@
       <description></description>
     </item>
     <item>
-      <title>Cape Town</title>
-      <link>http://localhost:1313/tags/cape-town/</link>
-      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cape-town/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Community</title>
       <link>http://localhost:1313/tags/community/</link>
       <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/tags/community/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Developer</title>
-      <link>http://localhost:1313/tags/developer/</link>
-      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/developer/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meetup</title>
-      <link>http://localhost:1313/tags/meetup/</link>
-      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/meetup/</guid>
       <description></description>
     </item>
     <item>
@@ -188,13 +97,6 @@
       <link>http://localhost:1313/tags/productivity/</link>
       <pubDate>Sun, 05 Jan 2025 16:30:17 +0000</pubDate>
       <guid>http://localhost:1313/tags/productivity/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Introduction</title>
-      <link>http://localhost:1313/tags/introduction/</link>
-      <pubDate>Wed, 02 Oct 2024 07:06:31 +0000</pubDate>
-      <guid>http://localhost:1313/tags/introduction/</guid>
       <description></description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 title = 'Cape Town Developer User Group Meetup'
 date = 2025-01-31T06:30:17Z
 draft = false
-tags = ["meetup", "community", "speaking", "Cape Town", "developer"]
+tags = ["community", "speaking"]
 +++
 
 > ⛵ The meetup with a view [Cape Town Developer User Group](https://cptmsdug.dev/).

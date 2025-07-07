@@ -2,7 +2,7 @@
 title = 'I changed my LinkedIn profile photo'
 date = 2025-02-04T06:30:17Z
 draft = false
-tags = ["personal", "social-media", "LinkedIn", "reflection"]
+tags = ["personal", "reflection"]
 +++
 
 > 📶  and it’s basically the only Social media platform I use....

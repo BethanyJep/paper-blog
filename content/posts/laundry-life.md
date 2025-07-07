@@ -2,7 +2,7 @@
 title = 'Life is like Laundry, it does not stop'
 date = 2025-03-24T06:30:17Z
 draft = false
-tags = ["personal", "reflection", "life-lessons"]
+tags = ["personal", "reflection"]
 +++
 
 ![blog banner](/assets/images/life%20laundry.png)

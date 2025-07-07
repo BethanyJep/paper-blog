@@ -2,7 +2,7 @@
 title = 'Evolving, growing.'
 date = 2025-07-02T06:30:17Z
 draft = false
-tags = ["personal", "reflection", "growth", "life-journey"]
+tags = ["personal", "reflection"]
 +++
 
 ![blog banner](/assets/images/life%20evolving.png)

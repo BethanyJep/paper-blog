@@ -23,28 +23,13 @@
     <loc>http://localhost:1313/posts/evolving-growing/</loc>
     <lastmod>2025-07-02T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/growth/</loc>
-    <lastmod>2025-07-02T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/life-journey/</loc>
-    <lastmod>2025-07-02T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/content-creation/</loc>
-    <lastmod>2025-05-01T06:30:17+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>
     <lastmod>2025-05-01T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the-in-betweens/</loc>
     <lastmod>2025-05-01T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/updates/</loc>
-    <lastmod>2025-05-01T06:30:17+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/laundry-life/</loc>
-    <lastmod>2025-03-24T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/life-lessons/</loc>
     <lastmod>2025-03-24T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai/</loc>
@@ -59,28 +44,13 @@
     <loc>http://localhost:1313/tags/workshop/</loc>
     <lastmod>2025-02-24T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
-    <lastmod>2025-02-10T06:30:17+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/generative-ai-for-trainers/</loc>
     <lastmod>2025-02-10T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/microsoft/</loc>
     <lastmod>2025-02-10T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/teaching/</loc>
-    <lastmod>2025-02-10T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/training/</loc>
-    <lastmod>2025-02-10T06:30:17+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/linked-or-locked-in/</loc>
-    <lastmod>2025-02-04T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/linkedin/</loc>
-    <lastmod>2025-02-04T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/social-media/</loc>
     <lastmod>2025-02-04T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/azure-ai-foundry/</loc>
@@ -89,19 +59,10 @@
     <loc>http://localhost:1313/posts/foundry-live-edition/</loc>
     <lastmod>2025-02-03T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cape-town/</loc>
-    <lastmod>2025-01-31T06:30:17+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/cptdug-meetup/</loc>
     <lastmod>2025-01-31T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/community/</loc>
-    <lastmod>2025-01-31T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/developer/</loc>
-    <lastmod>2025-01-31T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/meetup/</loc>
     <lastmod>2025-01-31T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/speaking/</loc>
@@ -124,9 +85,6 @@
   </url><url>
     <loc>http://localhost:1313/posts/perfection/</loc>
     <lastmod>2025-01-05T16:30:17+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/introduction/</loc>
-    <lastmod>2024-10-02T07:06:31+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/welcome/</loc>
     <lastmod>2024-10-02T07:06:31+00:00</lastmod>

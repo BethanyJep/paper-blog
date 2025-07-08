@@ -1,20 +1,27 @@
+/* Import Libre Baskerville font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap');
+
 /* Custom Typography for Bethany's Blog */
 
 /* CSS Variables for consistent sizing */
 :root {
-    --font-size-base: 17px;
-    --font-size-sm: 15px;
-    --font-size-lg: 19px;
-    --font-size-xl: 21px;
+    --font-size-base: 18px;
+    --font-size-sm: 16px;
+    --font-size-lg: 20px;
+    --font-size-xl: 22px;
     --line-height-base: 1.7;
     --line-height-headings: 1.3;
+    
+    /* Font families */
+    --font-serif: 'Libre Baskerville', Georgia, serif;
+    --font-headings: Georgia, 'Libre Baskerville', serif;
 }
 
 /* Base body typography */
 body {
     font-size: var(--font-size-base);
     line-height: var(--line-height-base);
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+    font-family: var(--font-serif);
 }
 
 /* Improved heading hierarchy */
@@ -23,6 +30,7 @@ h1 {
     line-height: var(--line-height-headings);
     margin: 1.5em 0 0.6em;
     font-weight: 700;
+    font-family: var(--font-headings);
 }
 
 h2 { 
@@ -30,6 +38,7 @@ h2 {
     line-height: var(--line-height-headings);
     margin: 1.4em 0 0.5em;
     font-weight: 600;
+    font-family: var(--font-headings);
 }
 
 h3 { 
@@ -37,6 +46,7 @@ h3 {
     line-height: var(--line-height-headings);
     margin: 1.3em 0 0.4em;
     font-weight: 600;
+    font-family: var(--font-headings);
 }
 
 h4 { 
@@ -44,6 +54,7 @@ h4 {
     line-height: var(--line-height-headings);
     margin: 1.2em 0 0.3em;
     font-weight: 600;
+    font-family: var(--font-headings);
 }
 
 h5 { 
@@ -51,6 +62,7 @@ h5 {
     line-height: var(--line-height-headings);
     margin: 1.1em 0 0.3em;
     font-weight: 600;
+    font-family: var(--font-headings);
 }
 
 h6 { 
@@ -58,6 +70,67 @@ h6 {
     line-height: var(--line-height-headings);
     margin: 1em 0 0.3em;
     font-weight: 600;
+    font-family: var(--font-headings);
+}
+
+h6 { 
+    font-size: 1.1rem;      /* 18px */
+    line-height: var(--line-height-headings);
+    margin: 1em 0 0.3em;
+    font-weight: 600;
+    font-family: var(--font-headings);
+}
+
+/* Additional font family rules for consistent typography */
+
+/* Post content typography */
+.post-content {
+    font-family: var(--font-serif);
+}
+
+/* Blog post titles */
+.post-title {
+    font-family: var(--font-headings);
+}
+
+/* Navigation and header fonts */
+.nav, .header {
+    font-family: var(--font-headings);
+}
+
+/* Entry headers (post titles in lists) */
+.entry-header h2 {
+    font-family: var(--font-headings);
+}
+
+/* Home info section */
+.home-info h1 {
+    font-family: var(--font-headings);
+}
+
+.home-info .entry-content {
+    font-family: var(--font-serif);
+}
+
+/* Blockquotes */
+blockquote {
+    font-family: var(--font-serif);
+    font-style: italic;
+}
+
+/* Lists */
+ul, ol {
+    font-family: var(--font-serif);
+}
+
+/* Meta text and smaller elements */
+.post-meta, .entry-footer {
+    font-family: var(--font-serif);
+}
+
+/* Code elements keep monospace */
+code, pre {
+    font-family: 'SF Mono', Monaco, 'Cascadia Code', 'Roboto Mono', Consolas, 'Courier New', monospace;
 }
 
 /* Post content typography */
@@ -69,13 +142,6 @@ h6 {
 .post-content p {
     margin-bottom: 1.4em;
     font-size: var(--font-size-base);
-}
-
-/* Blog post titles */
-.post-title {
-    font-size: 2.2rem;
-    line-height: 1.2;
-    margin-bottom: 1rem;
 }
 
 /* Blockquotes */
@@ -143,12 +209,12 @@ em, i {
 
 /* Tags and metadata */
 .post-meta {
-    font-size: var(--font-size-sm);
+    font-size: var(--font-size-base);
     line-height: 1.4;
 }
 
 .tag {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
 }
 
 /* Projects Page Specific Styles */
@@ -307,9 +373,9 @@ em, i {
 /* Mobile responsiveness */
 @media (max-width: 768px) {
     :root {
-        --font-size-base: 16px;
-        --font-size-sm: 14px;
-        --font-size-lg: 18px;
+        --font-size-base: 17px;
+        --font-size-sm: 15px;
+        --font-size-lg: 19px;
     }
     
     body {
@@ -331,11 +397,15 @@ em, i {
         font-size: var(--font-size-base);
         padding: 1em;
     }
+    
+    .post-entry .entry-header h2 {
+        font-size: 1.4rem;
+    }
 }
 
 @media (max-width: 480px) {
     :root {
-        --font-size-base: 15px;
+        --font-size-base: 16px;
         --line-height-base: 1.6;
     }
     
@@ -357,8 +427,82 @@ em, i {
     
     .demo-link, .github-link {
         padding: 0.4rem 0.6rem;
-        font-size: 0.8rem;
+        font-size: 0.85rem;
     }
+    
+    .post-entry .entry-header h2 {
+        font-size: 1.3rem;
+    }
+}
+
+/* Homepage specific styles */
+.home-info .entry-content {
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+}
+
+.home-info p {
+    font-size: var(--font-size-base);
+    margin-bottom: 1.2em;
+}
+
+/* Post entries on homepage */
+.post-entry .entry-content {
+    font-size: var(--font-size-base);
+}
+
+.post-entry .entry-header h2 {
+    font-size: 1.5rem;
+    line-height: 1.3;
+}
+
+.post-entry .entry-summary {
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+}
+
+/* Events section styles */
+.events-section, .events-page {
+    font-size: var(--font-size-base);
+}
+
+.events-section h2, .events-page h2 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.events-section h3, .events-page h3 {
+    font-size: 1.4rem;
+    margin-bottom: 0.8rem;
+}
+
+.events-section p, .events-page p {
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+    margin-bottom: 1.2em;
+}
+
+.events-section .post-entry, .events-page .post-entry {
+    font-size: var(--font-size-base);
+}
+
+.events-section .entry-header h2, .events-page .entry-header h2 {
+    font-size: 1.5rem;
+}
+
+/* List view entries */
+.list .post-entry {
+    font-size: var(--font-size-base);
+}
+
+.list .entry-content {
+    font-size: var(--font-size-base);
+    line-height: var(--line-height-base);
+}
+
+.list .entry-header h2 {
+    font-size: 1.5rem;
+    line-height: 1.3;
 }
 
 /* Dark mode adjustments (if PaperMod supports it) */

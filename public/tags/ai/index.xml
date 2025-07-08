@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on bethanyjep</title>
-    <link>https://bethany-jep.com/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in AI on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Feb 2025 06:30:17 +0000</lastBuildDate>
-    <atom:link href="https://bethany-jep.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Explore and Evaluate AI  models for free with GitHub Models</title>
-      <link>https://bethany-jep.com/posts/github-models-intro/</link>
+      <link>http://localhost:1313/posts/github-models-intro/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/github-models-intro/</guid>
+      <guid>http://localhost:1313/posts/github-models-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Generative AI Train the Trainer Session - Microsoft LEAP</title>
-      <link>https://bethany-jep.com/posts/generative-ai-for-trainers/</link>
+      <link>http://localhost:1313/posts/generative-ai-for-trainers/</link>
       <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/generative-ai-for-trainers/</guid>
+      <guid>http://localhost:1313/posts/generative-ai-for-trainers/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;👩‍🏫 When a teacher gives you Kudos, you know teaching was always your calling!&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/Screenshot%202025-01-28%20193856.png&#34; alt=&#34;Workshop screenshot&#34;  /&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/Screenshot%202025-01-28%20193856.png&#34; alt=&#34;Workshop screenshot&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;I always find it so wholesome collaborating with &lt;a href=&#34;https://leap.microsoft.com/en-US/regions/emea/&#34;&gt;Microsoft LEAP&lt;/a&gt; because teaching is where my heart is.
 While getting kudos is always nice, the real impact comes from seeing people&amp;rsquo;s faces light up as they discover something new that alone makes it all worth it.&lt;/p&gt;
@@ -33,25 +33,25 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
     </item>
     <item>
       <title>Azure AI Foundry - Live edition</title>
-      <link>https://bethany-jep.com/posts/foundry-live-edition/</link>
+      <link>http://localhost:1313/posts/foundry-live-edition/</link>
       <pubDate>Mon, 03 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/foundry-live-edition/</guid>
+      <guid>http://localhost:1313/posts/foundry-live-edition/</guid>
       <description>an overview of how you can build AI solutions with Azure AI Foundry and Prompty</description>
     </item>
     <item>
       <title>Microsoft AI Tour Johannesburg</title>
-      <link>https://bethany-jep.com/posts/aitour-joburg/</link>
+      <link>http://localhost:1313/posts/aitour-joburg/</link>
       <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/aitour-joburg/</guid>
+      <guid>http://localhost:1313/posts/aitour-joburg/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠️ The city of the hustle and bustle - &lt;a href=&#34;https://aitour.microsoft.com/en-US/home&#34;&gt;AI Tour Joburg&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I know, I missed a post last week and the other. Life happened   I was confused, hurt, sad, and betrayed. Basically, adulting! One day, I’ll look back and laugh, but at the time, I was at my lowest. So, to make up for it, this week and the next few weeks we’re doubling up with two event recaps, some lessons from Robben Island, a new book I’m reading, and more.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Microsoft AI Tour Bengaluru</title>
-      <link>https://bethany-jep.com/posts/aitour-bengaluru/</link>
+      <link>http://localhost:1313/posts/aitour-bengaluru/</link>
       <pubDate>Mon, 13 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/aitour-bengaluru/</guid>
+      <guid>http://localhost:1313/posts/aitour-bengaluru/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;💡 First speaking engagement 2025 in Bengaluru, India&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;It’s been a while since I’ve written an event recap surprising, considering I spend so much time attending and speaking at conferences! Events are at the core of DevRel, where learning, sharing, and connecting happen in real-time. So, I’ve decided to make it a tradition: documenting my speaking engagements not only as a personal reflection but also as a resource for anyone interested in the topics I cover.&lt;/p&gt;</description>

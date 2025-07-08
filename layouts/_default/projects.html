@@ -1,0 +1,258 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Content }}
+    <div class="post-description">
+        {{ .Content }}
+    </div>
+    {{- end }}
+</header>
+
+<div class="project-grid">
+    {{- $projects := where .Site.RegularPages "Section" "projects" }}
+    {{- $featured := where $projects ".Params.featured" true }}
+    {{- $regular := where $projects ".Params.featured" "!=" true }}
+    
+    {{- if $featured }}
+    <div class="featured-projects">
+        <h2>Featured Projects</h2>
+        {{- range $featured.ByDate.Reverse }}
+        <article class="project-card featured">
+            <div class="project-header">
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <div class="project-links">
+                    {{- if .Params.demo_url }}
+                    <a href="{{ .Params.demo_url }}" class="demo-link" target="_blank" rel="noopener">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                            <polyline points="15,3 21,3 21,9"></polyline>
+                            <line x1="10" y1="14" x2="21" y2="3"></line>
+                        </svg>
+                        Demo
+                    </a>
+                    {{- end }}
+                    {{- if .Params.github_url }}
+                    <a href="{{ .Params.github_url }}" class="github-link" target="_blank" rel="noopener">
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                            <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+                        </svg>
+                        GitHub
+                    </a>
+                    {{- end }}
+                </div>
+            </div>
+            <div class="project-description">
+                {{ .Summary }}
+            </div>
+            {{- if .Params.technologies }}
+            <div class="technologies">
+                {{- range .Params.technologies }}
+                <span class="tech-tag">{{ . }}</span>
+                {{- end }}
+            </div>
+            {{- end }}
+            <div class="project-meta">
+                <time>{{ .Date.Format "Jan 2006" }}</time>
+            </div>
+        </article>
+        {{- end }}
+    </div>
+    {{- end }}
+    
+    {{- if $regular }}
+    <div class="all-projects">
+        <h2>All Projects</h2>
+        <div class="projects-list">
+            {{- range $regular.ByDate.Reverse }}
+            <article class="project-card">
+                <div class="project-header">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <div class="project-links">
+                        {{- if .Params.demo_url }}
+                        <a href="{{ .Params.demo_url }}" class="demo-link" target="_blank" rel="noopener">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"></path>
+                                <polyline points="15,3 21,3 21,9"></polyline>
+                                <line x1="10" y1="14" x2="21" y2="3"></line>
+                            </svg>
+                            Demo
+                        </a>
+                        {{- end }}
+                        {{- if .Params.github_url }}
+                        <a href="{{ .Params.github_url }}" class="github-link" target="_blank" rel="noopener">
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                                <path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path>
+                            </svg>
+                            GitHub
+                        </a>
+                        {{- end }}
+                    </div>
+                </div>
+                <div class="project-description">
+                    {{ .Summary }}
+                </div>
+                {{- if .Params.technologies }}
+                <div class="technologies">
+                    {{- range .Params.technologies }}
+                    <span class="tech-tag">{{ . }}</span>
+                    {{- end }}
+                </div>
+                {{- end }}
+                <div class="project-meta">
+                    <time>{{ .Date.Format "Jan 2006" }}</time>
+                </div>
+            </article>
+            {{- end }}
+        </div>
+    {{- end }}
+</div>
+
+<style>
+.project-grid {
+    margin-top: 2rem;
+}
+
+.featured-projects {
+    margin-bottom: 3rem;
+}
+
+.featured-projects h2, .all-projects h2 {
+    font-size: 1.5rem;
+    margin-bottom: 1.5rem;
+    color: var(--primary);
+    border-bottom: 2px solid var(--primary);
+    padding-bottom: 0.5rem;
+}
+
+.projects-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    gap: 2rem;
+}
+
+.project-card {
+    border: 1px solid var(--border);
+    padding: 2rem;
+    border-radius: 12px;
+    background: var(--entry);
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.project-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+    border-color: var(--primary);
+}
+
+.project-card.featured {
+    border-left: 4px solid var(--primary);
+    background: linear-gradient(135deg, var(--entry) 0%, var(--tertiary) 100%);
+}
+
+.project-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    gap: 1rem;
+}
+
+.project-header h3 {
+    margin: 0;
+    flex: 1;
+}
+
+.project-header h3 a {
+    color: var(--primary);
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.project-header h3 a:hover {
+    text-decoration: underline;
+}
+
+.project-links {
+    display: flex;
+    gap: 0.5rem;
+    flex-shrink: 0;
+}
+
+.demo-link, .github-link {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.5rem 0.75rem;
+    background: var(--primary);
+    color: var(--theme);
+    text-decoration: none;
+    border-radius: 6px;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+}
+
+.demo-link:hover, .github-link:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.github-link {
+    background: #333;
+}
+
+.project-description {
+    color: var(--secondary);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+}
+
+.technologies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.tech-tag {
+    display: inline-block;
+    padding: 0.375rem 0.75rem;
+    background: var(--tertiary);
+    color: var(--primary);
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    border: 1px solid var(--border);
+}
+
+.project-meta {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: auto;
+    padding-top: 1rem;
+    border-top: 1px solid var(--border);
+    font-size: 0.875rem;
+    color: var(--secondary);
+}
+
+@media (max-width: 768px) {
+    .projects-list {
+        grid-template-columns: 1fr;
+    }
+    
+    .project-header {
+        flex-direction: column;
+        align-items: stretch;
+    }
+    
+    .project-links {
+        justify-content: flex-start;
+        margin-top: 0.5rem;
+    }
+}
+</style>
+
+{{- end }}

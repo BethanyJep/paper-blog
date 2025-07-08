@@ -54,6 +54,13 @@
 &lt;p&gt;So far, I’ve managed to put out &lt;a href=&#34;https://abcdofai.substack.com/&#34;&gt;three newsletters&lt;/a&gt;, I’m on video three in my &lt;a href=&#34;https://www.youtube.com/@bethany-jep&#34;&gt;fun demo series&lt;/a&gt;, but I haven’t posted a single blog here since February. Or March since I deleted the last blog.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Build Your First Agent</title>
+      <link>http://localhost:1313/projects/build-your-first-agent/</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/build-your-first-agent/</guid>
+      <description>A repository for building your first AI agent, automating tagging of GitHub issues.</description>
+    </item>
+    <item>
       <title>Life is like Laundry, it does not stop</title>
       <link>http://localhost:1313/posts/laundry-life/</link>
       <pubDate>Mon, 24 Mar 2025 06:30:17 +0000</pubDate>

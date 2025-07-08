@@ -3,7 +3,7 @@ title: "MCP Microsoft Docs"
 date: 2025-07-08
 draft: false
 github_url: "https://github.com/BethanyJep/mcp-microsoft-docs"
-technologies: ["TypeScript", "MCP", "Model Context Protocol", "Microsoft Learn", "AI"]
+technologies: ["Python", "MCP", "Model Context Protocol", "Microsoft Learn", "AI"]
 summary: "A Model Context Protocol (MCP) server that provides access to Microsoft Learn documentation, enabling AI assistants to retrieve and reference Microsoft's technical documentation."
 featured: false
 ---

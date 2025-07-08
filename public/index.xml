@@ -36,11 +36,53 @@
 &lt;p&gt;Whenever I face a challenge, I try my best to resolve the issue. It mainly stems from my desire to fix things. To ensure things are whole. And I am always able to fix things. I was always able to get solutions to everything. Until I could not. And the challenge was not some big project in the wild like fixing capitalism.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AgentCon Mumbai 2025</title>
+      <link>http://localhost:1313/events/agentcon-mumbai-2025/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agentcon-mumbai-2025/</guid>
+      <description>Delivered keynote on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Mumbai, exploring the future of AI Agents.</description>
+    </item>
+    <item>
+      <title>AgentCon Chennai 2025</title>
+      <link>http://localhost:1313/events/agentcon-chennai-2025/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agentcon-chennai-2025/</guid>
+      <description>Delivered talk on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Chennai, exploring autonomous AI systems and their applications.</description>
+    </item>
+    <item>
       <title>Browser Automation with Foundry Local</title>
       <link>http://localhost:1313/projects/browser-automation-foundry-local/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/browser-automation-foundry-local/</guid>
       <description>An AI-powered browser automation system that uses Foundry Local models to intelligently navigate websites, avoid CAPTCHAs, and document the entire process with screenshots.</description>
+    </item>
+    <item>
+      <title>Data Science Summit 2025</title>
+      <link>http://localhost:1313/events/data-science-summit-2025/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/data-science-summit-2025/</guid>
+      <description>Delivered session on Building an Agentic AI Application with Prompty and Azure AI Foundry at Data Science Summit.</description>
+    </item>
+    <item>
+      <title>Microsoft Tech Summit 2025</title>
+      <link>http://localhost:1313/events/ms-tech-summit-2025/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/ms-tech-summit-2025/</guid>
+      <description>Delivered session on building AI solutions with Azure AI Foundry at Microsoft Tech Summit.</description>
+    </item>
+    <item>
+      <title>Write the Docs Conference 2025</title>
+      <link>http://localhost:1313/events/write-the-docs-2025/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/write-the-docs-2025/</guid>
+      <description>Delivered session on scaling open-source documentation with AI at Write the Docs Conference Nairobi.</description>
+    </item>
+    <item>
+      <title>Learn Live: AI Agents Session</title>
+      <link>http://localhost:1313/events/learn-live-ai-agents-2025/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/learn-live-ai-agents-2025/</guid>
+      <description>Delivered Learn Live session on building AI agents with custom tools using Azure AI Foundry and Azure AI Agent Service.</description>
     </item>
     <item>
       <title>The in-betweens, before we continue</title>
@@ -61,6 +103,20 @@
       <description>A repository for building your first AI agent, automating tagging of GitHub issues.</description>
     </item>
     <item>
+      <title>Agents Hack 2025</title>
+      <link>http://localhost:1313/events/agents-hack-2025/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agents-hack-2025/</guid>
+      <description>Participated in Agents Hack 2025, demonstrating how to build AI agents using Prompty and Azure AI Foundry.</description>
+    </item>
+    <item>
+      <title>Global AI Bootcamp Kenya 2025</title>
+      <link>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</link>
+      <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</guid>
+      <description>Delivered session on building AI solutions with Azure AI Foundry at Global AI Bootcamp Kenya hosted at Zetech University.</description>
+    </item>
+    <item>
       <title>Life is like Laundry, it does not stop</title>
       <link>http://localhost:1313/posts/laundry-life/</link>
       <pubDate>Mon, 24 Mar 2025 06:30:17 +0000</pubDate>
@@ -75,6 +131,20 @@
 &lt;p&gt;One day you&amp;rsquo;re washing, the next you&amp;rsquo;re folding, and before you know it &lt;strong&gt;another pile of dirty clothes&lt;/strong&gt; is waiting for round two. The cycle never ends.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AgentCon Nairobi 2025</title>
+      <link>http://localhost:1313/events/agentcon-nairobi-2025/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agentcon-nairobi-2025/</guid>
+      <description>Delivered session on building AI agents with Prompty and Azure AI Foundry at AgentCon Nairobi.</description>
+    </item>
+    <item>
+      <title>Microsoft AI Tour Nairobi 2025</title>
+      <link>http://localhost:1313/events/ai-tour-nairobi-2025/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/ai-tour-nairobi-2025/</guid>
+      <description>Delivered session on code-first GenAIOps covering the journey from prototype to production at Microsoft AI Tour Nairobi.</description>
+    </item>
+    <item>
       <title>Explore and Evaluate AI  models for free with GitHub Models</title>
       <link>http://localhost:1313/posts/github-models-intro/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
@@ -82,6 +152,13 @@
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build AI Kenya 2025</title>
+      <link>http://localhost:1313/events/build-ai-kenya-2025/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/build-ai-kenya-2025/</guid>
+      <description>Delivered virtual session on Generative AI in Azure AI Foundry at Build AI Kenya meetup group.</description>
     </item>
     <item>
       <title>GitHub Models Workshop</title>

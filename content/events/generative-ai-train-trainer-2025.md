@@ -4,11 +4,8 @@ date: 2025-02-10
 upcoming: false
 topic: "AI for Educators and Instructors"
 type: "Workshop"
-location: "Virtual"
-virtual: true
-event_url: "https://leap.microsoft.com/en-US/regions/emea/"
-demo_url: "https://github.com/BethanyJep/GenAI-TTT"
-resources_url: "https://github.com/BethanyJep/GenAI-TTT/blob/main/4-personal-tutor.md"
+location: "Microsoft ADC Office"
+virtual: false
 summary: "Delivered train-the-trainer session on using Generative AI effectively in educational settings for Microsoft LEAP instructors."
 tags: ["AI", "Education", "Training", "Microsoft LEAP", "Workshop"]
 ---

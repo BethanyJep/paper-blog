@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>AI Agents on bethanyjep</title>
+    <link>http://localhost:1313/tags/ai-agents/</link>
+    <description>Recent content in AI Agents on bethanyjep</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ai-agents/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgentCon Mumbai 2025</title>
+      <link>http://localhost:1313/events/agentcon-mumbai-2025/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agentcon-mumbai-2025/</guid>
+      <description>Delivered keynote on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Mumbai, exploring the future of AI Agents.</description>
+    </item>
+    <item>
+      <title>AgentCon Chennai 2025</title>
+      <link>http://localhost:1313/events/agentcon-chennai-2025/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agentcon-chennai-2025/</guid>
+      <description>Delivered talk on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Chennai, exploring autonomous AI systems and their applications.</description>
+    </item>
+    <item>
+      <title>Learn Live: AI Agents Session</title>
+      <link>http://localhost:1313/events/learn-live-ai-agents-2025/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/learn-live-ai-agents-2025/</guid>
+      <description>Delivered Learn Live session on building AI agents with custom tools using Azure AI Foundry and Azure AI Agent Service.</description>
+    </item>
+    <item>
+      <title>Agents Hack 2025</title>
+      <link>http://localhost:1313/events/agents-hack-2025/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agents-hack-2025/</guid>
+      <description>Participated in Agents Hack 2025, demonstrating how to build AI agents using Prompty and Azure AI Foundry.</description>
+    </item>
+    <item>
+      <title>AgentCon Nairobi 2025</title>
+      <link>http://localhost:1313/events/agentcon-nairobi-2025/</link>
+      <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agentcon-nairobi-2025/</guid>
+      <description>Delivered session on building AI agents with Prompty and Azure AI Foundry at AgentCon Nairobi.</description>
+    </item>
+  </channel>
+</rss>

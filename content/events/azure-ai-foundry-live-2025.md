@@ -6,9 +6,6 @@ topic: "Azure AI Foundry and Prompty Overview"
 type: "Webinar"
 location: "Virtual"
 virtual: true
-recording_url: "https://www.youtube.com/watch?v=AI8D7UPbdU4"
-reactor_url: "https://aka.ms/aifundamentalstraining-reactors"
-series_url: "https://aka.ms/aifundamentalstraining-blog"
 summary: "First online session covering Azure AI Foundry end-to-end journey with deep dive into Prompty tooling."
 tags: ["Azure AI Foundry", "Prompty", "Online Session", "Microsoft Reactor"]
 ---

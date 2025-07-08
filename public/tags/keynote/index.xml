@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Keynote on bethanyjep</title>
+    <link>http://localhost:1313/tags/keynote/</link>
+    <description>Recent content in Keynote on bethanyjep</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/keynote/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgentCon Mumbai 2025</title>
+      <link>http://localhost:1313/events/agentcon-mumbai-2025/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/agentcon-mumbai-2025/</guid>
+      <description>Delivered keynote on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Mumbai, exploring the future of AI Agents.</description>
+    </item>
+  </channel>
+</rss>

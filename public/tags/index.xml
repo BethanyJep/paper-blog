@@ -23,6 +23,90 @@
       <description></description>
     </item>
     <item>
+      <title>AgentCon</title>
+      <link>http://localhost:1313/tags/agentcon/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/agentcon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI Agents</title>
+      <link>http://localhost:1313/tags/ai-agents/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai-agents/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Keynote</title>
+      <link>http://localhost:1313/tags/keynote/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/keynote/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mumbai</title>
+      <link>http://localhost:1313/tags/mumbai/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mumbai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conference</title>
+      <link>http://localhost:1313/tags/conference/</link>
+      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/conference/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure AI Foundry</title>
+      <link>http://localhost:1313/tags/azure-ai-foundry/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/azure-ai-foundry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/tags/ai/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Documentation</title>
+      <link>http://localhost:1313/tags/documentation/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/documentation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Open Source</title>
+      <link>http://localhost:1313/tags/open-source/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/open-source/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learn Live</title>
+      <link>http://localhost:1313/tags/learn-live/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/learn-live/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft</title>
+      <link>http://localhost:1313/tags/microsoft/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microsoft/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Virtual</title>
+      <link>http://localhost:1313/tags/virtual/</link>
+      <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/virtual/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Tech</title>
       <link>http://localhost:1313/tags/tech/</link>
       <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
@@ -30,10 +114,31 @@
       <description></description>
     </item>
     <item>
-      <title>AI</title>
-      <link>http://localhost:1313/tags/ai/</link>
-      <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ai/</guid>
+      <title>Hackathon</title>
+      <link>http://localhost:1313/tags/hackathon/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hackathon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prompty</title>
+      <link>http://localhost:1313/tags/prompty/</link>
+      <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/prompty/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>GenAIOps</title>
+      <link>http://localhost:1313/tags/genaiops/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/genaiops/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft AI Tour</title>
+      <link>http://localhost:1313/tags/microsoft-ai-tour/</link>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microsoft-ai-tour/</guid>
       <description></description>
     </item>
     <item>
@@ -48,6 +153,20 @@
       <link>http://localhost:1313/tags/workshop/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
       <guid>http://localhost:1313/tags/workshop/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Build AI Kenya</title>
+      <link>http://localhost:1313/tags/build-ai-kenya/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/build-ai-kenya/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Generative AI</title>
+      <link>http://localhost:1313/tags/generative-ai/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/generative-ai/</guid>
       <description></description>
     </item>
     <item>
@@ -72,13 +191,6 @@
       <description></description>
     </item>
     <item>
-      <title>Azure AI Foundry</title>
-      <link>http://localhost:1313/tags/azure-ai-foundry/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/azure-ai-foundry/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Microsoft Reactor</title>
       <link>http://localhost:1313/tags/microsoft-reactor/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
@@ -90,13 +202,6 @@
       <link>http://localhost:1313/tags/online-session/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/online-session/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Prompty</title>
-      <link>http://localhost:1313/tags/prompty/</link>
-      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/prompty/</guid>
       <description></description>
     </item>
     <item>
@@ -132,13 +237,6 @@
       <link>http://localhost:1313/tags/agents/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/agents/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Microsoft</title>
-      <link>http://localhost:1313/tags/microsoft/</link>
-      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>

@@ -4,6 +4,8 @@ title: bethanyjep
 theme: ["PaperMod"]
 
 params:
+  disableSpecial1stPost: false
+  mainSections: ["posts"]
   homeInfoParams:
     Title: "Bethany Jep"
     Content: > 

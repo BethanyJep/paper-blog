@@ -63,20 +63,6 @@
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Generative AI Train the Trainer Session - Microsoft LEAP</title>
-      <link>http://localhost:1313/posts/generative-ai-for-trainers/</link>
-      <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/generative-ai-for-trainers/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;👩‍🏫 When a teacher gives you Kudos, you know teaching was always your calling!&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/Screenshot%202025-01-28%20193856.png&#34; alt=&#34;Workshop screenshot&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;I always find it so wholesome collaborating with &lt;a href=&#34;https://leap.microsoft.com/en-US/regions/emea/&#34;&gt;Microsoft LEAP&lt;/a&gt; because teaching is where my heart is.
-While getting kudos is always nice, the real impact comes from seeing people&amp;rsquo;s faces light up as they discover something new that alone makes it all worth it.&lt;/p&gt;
-&lt;h2 id=&#34;adding-ai-to-education&#34;&gt;Adding AI to education….&lt;/h2&gt;
-&lt;p&gt;This blog post will be brief, I originally wrote it as a recap, but honestly, the session itself was so wholesome that I don’t have much to add.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>I changed my LinkedIn profile photo</title>
       <link>http://localhost:1313/posts/linked-or-locked-in/</link>
       <pubDate>Tue, 04 Feb 2025 06:30:17 +0000</pubDate>
@@ -86,43 +72,6 @@ While getting kudos is always nice, the real impact comes from seeing people&amp
 &lt;p&gt;&lt;em&gt;P.S. WhatsApp &amp;amp; Snapchat don’t count since they’re basically messaging apps, not social media.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Before you come at me with pitchforks, hear me out.&lt;/p&gt;
 &lt;p&gt;I did a social media audit, and let’s just say…it was bad. &lt;em&gt;Really&lt;/em&gt; bad. So bad that I can’t even share the results publicly it’s that embarrassing. But the nature of my work requires me to be active on social media, because, well…my work can’t speak for itself.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Azure AI Foundry - Live edition</title>
-      <link>http://localhost:1313/posts/foundry-live-edition/</link>
-      <pubDate>Mon, 03 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/foundry-live-edition/</guid>
-      <description>an overview of how you can build AI solutions with Azure AI Foundry and Prompty</description>
-    </item>
-    <item>
-      <title>Cape Town Developer User Group Meetup</title>
-      <link>http://localhost:1313/posts/cptdug-meetup/</link>
-      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/cptdug-meetup/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;⛵ The meetup with a view &lt;a href=&#34;https://cptmsdug.dev/&#34;&gt;Cape Town Developer User Group&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;Have you ever attended a meetup with the perfect view of the Atlantic Ocean? Speaking right next to where you board the ferry to the history filled &lt;strong&gt;Robben Island&lt;/strong&gt;? Yeah, I never thought I would—but I did. And afterward, I took a boat ride to Robben Island to immerse myself in its history.&lt;/p&gt;
-&lt;h3 id=&#34;session-building-ai-solutions-in-azure-ai-foundry&#34;&gt;&lt;strong&gt;Session: Building AI Solutions in Azure AI Foundry&lt;/strong&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/IMG_1410%20%281%29.jpeg&#34; alt=&#34;Meetup photo&#34;  /&gt;
-&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft AI Tour Johannesburg</title>
-      <link>http://localhost:1313/posts/aitour-joburg/</link>
-      <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/aitour-joburg/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;🛠️ The city of the hustle and bustle - &lt;a href=&#34;https://aitour.microsoft.com/en-US/home&#34;&gt;AI Tour Joburg&lt;/a&gt;.&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;I know, I missed a post last week and the other. Life happened   I was confused, hurt, sad, and betrayed. Basically, adulting! One day, I’ll look back and laugh, but at the time, I was at my lowest. So, to make up for it, this week and the next few weeks we’re doubling up with two event recaps, some lessons from Robben Island, a new book I’m reading, and more.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Microsoft AI Tour Bengaluru</title>
-      <link>http://localhost:1313/posts/aitour-bengaluru/</link>
-      <pubDate>Mon, 13 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/aitour-bengaluru/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;💡 First speaking engagement 2025 in Bengaluru, India&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;It’s been a while since I’ve written an event recap surprising, considering I spend so much time attending and speaking at conferences! Events are at the core of DevRel, where learning, sharing, and connecting happen in real-time. So, I’ve decided to make it a tradition: documenting my speaking engagements not only as a personal reflection but also as a resource for anyone interested in the topics I cover.&lt;/p&gt;</description>
     </item>
     <item>
       <title>What if perfection is in completion?</title>

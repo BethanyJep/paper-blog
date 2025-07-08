@@ -56,41 +56,62 @@
     <loc>http://localhost:1313/projects/github-models-workshop/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/generative-ai-for-trainers/</loc>
-    <lastmod>2025-02-10T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/tags/education/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/microsoft/</loc>
-    <lastmod>2025-02-10T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/events/generative-ai-train-trainer-2025/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/microsoft-leap/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/training/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/linked-or-locked-in/</loc>
     <lastmod>2025-02-04T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/azure-ai-foundry/</loc>
-    <lastmod>2025-02-03T06:30:17+00:00</lastmod>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/foundry-live-edition/</loc>
-    <lastmod>2025-02-03T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/events/azure-ai-foundry-live-2025/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/cptdug-meetup/</loc>
-    <lastmod>2025-01-31T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/tags/microsoft-reactor/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/online-session/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/prompty/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/events/cptdug-meetup-january-2025/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/community/</loc>
-    <lastmod>2025-01-31T06:30:17+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/meetup/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rag/</loc>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/speaking/</loc>
-    <lastmod>2025-01-31T06:30:17+00:00</lastmod>
+    <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/events/</loc>
-    <lastmod>2025-01-26T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/tags/agents/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aitour-joburg/</loc>
-    <lastmod>2025-01-26T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/tags/microsoft/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/travel/</loc>
-    <lastmod>2025-01-26T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/events/ai-tour-johannesburg-2025/</loc>
+    <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aitour-bengaluru/</loc>
-    <lastmod>2025-01-13T06:30:17+00:00</lastmod>
+    <loc>http://localhost:1313/events/ai-tour-bengaluru-2025/</loc>
+    <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/productivity/</loc>
     <lastmod>2025-01-05T16:30:17+00:00</lastmod>
@@ -104,6 +125,8 @@
     <loc>http://localhost:1313/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/events/</loc>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
   </url><url>

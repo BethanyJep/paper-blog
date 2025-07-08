@@ -17,5 +17,19 @@
 &lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Generative AI Train the Trainer Session - Microsoft LEAP</title>
+      <link>http://localhost:1313/events/generative-ai-train-trainer-2025/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/generative-ai-train-trainer-2025/</guid>
+      <description>Delivered train-the-trainer session on using Generative AI effectively in educational settings for Microsoft LEAP instructors.</description>
+    </item>
+    <item>
+      <title>Microsoft AI Tour Bengaluru 2025</title>
+      <link>http://localhost:1313/events/ai-tour-bengaluru-2025/</link>
+      <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/ai-tour-bengaluru-2025/</guid>
+      <description>Delivered workshop on multimodal models and breakout session on SLMs/LLMs at Microsoft AI Tour Bengaluru.</description>
+    </item>
   </channel>
 </rss>

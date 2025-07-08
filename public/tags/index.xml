@@ -51,45 +51,94 @@
       <description></description>
     </item>
     <item>
-      <title>Microsoft</title>
-      <link>http://localhost:1313/tags/microsoft/</link>
-      <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/microsoft/</guid>
+      <title>Education</title>
+      <link>http://localhost:1313/tags/education/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/education/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft LEAP</title>
+      <link>http://localhost:1313/tags/microsoft-leap/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microsoft-leap/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Training</title>
+      <link>http://localhost:1313/tags/training/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/training/</guid>
       <description></description>
     </item>
     <item>
       <title>Azure AI Foundry</title>
       <link>http://localhost:1313/tags/azure-ai-foundry/</link>
-      <pubDate>Mon, 03 Feb 2025 06:30:17 +0000</pubDate>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/azure-ai-foundry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microsoft Reactor</title>
+      <link>http://localhost:1313/tags/microsoft-reactor/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microsoft-reactor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Online Session</title>
+      <link>http://localhost:1313/tags/online-session/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/online-session/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prompty</title>
+      <link>http://localhost:1313/tags/prompty/</link>
+      <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/prompty/</guid>
       <description></description>
     </item>
     <item>
       <title>Community</title>
       <link>http://localhost:1313/tags/community/</link>
-      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/community/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meetup</title>
+      <link>http://localhost:1313/tags/meetup/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/meetup/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RAG</title>
+      <link>http://localhost:1313/tags/rag/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/rag/</guid>
       <description></description>
     </item>
     <item>
       <title>Speaking</title>
       <link>http://localhost:1313/tags/speaking/</link>
-      <pubDate>Fri, 31 Jan 2025 06:30:17 +0000</pubDate>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/speaking/</guid>
       <description></description>
     </item>
     <item>
-      <title>Events</title>
-      <link>http://localhost:1313/tags/events/</link>
-      <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/events/</guid>
+      <title>Agents</title>
+      <link>http://localhost:1313/tags/agents/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/agents/</guid>
       <description></description>
     </item>
     <item>
-      <title>Travel</title>
-      <link>http://localhost:1313/tags/travel/</link>
-      <pubDate>Sun, 26 Jan 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/tags/travel/</guid>
+      <title>Microsoft</title>
+      <link>http://localhost:1313/tags/microsoft/</link>
+      <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/microsoft/</guid>
       <description></description>
     </item>
     <item>

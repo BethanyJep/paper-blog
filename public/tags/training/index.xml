@@ -6,21 +6,14 @@
     <description>Recent content in Training on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Feb 2025 06:30:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/training/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Generative AI Train the Trainer Session - Microsoft LEAP</title>
-      <link>http://localhost:1313/posts/generative-ai-for-trainers/</link>
-      <pubDate>Mon, 10 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/generative-ai-for-trainers/</guid>
-      <description>&lt;blockquote&gt;
-&lt;p&gt;👩‍🏫 When a teacher gives you Kudos, you know teaching was always your calling!&lt;/p&gt;&lt;/blockquote&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/Screenshot%202025-01-28%20193856.png&#34; alt=&#34;Workshop screenshot&#34;  /&gt;
-&lt;/p&gt;
-&lt;p&gt;I always find it so wholesome collaborating with &lt;a href=&#34;https://leap.microsoft.com/en-US/regions/emea/&#34;&gt;Microsoft LEAP&lt;/a&gt; because teaching is where my heart is.
-While getting kudos is always nice, the real impact comes from seeing people&amp;rsquo;s faces light up as they discover something new that alone makes it all worth it.&lt;/p&gt;
-&lt;h2 id=&#34;adding-ai-to-education&#34;&gt;Adding AI to education….&lt;/h2&gt;
-&lt;p&gt;This blog post will be brief, I originally wrote it as a recap, but honestly, the session itself was so wholesome that I don’t have much to add.&lt;/p&gt;</description>
+      <link>http://localhost:1313/events/generative-ai-train-trainer-2025/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/generative-ai-train-trainer-2025/</guid>
+      <description>Delivered train-the-trainer session on using Generative AI effectively in educational settings for Microsoft LEAP instructors.</description>
     </item>
   </channel>
 </rss>

@@ -1,0 +1,258 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Content }}
+  <div class="post-description">
+    {{ .Content }}
+  </div>
+  {{- end }}
+</header>
+
+{{- $events := where .Site.RegularPages "Section" "events" }}
+{{- $upcomingEvents := where $events ".Params.upcoming" true }}
+{{- $pastEvents := where $events ".Params.upcoming" "!=" true }}
+
+{{- if $upcomingEvents }}
+<div class="archive-year">
+  <h2 class="archive-year-header" id="upcoming">
+    <a class="archive-header-link" href="#upcoming">
+      🎯 Upcoming Events
+    </a>
+    <sup class="archive-count">&nbsp;{{ len $upcomingEvents }}</sup>
+  </h2>
+  <div class="archive-posts">
+    {{- range $upcomingEvents.ByDate }}
+    <div class="archive-entry event-entry upcoming-event">
+      <h3 class="archive-entry-title entry-hint-parent">
+        {{- .Title | markdownify }}
+      </h3>
+      <div class="archive-meta event-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        {{- if .Params.type }}
+        <span class="event-type {{ .Params.type | lower }}">{{ .Params.type }}</span>
+        {{- end }}
+        {{- if .Params.location }}
+        <span class="event-location">
+          {{- if .Params.virtual }}🌐{{ else }}📍{{ end }} {{ .Params.location }}
+        </span>
+        {{- end }}
+        {{- if .Params.topic }}
+        <span class="event-topic">{{ .Params.topic }}</span>
+        {{- end }}
+      </div>
+      {{- if .Summary }}
+      <div class="event-summary">{{ .Summary }}</div>
+      {{- end }}
+      <div class="event-read-more">
+        {{- if .Params.event_url }}
+        <a href="{{ .Params.event_url }}" target="_blank" rel="noopener">Event Details</a> • 
+        {{- end }}
+        <a href="{{ .Permalink }}">Read More →</a>
+      </div>
+      <a class="entry-link" aria-label="event link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+    </div>
+    {{- end }}
+  </div>
+</div>
+{{- end }}
+
+{{- if $pastEvents }}
+{{- range $pastEvents.GroupByPublishDate "2006" }}
+{{- if ne .Key "0001" }}
+<div class="archive-year">
+  {{- $year := replace .Key "0001" "" }}
+  <h2 class="archive-year-header" id="{{ $year }}">
+    <a class="archive-header-link" href="#{{ $year }}">
+      {{ $year }}
+    </a>
+    <sup class="archive-count">&nbsp;{{ len .Pages }}</sup>
+  </h2>
+  <div class="archive-posts">
+    {{- range .Pages.ByDate.Reverse }}
+    <div class="archive-entry event-entry past-event">
+      <h3 class="archive-entry-title entry-hint-parent">
+        {{- .Title | markdownify }}
+      </h3>
+      <div class="archive-meta event-meta">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
+        {{- if .Params.type }}
+        <span class="event-type {{ .Params.type | lower }}">{{ .Params.type }}</span>
+        {{- end }}
+        {{- if .Params.location }}
+        <span class="event-location">
+          {{- if .Params.virtual }}🌐{{ else }}📍{{ end }} {{ .Params.location }}
+        </span>
+        {{- end }}
+        {{- if .Params.topic }}
+        <span class="event-topic">{{ .Params.topic }}</span>
+        {{- end }}
+      </div>
+      {{- if .Summary }}
+      <div class="event-summary">{{ .Summary }}</div>
+      {{- end }}
+      <div class="event-read-more">
+        <a href="{{ .Permalink }}">Read More →</a>
+      </div>
+      <a class="entry-link" aria-label="event link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+    </div>
+    {{- end }}
+  </div>
+</div>
+{{- end }}
+{{- end }}
+{{- end }}
+
+{{- if not (or $upcomingEvents $pastEvents) }}
+<div class="no-events">
+  <p>No events found. Check back soon for upcoming speaking engagements and workshops!</p>
+</div>
+{{- end }}
+
+    {{- if not (or $upcomingEvents $pastEvents) }}
+    <div class="no-events">
+        <p>No events found. Check back soon for upcoming speaking engagements and workshops!</p>
+    </div>
+    {{- end }}
+</div>
+
+<style>
+/* Event-specific styling that extends the archives styles */
+.event-entry {
+  position: relative;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  transition: all 0.3s ease;
+}
+
+.event-entry:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  border-color: var(--primary);
+}
+
+.upcoming-event {
+  border-left: 4px solid var(--primary);
+  background: linear-gradient(135deg, var(--entry) 0%, rgba(var(--primary-rgb), 0.02) 100%);
+}
+
+.event-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  align-items: center;
+  margin: 0.75rem 0;
+  font-size: 0.875rem;
+  color: var(--secondary);
+}
+
+.event-meta time {
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.event-type {
+  display: inline-block;
+  padding: 0.25rem 0.75rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.event-type.conference {
+  background: #3b82f6;
+  color: white;
+}
+
+.event-type.workshop {
+  background: #8b5cf6;
+  color: white;
+}
+
+.event-type.meetup {
+  background: #10b981;
+  color: white;
+}
+
+.event-type.webinar {
+  background: #f59e0b;
+  color: white;
+}
+
+.event-type.keynote {
+  background: #ef4444;
+  color: white;
+}
+
+.event-type.panel {
+  background: #06b6d4;
+  color: white;
+}
+
+.event-location, .event-topic {
+  padding: 0.25rem 0.5rem;
+  background: var(--tertiary);
+  border-radius: 6px;
+  font-size: 0.8rem;
+}
+
+.event-topic {
+  font-style: italic;
+  color: var(--primary);
+  font-weight: 500;
+}
+
+.event-summary {
+  margin: 1rem 0;
+  color: var(--secondary);
+  line-height: 1.6;
+  font-size: 0.95rem;
+}
+
+.event-read-more {
+  margin-top: 1rem;
+  text-align: right;
+}
+
+.event-read-more a {
+  color: var(--primary);
+  text-decoration: none;
+  font-weight: 500;
+  font-size: 0.875rem;
+  transition: all 0.2s ease;
+}
+
+.event-read-more a:hover {
+  text-decoration: underline;
+}
+
+.no-events {
+  text-align: center;
+  padding: 3rem 2rem;
+  color: var(--secondary);
+  font-style: italic;
+  background: var(--entry);
+  border-radius: 8px;
+  border: 2px dashed var(--border);
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .event-meta {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
+  }
+  
+  .event-read-more {
+    text-align: left;
+  }
+}
+</style>
+
+{{- end }}

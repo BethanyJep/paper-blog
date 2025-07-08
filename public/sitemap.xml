@@ -83,6 +83,9 @@
     <loc>http://localhost:1313/tags/virtual/</loc>
     <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/speech-translation/</loc>
+    <lastmod>2025-05-02T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/tech/</loc>
     <lastmod>2025-05-01T06:30:17+00:00</lastmod>
   </url><url>
@@ -100,6 +103,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/prompty/</loc>
     <lastmod>2025-04-22T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/automating-powerpoint/</loc>
+    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>

@@ -23,4 +23,8 @@ This workshop provides a hands-on introduction to GitHub Models, allowing partic
 - Comparing different AI models for various tasks
 - Transitioning from experimentation to production
 
+>
+> demo_url: https://workshop-github-models.globalaibootcamp.com/
+> github_url: https://github.com/BethanyJep/github-models-workshop
+
 Perfect for developers, data scientists, and AI enthusiasts looking to explore AI models without barriers!

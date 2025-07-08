@@ -85,6 +85,13 @@
       <description>Delivered Learn Live session on building AI agents with custom tools using Azure AI Foundry and Azure AI Agent Service.</description>
     </item>
     <item>
+      <title>Azure AI Speech services video translation</title>
+      <link>http://localhost:1313/projects/speech-translation/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/speech-translation/</guid>
+      <description>A demo on live language translation of videos using Azure Speech Studio, showcasing transcription, translation, and voice-over capabilities.</description>
+    </item>
+    <item>
       <title>The in-betweens, before we continue</title>
       <link>http://localhost:1313/posts/the-in-betweens/</link>
       <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
@@ -108,6 +115,13 @@
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/events/agents-hack-2025/</guid>
       <description>Participated in Agents Hack 2025, demonstrating how to build AI agents using Prompty and Azure AI Foundry.</description>
+    </item>
+    <item>
+      <title>Automating PowerPoint Generation with AI</title>
+      <link>http://localhost:1313/projects/automating-powerpoint/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/automating-powerpoint/</guid>
+      <description>A case study on automating PowerPoint generation using AI.</description>
     </item>
     <item>
       <title>Global AI Bootcamp Kenya 2025</title>

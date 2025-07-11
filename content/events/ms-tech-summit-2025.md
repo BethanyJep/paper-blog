@@ -24,3 +24,5 @@ This session provided a deep dive into Azure AI Foundry, Microsoft's comprehensi
 - [RAG Implementation Guide](https://github.com/microsoft/generative-ai-for-beginners/tree/main/15-rag-and-vector-databases)
 - [Azure AI Fundamentals Series](https://aka.ms/aifundamentalstraining-blog)
 - [Microsoft Reactor Sessions](https://aka.ms/aifundamentalstraining-reactors)
+
+{{< discord-community >}}

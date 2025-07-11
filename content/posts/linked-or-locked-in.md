@@ -51,3 +51,5 @@ Oh, and since you made it this far…..did you check my [LinkedIn profile](https
 How’s the new banner and profile looking? Isn’t it lovely? 😏
 
 > Am I linked or locked in?
+
+{{< discord-community >}}

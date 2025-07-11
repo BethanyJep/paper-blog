@@ -25,3 +25,4 @@ This session explored how artificial intelligence can transform open-source docu
 - [Session Details](https://sessionize.com/app/speaker/session/898177)
 - [Write the Docs Community](https://www.writethedocs.org/)
 
+{{< discord-community >}}

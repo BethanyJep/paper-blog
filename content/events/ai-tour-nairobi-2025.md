@@ -19,3 +19,4 @@ This session explored the critical journey from AI prototyping to production dep
 - [Session resources and demos](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools)
 - [About Microsoft AI Tour](https://aitour.microsoft.com)
 
+{{< discord-community >}}

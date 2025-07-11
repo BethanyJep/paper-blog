@@ -32,4 +32,5 @@ Practical Foundation for AI Agents: A Developer's Guide on Azure AI Foundry, App
 
 📌 This session is a part of a series, learn more here: https://aka.ms/LearnLive/AIAgents
 
+{{< discord-community >}}
 

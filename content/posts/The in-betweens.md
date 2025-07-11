@@ -84,6 +84,7 @@ Creation, for me, is **multi-faceted**. I’ve been on the move *and* creating a
 
 ## Forgiven, I hope…
 
-So… does this validate all the posts I’ve not made? Maybe. But looking back, I’m genuinely proud of the process so far. Moving forward, I’m doubling down on **consistency** because that’s where things tend to fall apart. The ball drops. The earth shakes. Chaos.
 
 Thanks for sticking around this far see you in the next post!
+
+{{< discord-community >}}

@@ -22,3 +22,5 @@ This session provided hands-on guidance for hackathon participants on leveraging
 ### Learning Paths:
 - [Prompty Documentation and Tutorials](https://prompty.ai)
 - [Azure AI Foundry Agent Development Guide](https://docs.microsoft.com/azure/ai-foundry/agents)
+
+{{< discord-community >}}

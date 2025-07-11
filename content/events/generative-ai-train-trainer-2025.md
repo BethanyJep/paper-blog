@@ -71,3 +71,5 @@ Inspiring Example: One instructor created a beautiful illustrated book using AI 
 ## Continuing Education
 
 Post-session learning focus on [AI Agents](https://huggingface.co/learn/agents-course/unit0/introduction) to further expand educational AI capabilities.
+
+{{< discord-community >}}

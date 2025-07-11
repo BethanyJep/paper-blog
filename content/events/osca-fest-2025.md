@@ -15,3 +15,5 @@ To participate in OSCA Fest 2025 in Lagos, Nigeria, delivering a talk on how AI 
 
 - [Session Details](https://sessionize.com/app/speaker/session/929943)
 - [OSCA Fest Official Site](https://festival.oscafrica.org/)
+
+{{< discord-community >}}

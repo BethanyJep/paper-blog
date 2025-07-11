@@ -44,6 +44,8 @@ Next, I create for my future and past self. I create for Bethany who was, who is
 
 ## The final thoughts
 
-My biggest fear is what if everything I put out in the world is too much. What if all the cracks within me now exist in public domain? And currently my response is nobody cares. Nobody cares beyond what I care most about the things I care most. And maybe that’s the truth, most people won’t care as deeply as I do. And that’s freeing. So what if my entire life can be found in a piece of the internet? It shows me what I care about most, it helps me grow, and when everything becomes too much, I can always archive it. 
+My biggest fear is what if everything I put out in the world is too much. What if all the cracks within me now exist in public domain? And currently my response is nobody cares. Nobody cares beyond what I care most about the things I care most. And maybe that's the truth, most people won't care as deeply as I do. And that's freeing. So what if my entire life can be found in a piece of the internet? It shows me what I care about most, it helps me grow, and when everything becomes too much, I can always archive it. 
 
 But most of all, I have the permission to create. Create the world I want to live in, coupled with my strong opinions and voice. Be the best version of me out there, and maybe I can find my constellation in the wild.
+
+{{< discord-community >}}

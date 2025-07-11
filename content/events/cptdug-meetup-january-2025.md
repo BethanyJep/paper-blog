@@ -56,3 +56,5 @@ Sounds simpler now, right? You can learn more about **implementing RAG** in our 
 - [RAG Implementation Guide](https://github.com/microsoft/generative-ai-for-beginners/tree/main/15-rag-and-vector-databases)
 - [Azure AI Fundamentals Series](https://aka.ms/aifundamentalstraining-blog)
 - [Microsoft Reactor Sessions](https://aka.ms/aifundamentalstraining-reactors)
+
+{{< discord-community >}}

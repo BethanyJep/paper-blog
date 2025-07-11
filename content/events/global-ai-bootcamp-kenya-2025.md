@@ -23,3 +23,5 @@ This session provided an end-to-end exploration of Azure AI Foundry, demonstrati
 - [Session Details](https://sessionize.com/app/speaker/session/882596)
 - [Global AI Bootcamp Official Site](https://globalai.community/bootcamp)
 
+{{< discord-community >}}
+

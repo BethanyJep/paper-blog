@@ -40,3 +40,5 @@ According to the book "Regrets of the Dying" by Bronnie Ware, she illustrates th
 Stay in the silence without looking for a distraction. Walk around noticing the little things without a headset to get you out of the world. Spend your evenings, journalling, writing, listening to yourself without the world trying to find who you are for you. Because, unless you know who you truly are, you will continue to chase the high with a gap.
 
 And as you face yourself, love yourself deeply. Be gentle. The world has been too unkind for so long. You are whole, but you got bruises along the way. The only way is to build yourself back with compassion. Even if the world never showed you love, be the love you want to see in you, for yourself. And as you boldly move forward, know that you are evolving anew, a caterpillar does not go through change expecting to remain a caterpillar but evolves to become a butterfly!
+
+{{< discord-community >}}

@@ -53,3 +53,5 @@ Once we open up our Codespace, we will need to:
 ## Go forth and conquer!
 
 Nothing is stopping you from testing and experimenting with AI Models. Got an idea you want to implement? [Get started today and do your magic!](https://github.com/marketplace/models)
+
+{{< discord-community >}}

@@ -15,3 +15,5 @@ I'm Bethany Jepchumba, currently a Cloud Advocate at Microsoft and I enjoy teach
 I have created this website to share my various learnings and experiences in AI, machine learning and everything in between. Hope you enjoy the journey with me.
 
 ~ Pikachu 🐾
+
+{{< discord-community >}}

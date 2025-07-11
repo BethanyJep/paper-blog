@@ -25,3 +25,4 @@ This session provided an in-depth exploration of AI agents, their current capabi
 - [Session Details](https://sessionize.com/app/speaker/session/957311)
 - [AgentCon Event Series](https://agentcon.dev)
 
+{{< discord-community >}}

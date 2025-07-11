@@ -61,3 +61,5 @@ Beyond the technical sessions, had the opportunity to visit Microsoft offices in
 - [Breakout Session Resources](https://aka.ms/aitour/brk453)
 - [Keynote Recording](https://www.youtube.com/live/bYgP-tC5BFU?si=Sz6g0zYewbs82sUt)
 - [GitHub Copilot Workspaces](https://copilot-workspace.githubnext.com/)
+
+{{< discord-community >}}

@@ -84,3 +84,5 @@ This session is part of the ongoing [*Azure AI Fundamentals Series*](https://aka
 - [Azure AI Fundamentals Series](https://aka.ms/aifundamentalstraining-blog)
 - [Microsoft Reactor Events](https://aka.ms/aifundamentalstraining-reactors)
 - [Prompty Documentation](https://prompty.ai)
+
+{{< discord-community >}}

@@ -6,3 +6,5 @@ tags = ["AI", "personal", "productivity"]
 +++
 
 I use AI for everything now, which is not the best idea. But I cannot imagine life in a different way.
+
+{{< discord-community >}}

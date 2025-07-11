@@ -33,8 +33,10 @@ I wanted to update my wallpaper with my first version of the vision board, but i
 
 ![Final vision board](/assets/images/final-vb.jpg)
 
-It felt like digital scrapbooking mapping out my plans for the year sparked a creative streak I can’t seem to shake. Now, I just want to keep going, building, and creating. I know you didn’t ask, but doesn’t my wallpaper look awesome?
+It felt like digital scrapbooking mapping out my plans for the year sparked a creative streak I can't seem to shake. Now, I just want to keep going, building, and creating. I know you didn't ask, but doesn't my wallpaper look awesome?
 
 ![Wallpaper vision board](/assets/images/wallpaper-vb.png)
 
-As I step into this year, my mantra is simple: *What if perfection lies in completion?* I’m shifting my focus from endless planning to actually finishing what I start. Maybe this will be the year I finally launch my newsletter, ship products, write a book, create more, and build a brand. And who knows maybe it’s your year too!
+As I step into this year, my mantra is simple: *What if perfection lies in completion?* I'm shifting my focus from endless planning to actually finishing what I start. Maybe this will be the year I finally launch my newsletter, ship products, write a book, create more, and build a brand. And who knows maybe it's your year too!
+
+{{< discord-community >}}

@@ -18,3 +18,4 @@ Participated in Build AI Kenya meetup and delivered a session on Generative AI i
 
 This session provided an in-depth exploration of generative AI capabilities within Azure AI Foundry, demonstrating how Kenyan developers and organizations can leverage these powerful tools to build innovative AI solutions.
 
+{{< discord-community >}}

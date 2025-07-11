@@ -24,3 +24,5 @@ This session provided practical guidance on developing AI agents, combining Prom
 
 - [Session Details](https://sessionize.com/s/bethanyjep/building-an-agentic-ai-application-with-prompty-an/137512)
 - [AgentCon Conference Series](https://agentcon.dev)
+
+{{< discord-community >}}

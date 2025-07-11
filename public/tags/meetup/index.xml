@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Meetup on bethanyjep</title>
-    <link>https://bethany-jep.com/tags/meetup/</link>
+    <link>http://localhost:1313/tags/meetup/</link>
     <description>Recent content in Meetup on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 26 Jun 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bethany-jep.com/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/meetup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Zetech University AI Workshop</title>
-      <link>https://bethany-jep.com/events/zetech-ai-workshop/</link>
-      <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/zetech-ai-workshop/</guid>
+      <link>http://localhost:1313/events/zetech-ai-workshop/</link>
+      <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/events/zetech-ai-workshop/</guid>
       <description>A session on the overview of Gen AI from LLMs, RAG to Agents.</description>
     </item>
     <item>
       <title>Cape Town Developer User Group Meetup</title>
-      <link>https://bethany-jep.com/events/cptdug-meetup-january-2025/</link>
+      <link>http://localhost:1313/events/cptdug-meetup-january-2025/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/cptdug-meetup-january-2025/</guid>
+      <guid>http://localhost:1313/events/cptdug-meetup-january-2025/</guid>
       <description>Delivered Azure AI Foundry session with ocean views at Cape Town Developer User Group with deep dive into RAG.</description>
     </item>
   </channel>

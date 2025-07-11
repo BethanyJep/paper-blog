@@ -68,3 +68,5 @@ Encountered some technical issues with the workshop materials that required debu
 - [Session Materials & Prototype](https://github.com/microsoft/aitour-concept-to-creation-ai-studio)
 - [Agents Workshop Repository](https://github.com/microsoft/aitour-build-your-first-agent-with-azure-ai-agent-service)
 - [AgentsCon South Africa](https://agentsofai.co.za/)
+
+{{< discord-community >}}

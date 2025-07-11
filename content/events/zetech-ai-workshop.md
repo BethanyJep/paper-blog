@@ -1,6 +1,6 @@
 ---
 title: "Zetech University AI Workshop"
-date: 2025-06-26
+date: 2025-07-08
 upcoming: false
 topic: "LLMs and a bit more"
 type: "Meetup"

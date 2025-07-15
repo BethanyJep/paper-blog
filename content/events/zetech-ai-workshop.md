@@ -18,6 +18,8 @@ Spoke at Zetech University AI Workshop 2025, delivering a session on "LLMs and a
 
 LLMs are key in understanding Generative AI. I discussed on how LLMs work breaking down the concepts of Large Language Models, Retrieval-Augmented Generation (RAG), and the role of AI agents in modern applications.
 
+> updated the repo with a [Spotify MCP server](https://github.com/BethanyJep/llms-and-a-bit-more)
+
 ## Resources
 
 - [Repo](https://github.com/BethanyJep/llms-and-a-bit-more)

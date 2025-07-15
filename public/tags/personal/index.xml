@@ -40,6 +40,19 @@
 &lt;p&gt;So far, I’ve managed to put out &lt;a href=&#34;https://abcdofai.substack.com/&#34;&gt;three newsletters&lt;/a&gt;, I’m on video three in my &lt;a href=&#34;https://www.youtube.com/@bethany-jep&#34;&gt;fun demo series&lt;/a&gt;, but I haven’t posted a single blog here since February. Or March since I deleted the last blog.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Endings and new Beginnings</title>
+      <link>http://localhost:1313/posts/endings/</link>
+      <pubDate>Fri, 04 Apr 2025 06:30:17 +0000</pubDate>
+      <guid>http://localhost:1313/posts/endings/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/life%20endings.png&#34; alt=&#34;blog banner&#34;  /&gt;
+&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;showing up is a lot harder, a lot lot harder.&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;TW: this post contains mentions of death and suicide.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The endlessness of life, &lt;a href=&#34;https://bethany-jep.com/posts/laundry-life/&#34;&gt;as in my previous article,&lt;/a&gt; is always constant. And newness, refresheness, comes as a result. Anyway, welcome to my new rant.&lt;/p&gt;
+&lt;p&gt;I’m reading a new book, &lt;em&gt;&lt;a href=&#34;https://www.goodreads.com/book/show/198902277-the-wedding-people&#34;&gt;The Wedding People.&lt;/a&gt;&lt;/em&gt; And the premise is interesting. Phoebe booked a hotel room simply to die. It bring a lot of emotions to the surface. And, when she failed. When her mission collapsed because of her love of endings, she wanted to watch the wedding party that was happening downstairs. Her love of not wanting to leave anything unfinished. That’s when she truly began living.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Life is like Laundry, it does not stop</title>
       <link>http://localhost:1313/posts/laundry-life/</link>
       <pubDate>Mon, 24 Mar 2025 06:30:17 +0000</pubDate>
@@ -85,7 +98,16 @@
 &lt;p&gt;Welcome to my small garden on the internet.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m Bethany Jepchumba, currently a Cloud Advocate at Microsoft and I enjoy teaching.&lt;/p&gt;
 &lt;p&gt;I have created this website to share my various learnings and experiences in AI, machine learning and everything in between. Hope you enjoy the journey with me.&lt;/p&gt;
-&lt;p&gt;~ Pikachu 🐾&lt;/p&gt;</description>
+&lt;p&gt;~ Pikachu 🐾&lt;/p&gt;
+&lt;div class=&#34;discord-community&#34;&gt;
+    &lt;div class=&#34;discord-banner&#34;&gt;
+        &lt;a href=&#34;https://discord.gg/wCj6HS7T3E&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;
+            &lt;img src=&#34;https://dcbadge.limes.pink/api/server/ByRwuEEgH4&#34; alt=&#34;Join our Discord community&#34; /&gt;
+        &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;p class=&#34;discord-text&#34;&gt;
+        💬 &lt;strong&gt;Join the conversation!&lt;/strong&gt; Connect with our community on Discord to continue the discussion, ask questions, and stay updated on the latest in AI and technology.
+    &lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2025-08-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/projects/spotify-mcp/</loc>
+    <lastmod>2025-07-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ai-agents/</loc>
     <lastmod>2025-07-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -115,6 +118,9 @@
   </url><url>
     <loc>http://localhost:1313/projects/automating-powerpoint/</loc>
     <lastmod>2025-04-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/endings/</loc>
+    <lastmod>2025-04-04T06:30:17+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</loc>
     <lastmod>2025-03-29T00:00:00+00:00</lastmod>

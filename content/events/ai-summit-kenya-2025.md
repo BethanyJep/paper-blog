@@ -10,9 +10,13 @@ summary: "A technical keynote at AI Summit Nairobi focusing on AI and AI Agents.
 tags: ["AI", "Keynote"]
 ---
 
-![](static/assets/images/1747064002054.jpeg)
+![](assets/images/1747064002054.jpeg)
 
 [More information](https://www.linkedin.com/posts/hassan-amin-hussein-_aisummitnairobi2025-kaizenafrika-activity-7327717551818375169-TLRm?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLJfqQBttlf9fLacJBmKUzIEdh4nzh9QPA)
+
+The presentation showcases Kenya’s leadership in AI adoption, the power of building and deploying AI locally (especially with tools like Foundry Local), the importance of responsible and observable AI, and real-world use cases that are already making an impact across industries. It provides practical steps and resources for getting started with AI at scale, tailored for the Kenyan and African context.
+
+{{< speakerdeck f2efe4ffeea541948105519c547878ea >}}
 
 ## The concept of AI and AI Adoption in Kenya
 

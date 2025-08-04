@@ -1,7 +1,7 @@
 ---
 title: "AI Summit Nairobi 2025"
-date: 2025-08-01
-upcoming: true
+date: 2025-08-02
+upcoming: false
 topic: "Technical Keynote on AI Innovation"
 type: "Keynote"
 location: "Strathmore University, Nairobi"

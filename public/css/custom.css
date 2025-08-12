@@ -13,7 +13,7 @@
     --line-height-headings: 1.3;
     
     /* Typography scale for consistent component sizing */
-    --font-size-xs: 0.75rem;      /* 12px - badges, small labels */
+    --font-size-xs: 0.875rem;     /* 14px - badges, small labels */
     --font-size-sm-rem: 0.875rem; /* 14px - meta text, captions */
     --font-size-base-rem: 1rem;   /* 16px - body text */
     --font-size-md: 0.9rem;       /* 14px - descriptions, summaries (reduced) */
@@ -490,9 +490,9 @@ em, i {
         --font-size-base: 16px;
         --line-height-base: 1.6;
         /* Further reduce rem-based variables for small mobile */
-        --font-size-xs: 0.65rem;      /* 10px */
-        --font-size-sm-rem: 0.75rem;  /* 12px */
-        --font-size-md: 0.8rem;       /* 12px - descriptions, summaries (reduced) */
+        --font-size-xs: 0.75rem;       /* 12px */
+        --font-size-sm-rem: 0.875rem;  /* 14px */
+        --font-size-md: 0.875rem;      /* 14px - descriptions, summaries (reduced) */
         --font-size-lg-rem: 0.95rem;  /* 15px - larger body text (reduced) */
         --font-size-xl-rem: 1rem;     /* 16px - subtitle, card titles (reduced) */
         --font-size-2xl: 1.2rem;      /* 19px - section headers (reduced) */

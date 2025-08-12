@@ -313,15 +313,16 @@ body.dark .project-description {
 
 .project-meta .tech-tag {
     display: inline-block;
-    padding: 0.2rem 0.6rem;
-    background: #3b82f6;
-    color: white;
-    border-radius: 12px;
-    font-size: var(--font-size-xs);
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.025em;
-    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+    padding: 0;
+    background: none;
+    color: inherit;
+    border-radius: 0;
+    font-size: var(--font-size-sm-rem);
+    font-weight: normal;
+    text-transform: none;
+    letter-spacing: normal;
+    box-shadow: none;
+    font-style: italic;
 }
 
 /* Dark mode */
@@ -331,7 +332,8 @@ body.dark .project-meta {
 }
 
 body.dark .project-meta .tech-tag {
-    background: #8b5cf6;
+    background: none;
+    color: inherit;
 }
 
 @media (max-width: 768px) {

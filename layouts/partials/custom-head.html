@@ -1,0 +1,14 @@
+{{- /* Custom head partial to ensure HTTPS favicon URLs */}}
+{{- $favicon := site.Params.assets.favicon | default "favicon.ico" }}
+{{- $favicon16 := site.Params.assets.favicon16x16 | default "favicon-16x16.png" }}
+{{- $favicon32 := site.Params.assets.favicon32x32 | default "favicon-32x32.png" }}
+{{- $appleIcon := site.Params.assets.apple_touch_icon | default "apple-touch-icon.png" }}
+
+{{- /* Ensure HTTPS URLs */}}
+<link rel="icon" href="{{ $favicon | relURL }}">
+<link rel="icon" type="image/png" sizes="16x16" href="{{ $favicon16 | relURL }}">
+<link rel="icon" type="image/png" sizes="32x32" href="{{ $favicon32 | relURL }}">
+<link rel="apple-touch-icon" href="{{ $appleIcon | relURL }}">
+
+{{- /* Include the rest of the original head partial */}}
+{{- partial "head.html" . }}

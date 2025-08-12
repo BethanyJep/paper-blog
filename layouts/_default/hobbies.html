@@ -1,0 +1,241 @@
+{{- define "main" }}
+
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Content }}
+    <div class="post-description">
+        {{ .Content }}
+    </div>
+    {{- end }}
+</header>
+
+<div class="hobbies-grid">
+    {{- $hobbies := where .Site.RegularPages "Section" "hobbies" }}
+    {{- $featured := where $hobbies ".Params.featured" true }}
+    {{- $regular := where $hobbies ".Params.featured" "!=" true }}
+    
+    {{- if $featured }}
+    <div class="featured-hobbies">
+        {{- range $featured.ByDate.Reverse }}
+        <article class="hobby-card featured">
+            <div class="hobby-header">
+                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                <div class="hobby-category">
+                    {{- if .Params.category }}
+                    <span class="category-tag">{{ .Params.category }}</span>
+                    {{- end }}
+                </div>
+            </div>
+            <div class="hobby-description">
+                {{ .Summary }}
+            </div>
+            {{- if .Params.skills }}
+            <div class="skills">
+                {{- range .Params.skills }}
+                <span class="skill-tag">{{ . }}</span>
+                {{- end }}
+            </div>
+            {{- end }}
+            {{- if .Params.status }}
+            <div class="hobby-status">
+                <span class="status-badge status-{{ .Params.status }}">{{ .Params.status | title }}</span>
+            </div>
+            {{- end }}
+        </article>
+        {{- end }}
+    </div>
+    {{- end }}
+
+    {{- if $regular }}
+    <div class="all-hobbies">
+        <h2>All My Hobbies</h2>
+        <div class="hobbies-list">
+            {{- range $regular.ByDate.Reverse }}
+            <article class="hobby-card">
+                <div class="hobby-header">
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <div class="hobby-meta">
+                        {{- if .Params.category }}
+                        <span class="category-tag">{{ .Params.category }}</span>
+                        {{- end }}
+                        {{- if .Date }}
+                        <time class="hobby-date">{{ .Date.Format "Jan 2006" }}</time>
+                        {{- end }}
+                    </div>
+                </div>
+                <div class="hobby-description">
+                    {{ .Summary }}
+                </div>
+                {{- if .Params.skills }}
+                <div class="skills">
+                    {{- range .Params.skills }}
+                    <span class="skill-tag">{{ . }}</span>
+                    {{- end }}
+                </div>
+                {{- end }}
+                {{- if .Params.status }}
+                <div class="hobby-status">
+                    <span class="status-badge status-{{ .Params.status }}">{{ .Params.status | title }}</span>
+                </div>
+                {{- end }}
+            </article>
+            {{- end }}
+        </div>
+    </div>
+    {{- end }}
+
+    {{- if not $hobbies }}
+    <div class="no-hobbies">
+        <p>No hobbies shared yet. Check back soon!</p>
+    </div>
+    {{- end }}
+</div>
+
+<style>
+.hobbies-grid {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.featured-hobbies, .all-hobbies {
+    margin-bottom: 2rem;
+}
+
+.hobby-card {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 1.5rem;
+    margin-bottom: 1.5rem;
+    transition: all 0.3s ease;
+}
+
+.hobby-card:hover {
+    border-color: var(--tertiary);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.hobby-card.featured {
+    border-left: 4px solid var(--theme);
+    background: linear-gradient(135deg, var(--entry) 0%, var(--code-bg) 100%);
+}
+
+.hobby-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1rem;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+.hobby-header h3 {
+    margin: 0;
+    color: var(--primary);
+}
+
+.hobby-header h3 a {
+    text-decoration: none;
+    color: inherit;
+    transition: color 0.3s ease;
+}
+
+.hobby-header h3 a:hover {
+    color: var(--theme);
+}
+
+.hobby-meta {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+}
+
+.category-tag {
+    background: var(--theme);
+    color: var(--entry);
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.hobby-date {
+    color: var(--secondary);
+    font-size: 0.85rem;
+}
+
+.hobby-description {
+    color: var(--secondary);
+    line-height: 1.6;
+    margin-bottom: 1rem;
+}
+
+.skills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.skill-tag {
+    background: var(--code-bg);
+    color: var(--primary);
+    padding: 0.3rem 0.6rem;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    border: 1px solid var(--border);
+}
+
+.hobby-status {
+    margin-top: 1rem;
+}
+
+.status-badge {
+    padding: 0.3rem 0.8rem;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.status-active {
+    background: #e7f5e7;
+    color: #2d5a2d;
+}
+
+.status-learning {
+    background: #fff3cd;
+    color: #856404;
+}
+
+.status-paused {
+    background: #f8d7da;
+    color: #721c24;
+}
+
+.status-completed {
+    background: #d1ecf1;
+    color: #0c5460;
+}
+
+.no-hobbies {
+    text-align: center;
+    padding: 2rem;
+    color: var(--secondary);
+}
+
+@media (max-width: 768px) {
+    .hobby-header {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+    
+    .hobby-meta {
+        width: 100%;
+    }
+}
+</style>
+
+{{- end }}

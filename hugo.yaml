@@ -42,6 +42,9 @@ menu:
     - name: Events
       url: /events/
       weight: 7
+    - name: Hobbies
+      url: /hobbies/
+      weight: 8
     - name: Archives
       url: /archives/
       weight: 10

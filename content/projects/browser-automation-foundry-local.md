@@ -4,7 +4,7 @@ date: 2025-06-20
 draft: false
 github_url: "https://github.com/BethanyJep/Browser-Automation-with-Foundry-Local"
 technologies: ["Python", "Flask", "Playwright", "Foundry Local", "AI", "Browser Automation" ]
-summary: "An AI-powered browser automation system that uses Foundry Local models to intelligently navigate websites, avoid CAPTCHAs, and document the entire process with screenshots."
+summary: "An AI-powered browser automation system that uses Foundry Local models."
 featured: false
 ---
 

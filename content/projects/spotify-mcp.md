@@ -4,7 +4,7 @@ date: 2025-07-15
 draft: false
 github_url: "https://github.com/BethanyJep/llms-and-a-bit-more"
 technologies: ["Python", "Azure OpenAI", "RAG","MCP", "AI Toolkit"]
-summary: "A comprehensive educational repository exploring Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), AI Agents, and Model Context Protocol (MCP) through practical, hands-on examples."
+summary: "A comprehensive educational repository exploring LLMs, RAG, AI Agents, MCP."
 featured: false
 ---
 

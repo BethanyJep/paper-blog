@@ -4,7 +4,7 @@ date: 2025-05-02
 draft: false
 github_url: "https://speech.microsoft.com/portal"
 technologies: ["AI", "Azure AI"]
-summary: "A demo on live language translation of videos using Azure Speech Studio, showcasing transcription, translation, and voice-over capabilities."
+summary: "A demo on live language translation of videos using Azure Speech Studio."
 featured: false
 ---
 

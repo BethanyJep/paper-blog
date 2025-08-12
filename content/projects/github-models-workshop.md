@@ -5,7 +5,7 @@ draft: false
 demo_url: "https://workshop-github-models.globalaibootcamp.com/"
 github_url: "https://github.com/BethanyJep/github-models-workshop"
 technologies: ["Python", "GitHub Models", "Azure AI", "Jupyter"]
-summary: "An introductory workshop for exploring and evaluating AI models using GitHub Models, designed for Global AI Bootcamps."
+summary: "An introductory workshop for exploring and evaluating AI models."
 featured: false
 ---
 

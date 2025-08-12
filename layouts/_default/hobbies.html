@@ -18,29 +18,36 @@
     <div class="featured-hobbies">
         {{- range $featured.ByDate.Reverse }}
         <article class="hobby-card featured">
-            <div class="hobby-header">
-                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                <div class="hobby-category">
-                    {{- if .Params.category }}
-                    <span class="category-tag">{{ .Params.category }}</span>
-                    {{- end }}
+            <div class="hobby-content">
+                {{- if .Params.category }}
+                <div class="hobby-badge">
+                    <span class="category-pill">{{ .Params.category }}</span>
+                </div>
+                {{- end }}
+                <h3 class="hobby-title">
+                    <a href="{{ .Permalink }}">{{ .Title }}</a>
+                </h3>
+                <p class="hobby-description">
+                    {{ .Summary }}
+                </p>
+                <div class="hobby-footer">
+                    <div class="hobby-meta">
+                        {{- if .Date }}
+                        <span class="meta-item">
+                            <span class="meta-icon">📅</span>
+                            <time>{{ .Date.Format "Jan 2006" }}</time>
+                        </span>
+                        {{- end }}
+                        {{- if .Params.skills }}
+                        <span class="meta-item">
+                            <span class="meta-icon">🛠️</span>
+                            <span class="skills-preview">{{ index .Params.skills 0 }}{{- if gt (len .Params.skills) 1 }} +{{ sub (len .Params.skills) 1 }}{{- end }}</span>
+                        </span>
+                        {{- end }}
+                    </div>
+                    <a href="{{ .Permalink }}" class="view-more">View More →</a>
                 </div>
             </div>
-            <div class="hobby-description">
-                {{ .Summary }}
-            </div>
-            {{- if .Params.skills }}
-            <div class="skills">
-                {{- range .Params.skills }}
-                <span class="skill-tag">{{ . }}</span>
-                {{- end }}
-            </div>
-            {{- end }}
-            {{- if .Params.status }}
-            <div class="hobby-status">
-                <span class="status-badge status-{{ .Params.status }}">{{ .Params.status | title }}</span>
-            </div>
-            {{- end }}
         </article>
         {{- end }}
     </div>
@@ -52,32 +59,36 @@
         <div class="hobbies-list">
             {{- range $regular.ByDate.Reverse }}
             <article class="hobby-card">
-                <div class="hobby-header">
-                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                    <div class="hobby-meta">
-                        {{- if .Params.category }}
-                        <span class="category-tag">{{ .Params.category }}</span>
-                        {{- end }}
-                        {{- if .Date }}
-                        <time class="hobby-date">{{ .Date.Format "Jan 2006" }}</time>
-                        {{- end }}
+                <div class="hobby-content">
+                    {{- if .Params.category }}
+                    <div class="hobby-badge">
+                        <span class="category-pill">{{ .Params.category }}</span>
+                    </div>
+                    {{- end }}
+                    <h3 class="hobby-title">
+                        <a href="{{ .Permalink }}">{{ .Title }}</a>
+                    </h3>
+                    <p class="hobby-description">
+                        {{ .Summary }}
+                    </p>
+                    <div class="hobby-footer">
+                        <div class="hobby-meta">
+                            {{- if .Date }}
+                            <span class="meta-item">
+                                <span class="meta-icon">📅</span>
+                                <time>{{ .Date.Format "Jan 2006" }}</time>
+                            </span>
+                            {{- end }}
+                            {{- if .Params.skills }}
+                            <span class="meta-item">
+                                <span class="meta-icon">🛠️</span>
+                                <span class="skills-preview">{{ index .Params.skills 0 }}{{- if gt (len .Params.skills) 1 }} +{{ sub (len .Params.skills) 1 }}{{- end }}</span>
+                            </span>
+                            {{- end }}
+                        </div>
+                        <a href="{{ .Permalink }}" class="view-more">View More →</a>
                     </div>
                 </div>
-                <div class="hobby-description">
-                    {{ .Summary }}
-                </div>
-                {{- if .Params.skills }}
-                <div class="skills">
-                    {{- range .Params.skills }}
-                    <span class="skill-tag">{{ . }}</span>
-                    {{- end }}
-                </div>
-                {{- end }}
-                {{- if .Params.status }}
-                <div class="hobby-status">
-                    <span class="status-badge status-{{ .Params.status }}">{{ .Params.status | title }}</span>
-                </div>
-                {{- end }}
             </article>
             {{- end }}
         </div>
@@ -93,147 +104,290 @@
 
 <style>
 .hobbies-grid {
-    max-width: 800px;
+    max-width: 900px;
     margin: 0 auto;
+    padding: 0 1rem;
 }
 
 .featured-hobbies, .all-hobbies {
+    margin-bottom: 3rem;
+}
+
+.all-hobbies h2 {
+    font-size: 1.5rem;
     margin-bottom: 2rem;
+    font-weight: 600;
+}
+
+.hobbies-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 1.5rem;
 }
 
 .hobby-card {
-    background: var(--entry);
     border: 1px solid var(--border);
-    border-radius: 8px;
-    padding: 1.5rem;
-    margin-bottom: 1.5rem;
+    border-radius: 12px;
+    padding: 0;
     transition: all 0.3s ease;
+    overflow: hidden;
+    position: relative;
+}
+
+.hobby-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, #3b82f6, #8b5cf6, #06b6d4);
+    opacity: 0;
+    transition: opacity 0.3s ease;
 }
 
 .hobby-card:hover {
-    border-color: var(--tertiary);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    transform: translateY(-4px);
 }
 
-.hobby-card.featured {
-    border-left: 4px solid var(--theme);
-    background: linear-gradient(135deg, var(--entry) 0%, var(--code-bg) 100%);
+.hobby-card:hover::before {
+    opacity: 1;
 }
 
-.hobby-header {
+.hobby-card.featured::before {
+    opacity: 0.7;
+}
+
+/* Light mode - default */
+.hobby-card {
+    background: #ffffff;
+    border-color: #e5e7eb;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+    color: #1f2937;
+}
+
+.hobby-card:hover {
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+    border-color: #d1d5db;
+}
+
+.category-pill {
+    background: #3b82f6;
+    color: white;
+}
+
+.hobby-title a {
+    color: #1f2937;
+}
+
+.hobby-title a:hover {
+    color: #3b82f6;
+}
+
+.hobby-description {
+    color: #6b7280;
+}
+
+.meta-item {
+    color: #6b7280;
+}
+
+.view-more {
+    color: #3b82f6;
+}
+
+.view-more:hover {
+    color: #1d4ed8;
+}
+
+/* Dark mode */
+body.dark .hobby-card {
+    background: #000000;
+    border-color: #374151;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+    color: #f9fafb;
+}
+
+body.dark .hobby-card:hover {
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.4);
+    border-color: #4b5563;
+}
+
+body.dark .category-pill {
+    background: #8b5cf6;
+    color: white;
+}
+
+body.dark .hobby-title a {
+    color: #f9fafb;
+}
+
+body.dark .hobby-title a:hover {
+    color: #a78bfa;
+}
+
+body.dark .hobby-description {
+    color: #9ca3af;
+}
+
+body.dark .meta-item {
+    color: #9ca3af;
+}
+
+body.dark .view-more {
+    color: #a78bfa;
+}
+
+body.dark .view-more:hover {
+    color: #c4b5fd;
+}
+
+.hobby-content {
+    padding: 1.5rem;
+}
+
+.hobby-badge {
+    margin-bottom: 1rem;
+}
+
+.category-pill {
+    display: inline-block;
+    padding: 0.25rem 0.75rem;
+    border-radius: 12px;
+    font-size: 0.75rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.025em;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+}
+
+.hobby-title {
+    margin: 0 0 0.75rem 0;
+    font-size: 1.25rem;
+    font-weight: 700;
+    line-height: 1.4;
+}
+
+.hobby-title a {
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+.hobby-description {
+    line-height: 1.6;
+    margin: 0 0 1.5rem 0;
+    font-size: 0.95rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+
+.hobby-footer {
     display: flex;
     justify-content: space-between;
-    align-items: flex-start;
-    margin-bottom: 1rem;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-}
-
-.hobby-header h3 {
-    margin: 0;
-    color: var(--primary);
-}
-
-.hobby-header h3 a {
-    text-decoration: none;
-    color: inherit;
-    transition: color 0.3s ease;
-}
-
-.hobby-header h3 a:hover {
-    color: var(--theme);
+    align-items: center;
+    gap: 1rem;
 }
 
 .hobby-meta {
     display: flex;
-    align-items: center;
-    gap: 0.5rem;
-    flex-wrap: wrap;
+    gap: 1rem;
+    flex: 1;
 }
 
-.category-tag {
-    background: var(--theme);
-    color: var(--entry);
-    padding: 0.2rem 0.6rem;
-    border-radius: 12px;
+.meta-item {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
     font-size: 0.85rem;
+}
+
+.meta-icon {
+    font-size: 0.9rem;
+}
+
+.skills-preview {
     font-weight: 500;
 }
 
-.hobby-date {
-    color: var(--secondary);
-    font-size: 0.85rem;
+.view-more {
+    text-decoration: none;
+    font-size: 0.875rem;
+    font-weight: 500;
+    transition: all 0.2s ease;
+    white-space: nowrap;
 }
 
-.hobby-description {
-    color: var(--secondary);
-    line-height: 1.6;
-    margin-bottom: 1rem;
-}
-
-.skills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.5rem;
-    margin-bottom: 1rem;
-}
-
-.skill-tag {
-    background: var(--code-bg);
-    color: var(--primary);
-    padding: 0.3rem 0.6rem;
-    border-radius: 6px;
-    font-size: 0.8rem;
-    border: 1px solid var(--border);
-}
-
-.hobby-status {
-    margin-top: 1rem;
-}
-
-.status-badge {
-    padding: 0.3rem 0.8rem;
-    border-radius: 20px;
-    font-size: 0.8rem;
-    font-weight: 600;
-    text-transform: uppercase;
-    letter-spacing: 0.5px;
-}
-
-.status-active {
-    background: #e7f5e7;
-    color: #2d5a2d;
-}
-
-.status-learning {
-    background: #fff3cd;
-    color: #856404;
-}
-
-.status-paused {
-    background: #f8d7da;
-    color: #721c24;
-}
-
-.status-completed {
-    background: #d1ecf1;
-    color: #0c5460;
+.view-more:hover {
+    transform: translateX(2px);
 }
 
 .no-hobbies {
     text-align: center;
-    padding: 2rem;
-    color: var(--secondary);
+    padding: 3rem;
+    border: 1px dashed #d1d5db;
+    border-radius: 12px;
 }
 
+/* Light mode - default */
+.no-hobbies {
+    background: #ffffff;
+    color: #6b7280;
+    border-color: #d1d5db;
+}
+
+.all-hobbies h2 {
+    color: #1f2937;
+}
+
+/* Dark mode */
+body.dark .no-hobbies {
+    background: #000000;
+    color: #9ca3af;
+    border-color: #4b5563;
+}
+
+body.dark .all-hobbies h2 {
+    color: #f9fafb;
+}
+
+/* Mobile responsive */
 @media (max-width: 768px) {
-    .hobby-header {
+    .hobbies-grid {
+        padding: 0 0.5rem;
+    }
+    
+    .hobbies-list {
+        grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .hobby-content {
+        padding: 1.25rem;
+    }
+    
+    .hobby-footer {
         flex-direction: column;
+        align-items: flex-start;
+        gap: 0.75rem;
+    }
+    
+    .view-more {
+        align-self: flex-end;
+    }
+}
+
+@media (max-width: 480px) {
+    .hobby-meta {
+        flex-direction: column;
+        gap: 0.5rem;
         align-items: flex-start;
     }
     
-    .hobby-meta {
-        width: 100%;
+    .meta-item {
+        font-size: 0.8rem;
     }
 }
 </style>

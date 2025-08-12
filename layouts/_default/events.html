@@ -28,14 +28,8 @@
         {{- .Title | markdownify }}
       </h3>
       <div class="archive-meta event-meta">
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
         {{- if .Params.type }}
         <span class="event-type {{ .Params.type | lower }}">{{ .Params.type }}</span>
-        {{- end }}
-        {{- if .Params.location }}
-        <span class="event-location">
-          {{- if .Params.virtual }}🌐{{ else }}📍{{ end }} {{ .Params.location }}
-        </span>
         {{- end }}
         {{- if .Params.topic }}
         <span class="event-topic">{{ .Params.topic }}</span>
@@ -45,6 +39,7 @@
       <div class="event-summary">{{ .Summary }}</div>
       {{- end }}
       <div class="event-read-more">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
         {{- if .Params.event_url }}
         <a href="{{ .Params.event_url }}" target="_blank" rel="noopener">Event Details</a> • 
         {{- end }}
@@ -75,14 +70,8 @@
         {{- .Title | markdownify }}
       </h3>
       <div class="archive-meta event-meta">
-        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
         {{- if .Params.type }}
         <span class="event-type {{ .Params.type | lower }}">{{ .Params.type }}</span>
-        {{- end }}
-        {{- if .Params.location }}
-        <span class="event-location">
-          {{- if .Params.virtual }}🌐{{ else }}📍{{ end }} {{ .Params.location }}
-        </span>
         {{- end }}
         {{- if .Params.topic }}
         <span class="event-topic">{{ .Params.topic }}</span>
@@ -92,6 +81,7 @@
       <div class="event-summary">{{ .Summary }}</div>
       {{- end }}
       <div class="event-read-more">
+        <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
         <a href="{{ .Permalink }}">Read More →</a>
       </div>
       <a class="entry-link" aria-label="event link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
@@ -216,14 +206,21 @@
 
 .event-read-more {
   margin-top: 1rem;
-  text-align: right;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 0.875rem;
+}
+
+.event-read-more time {
+  font-weight: 500;
+  color: var(--primary);
 }
 
 .event-read-more a {
   color: var(--primary);
   text-decoration: none;
   font-weight: 500;
-  font-size: 0.875rem;
   transition: all 0.2s ease;
 }
 
@@ -250,7 +247,9 @@
   }
   
   .event-read-more {
-    text-align: left;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.5rem;
   }
 }
 </style>

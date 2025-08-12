@@ -1,5 +1,5 @@
 ---
-title: "Projects & Demos"
+title: "Projects"
 layout: "projects"
 url: "/projects/"
 summary: "My projects, workshops, and demonstrations"

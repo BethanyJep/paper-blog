@@ -103,6 +103,12 @@
 </div>
 
 <style>
+/* Force override theme's 24px font size */
+.hobbies-grid, .hobbies-grid * {
+    font-family: var(--font-serif) !important;
+    font-size: var(--font-size-base) !important;
+}
+
 .hobbies-grid {
     max-width: 900px;
     margin: 0 auto;
@@ -114,15 +120,17 @@
 }
 
 .all-hobbies h2 {
-    font-size: 1.5rem;
-    margin-bottom: 2rem;
+    font-size: var(--font-size-lg-rem);
+    margin-bottom: 1.5rem;
     font-weight: 600;
 }
 
 .hobbies-list {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.25rem;
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
 .hobby-card {
@@ -243,7 +251,7 @@ body.dark .view-more:hover {
 }
 
 .hobby-content {
-    padding: 1.5rem;
+    padding: 1.25rem;
 }
 
 .hobby-badge {
@@ -252,9 +260,9 @@ body.dark .view-more:hover {
 
 .category-pill {
     display: inline-block;
-    padding: 0.25rem 0.75rem;
+    padding: 0.2rem 0.6rem;
     border-radius: 12px;
-    font-size: 0.75rem;
+    font-size: var(--font-size-xs);
     font-weight: 500;
     text-transform: uppercase;
     letter-spacing: 0.025em;
@@ -263,8 +271,8 @@ body.dark .view-more:hover {
 
 .hobby-title {
     margin: 0 0 0.75rem 0;
-    font-size: 1.25rem;
-    font-weight: 700;
+    font-size: var(--font-size-base-rem) !important;
+    font-weight: 600;
     line-height: 1.4;
 }
 
@@ -274,12 +282,12 @@ body.dark .view-more:hover {
 }
 
 .hobby-description {
-    line-height: 1.6;
-    margin: 0 0 1.5rem 0;
-    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0 0 1.25rem 0;
+    font-size: var(--font-size-md) !important;
     display: -webkit-box;
-    -webkit-line-clamp: 3;
-    line-clamp: 3;
+    -webkit-line-clamp: 2;
+    line-clamp: 2;
     -webkit-box-orient: vertical;
     overflow: hidden;
 }
@@ -301,11 +309,11 @@ body.dark .view-more:hover {
     display: flex;
     align-items: center;
     gap: 0.25rem;
-    font-size: 0.85rem;
+    font-size: var(--font-size-xs) !important;
 }
 
 .meta-icon {
-    font-size: 0.9rem;
+    font-size: var(--font-size-sm-rem);
 }
 
 .skills-preview {
@@ -314,7 +322,7 @@ body.dark .view-more:hover {
 
 .view-more {
     text-decoration: none;
-    font-size: 0.875rem;
+    font-size: var(--font-size-xs);
     font-weight: 500;
     transition: all 0.2s ease;
     white-space: nowrap;
@@ -387,7 +395,7 @@ body.dark .all-hobbies h2 {
     }
     
     .meta-item {
-        font-size: 0.8rem;
+        font-size: var(--font-size-xs);
     }
 }
 </style>

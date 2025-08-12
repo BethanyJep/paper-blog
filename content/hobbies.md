@@ -1,5 +1,5 @@
 ---
-title: "Hobbies & Interests"
+title: "Hobbies"
 layout: "hobbies"
 url: "/hobbies/"
 summary: "Things I love doing in my free time"

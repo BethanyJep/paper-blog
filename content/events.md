@@ -1,5 +1,5 @@
 ---
-title: "Events & Speaking"
+title: "Events"
 layout: "events"
 url: "/events/"
 summary: "Speaking engagements, workshops, and events I've participated in"

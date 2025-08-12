@@ -12,6 +12,16 @@
     --line-height-base: 1.7;
     --line-height-headings: 1.3;
     
+    /* Typography scale for consistent component sizing */
+    --font-size-xs: 0.75rem;      /* 12px - badges, small labels */
+    --font-size-sm-rem: 0.875rem; /* 14px - meta text, captions */
+    --font-size-base-rem: 1rem;   /* 16px - body text */
+    --font-size-md: 0.9rem;       /* 14px - descriptions, summaries (reduced) */
+    --font-size-lg-rem: 1.125rem; /* 18px - larger body text */
+    --font-size-xl-rem: 1.25rem;  /* 20px - subtitle, card titles */
+    --font-size-2xl: 1.5rem;      /* 24px - section headers */
+    --font-size-3xl: 2rem;        /* 32px - page titles */
+    
     /* Font families */
     --font-serif: 'Libre Baskerville', Georgia, serif;
     --font-headings: Georgia, 'Libre Baskerville', serif;
@@ -83,6 +93,68 @@ h6 {
 
 /* Additional font family rules for consistent typography */
 
+/* Component Typography Classes for Consistency */
+
+/* Card and entry meta styling */
+.card-meta, .entry-meta, .archive-meta {
+    font-size: var(--font-size-sm-rem);
+    color: var(--secondary);
+}
+
+/* Card titles and section headers */
+.card-title, .section-title {
+    font-size: var(--font-size-base-rem);  /* Further reduced to base rem size */
+    font-family: var(--font-headings);
+    font-weight: 600;
+}
+
+.page-section-header {
+    font-size: var(--font-size-2xl);
+    font-family: var(--font-headings);
+    margin-bottom: 1rem;
+}
+
+/* Card descriptions and summaries */
+.card-description, .entry-summary {
+    font-size: var(--font-size-md);
+    line-height: 1.5; /* Reduced line height for tighter text */
+}
+
+/* Additional card styling for better proportions */
+.project-card, .hobby-card, .event-entry {
+    max-width: 100%;
+    /* Ensure cards don't get too wide on large screens */
+}
+
+.project-card .project-description,
+.hobby-card .hobby-description,
+.event-entry .event-summary {
+    line-height: 1.5; /* Tighter line height for descriptions */
+    -webkit-line-clamp: 2; /* Limit to 2 lines instead of 3 */
+    line-clamp: 2;
+}
+
+/* Badges and labels */
+.badge, .tag, .label {
+    font-size: var(--font-size-xs);
+    font-weight: 600;
+}
+
+/* Topics and categories */
+.topic, .category {
+    font-size: var(--font-size-sm-rem);
+    font-style: italic;
+    color: var(--primary);
+    font-weight: 500;
+}
+
+/* Read more links and actions */
+.read-more, .action-links {
+    font-size: var(--font-size-sm-rem);
+}
+
+/* Additional font family rules for consistent typography */
+
 /* Post content typography */
 .post-content {
     font-family: var(--font-serif);
@@ -135,13 +207,14 @@ code, pre {
 
 /* Post content typography */
 .post-content {
-    font-size: var(--font-size-base);
+    font-size: var(--font-size-base) !important;
     line-height: var(--line-height-base);
+    font-family: var(--font-serif) !important;
 }
 
 .post-content p {
     margin-bottom: 1.4em;
-    font-size: var(--font-size-base);
+    font-size: var(--font-size-base) !important;
 }
 
 /* Blockquotes */
@@ -157,9 +230,10 @@ blockquote {
 
 /* Lists */
 ul, ol {
-    font-size: var(--font-size-base);
+    font-size: var(--font-size-base) !important;
     line-height: var(--line-height-base);
     margin-bottom: 1.2em;
+    font-family: var(--font-serif) !important;
 }
 
 li {
@@ -376,6 +450,14 @@ em, i {
         --font-size-base: 17px;
         --font-size-sm: 15px;
         --font-size-lg: 19px;
+        /* Update rem-based variables for mobile */
+        --font-size-xs: 0.7rem;       /* 11px */
+        --font-size-sm-rem: 0.8rem;   /* 13px */
+        --font-size-md: 0.85rem;      /* 13px - descriptions, summaries (reduced) */
+        --font-size-lg-rem: 1rem;     /* 16px - larger body text (reduced) */
+        --font-size-xl-rem: 1.1rem;   /* 17px - subtitle, card titles (reduced) */
+        --font-size-2xl: 1.3rem;      /* 20px - section headers (reduced) */
+        --font-size-3xl: 1.6rem;      /* 25px */
     }
     
     body {
@@ -407,6 +489,14 @@ em, i {
     :root {
         --font-size-base: 16px;
         --line-height-base: 1.6;
+        /* Further reduce rem-based variables for small mobile */
+        --font-size-xs: 0.65rem;      /* 10px */
+        --font-size-sm-rem: 0.75rem;  /* 12px */
+        --font-size-md: 0.8rem;       /* 12px - descriptions, summaries (reduced) */
+        --font-size-lg-rem: 0.95rem;  /* 15px - larger body text (reduced) */
+        --font-size-xl-rem: 1rem;     /* 16px - subtitle, card titles (reduced) */
+        --font-size-2xl: 1.2rem;      /* 19px - section headers (reduced) */
+        --font-size-3xl: 1.5rem;      /* 24px */
     }
     
     h1 { font-size: 1.8rem; }
@@ -422,12 +512,12 @@ em, i {
     }
     
     .project-header h3 {
-        font-size: 1.1rem;
+        font-size: 0.95rem;
     }
     
     .demo-link, .github-link {
-        padding: 0.4rem 0.6rem;
-        font-size: 0.85rem;
+        padding: 0.3rem 0.5rem;
+        font-size: 0.7rem;
     }
     
     .post-entry .entry-header h2 {

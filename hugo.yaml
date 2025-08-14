@@ -20,11 +20,10 @@ params:
     css:
       - "css/custom.css"
       - "css/force-typography.css"
-    favicon: "https://bethany-jep.com/favicon.svg"
-    favicon16x16: "https://bethany-jep.com/favicon-16x16.png"
-    favicon32x32: "https://bethany-jep.com/favicon-32x32.png"
-    apple_touch_icon: "https://bethany-jep.com/apple-touch-icon.png"
-    safari_pinned_tab: "https://bethany-jep.com/favicon.svg"
+    favicon: "favicon.svg"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    safari_pinned_tab: "favicon.svg"
   socialIcons:
     - name: "github"
       url: "https://github.com/bethanyjep"

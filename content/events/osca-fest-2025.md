@@ -11,7 +11,7 @@ tags: ["Open Source", "Documentation", "AI"]
 
 To participate in OSCA Fest 2025 in Lagos, Nigeria, delivering a talk on how AI can transform and scale open-source documentation practices.
 
-{{ < speakerdeck 2c030180332f421391c2b2167e2dc956>}}
+{{< speakerdeck 2c030180332f421391c2b2167e2dc956 >}}
 
 ## Demos
 

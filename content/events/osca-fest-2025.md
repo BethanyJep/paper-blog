@@ -1,7 +1,6 @@
 ---
 title: "OSCA Fest 2025"
 date: 2025-08-16
-upcoming: true
 topic: "Scaling Open-Source Documentation with AI"
 type: "Conference"
 location: "Lagos, Nigeria"

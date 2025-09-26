@@ -1,6 +1,6 @@
 ---
 title: "PyconKE 2025"
-date: 2025-25-09
+date: 2025-09-09
 upcoming: false
 topic: "Building AI Agents with Azure AI Foundry and Prompty"
 type: "Conference"
@@ -23,5 +23,6 @@ In this session, I’ll share how I built a lightweight AI agent using Prompty a
 - [Find the discussion labeler](https://github.com/golclinics/discussions)
 - [Spotify + MCP agent](https://github.com/BethanyJep/llms-and-a-bit-more/tree/main/spotify-play-music)
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [Foundry Local](https://github.com/microsoft/Foundry-Local)
 
 {{< discord-community >}}

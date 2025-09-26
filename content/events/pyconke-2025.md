@@ -24,5 +24,7 @@ In this session, I’ll share how I built a lightweight AI agent using Prompty a
 - [Spotify + MCP agent](https://github.com/BethanyJep/llms-and-a-bit-more/tree/main/spotify-play-music)
 - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
 - [Foundry Local](https://github.com/microsoft/Foundry-Local)
+- [AI Toolkit extension](https://learn.microsoft.com/en-us/windows/ai/toolkit/)
+- [Prompty](https://github.com/microsoft/prompty)
 
 {{< discord-community >}}

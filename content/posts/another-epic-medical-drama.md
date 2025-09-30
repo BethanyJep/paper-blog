@@ -9,7 +9,9 @@ tags = ["personal", "mental-health"]
 
 > 🚧 my second submission on mental health, and beyond. Proceed with caution!
 
-To better interact with the content, you can go back a few steps and [read about the beginning before proceeding.](/content/posts/epic-medical-drama.md) As always with medical drama series, proceed with caution. This is a very detailed premise of dealing with mental health: from Bipolar, PTSD, ADHD, and more. I’m not an expert, but I have myriads of experience, and I hope sharing my story counts.
+**Song:** [Together in this by Natasha Bedingfield](https://open.spotify.com/track/0x9p2PjS0t9DbwqK4vgtWR?si=4c9a26237ebe43d4)
+
+To better interact with the content, you can go back a few steps and [read about the beginning before proceeding.](https://bethany-jep.com/posts/epic-medical-drama/) As always with medical drama series, proceed with caution. This is a very detailed premise of dealing with mental health: from Bipolar, PTSD, ADHD, and more. I’m not an expert, but I have myriads of experience, and I hope sharing my story counts.
 
 September being Suicide Awareness Month feels apt, so in tune with my own medical drama. The beauty that comes with awareness months like this is that they are ripe and filled with resources.
 

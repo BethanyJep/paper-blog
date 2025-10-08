@@ -1,6 +1,6 @@
 ---
 title: "PyconKE 2025"
-date: 2025-09-09
+date: 2025-10-05
 upcoming: false
 topic: "Building AI Agents with Azure AI Foundry and Prompty"
 type: "Conference"

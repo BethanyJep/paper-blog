@@ -44,7 +44,7 @@ You’ll walk away with a fresh perspective on AI agents: not just as the future
 
 ### Tools
 - [AI Toolkit](https://learn.microsoft.com/en-us/windows/ai/toolkit/)
-- [GitHub Copilot MCP Registry](https://github.com/modelcontextprotocol/registry)
+- [VS Code MCP Registry](https://github.com/mcp?utm_source=vscode-website&utm_campaign=mcp-registry-server-launch-2025)
 - [Azure AI Foundry](https://ai.azure.com)
 
 ### Demos & Projects

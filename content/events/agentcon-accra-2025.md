@@ -6,15 +6,15 @@ topic: "Ctrl + Alt + Assist: AI Agents Edition"
 type: "Conference"
 virtual: false
 location: "Accra, Ghana"
-summary: "Delivered talk on 'The Age of AI Agents' at AgentCon Accra, exploring autonomous AI systems and their applications."
+summary: "Delivered talk on 'Ctrl + Alt + Assist: AI Agents Edition' at AgentCon Accra, exploring autonomous AI systems and their applications."
 tags: ["AI Agents", "Conference"]
 ---
 
-Spoke at AgentCon Accra 2025, delivering a comprehensive session on "The Age of AI Agents" to an engaged audience of developers, students, and business leaders in Accra's thriving tech ecosystem.
+Spoke at AgentCon Accra 2025, delivering a comprehensive session on "Ctrl + Alt + Assist: AI Agents Edition" to an engaged audience of developers, students, and business leaders in Accra's thriving tech ecosystem.
 
 {{< speakerdeck 484c88402c374735b0e3635d3249fac4 >}}
 
-## Keynote: The Age of AI Agents
+## Keynote: Ctrl + Alt + Assist: AI Agents Edition
 
 In this keynote, we’ll explore the rise of AI agents:
 

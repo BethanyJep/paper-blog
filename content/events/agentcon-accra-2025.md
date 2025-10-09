@@ -2,7 +2,7 @@
 title: "AgentCon Accra 2025"
 date: 2025-10-08
 upcoming: false
-topic: "The Age of AI Agents"
+topic: "Ctrl + Alt + Assist: AI Agents Edition"
 type: "Conference"
 virtual: false
 location: "Accra, Ghana"
@@ -12,36 +12,44 @@ tags: ["AI Agents", "Conference"]
 
 Spoke at AgentCon Accra 2025, delivering a comprehensive session on "The Age of AI Agents" to an engaged audience of developers, students, and business leaders in Accra's thriving tech ecosystem.
 
-<!-- {{< speakerdeck  >}} -->
+{{< speakerdeck 484c88402c374735b0e3635d3249fac4 >}}
 
 ## Keynote: The Age of AI Agents
 
-This session provided an in-depth exploration of AI agents, their current capabilities, and the transformative potential they hold for various industries and applications.
+In this keynote, we’ll explore the rise of AI agents:
+
+- What exactly are Agents? Are they just smarter bots or a new paradigm in AI?
+- What kinds of Agents exist today, from low-code Copilot Studio flows to full-fledged multi-agent systems powered by Azure AI Foundry and running on the edge?
+- How you can build, deploy, and extend agents today using Microsoft’s ecosystem, from templates to custom orchestration with your own data to using mcp.
+
+Along the way, we’ll highlight real-world use cases, edge-ready deployments, and the principles of building responsible, trustworthy AI systems that continue to work even offline.
+
+You’ll walk away with a fresh perspective on AI agents: not just as the future of AI, but as teammates ready to transform how you work.
 
 ## Resources
 
 ### Community
 
-- [Global AI Community Ghana]()
-- [AgentCon Accra]()
+- [Global AI Community Ghana](https://globalai.community/chapters/accra/)
+- [AgentCon Accra](https://globalai.community/chapters/accra/events/agentcon-accra/)
 
 ### Learning
-- [Generative AI for begginers]()
-- [Agents for begginers]()
-- [MCP for begginers]()
-- [Edge for begginers]()
-- [Data Science for begginers]()
+- [Generative AI for begginers](https://github.com/microsoft/generative-ai-for-beginners)
+- [AI Agents for begginers](https://github.com/microsoft/ai-agents-for-beginners)
+- [MCP for begginers](https://github.com/microsoft/mcp-for-beginners)
+- [Edge for begginers](https://github.com/microsoft/edgeai-for-beginners)
+- [Data Science for begginers](https://aka.ms/datascience-beginners)
 
 ### Tools
-- [AI Toolkit]()
-- [GitHub Copilot MCP Registry]()
-- [Azure AI Foundry]()
+- [AI Toolkit](https://learn.microsoft.com/en-us/windows/ai/toolkit/)
+- [GitHub Copilot MCP Registry](https://github.com/modelcontextprotocol/registry)
+- [Azure AI Foundry](https://ai.azure.com)
 
 ### Demos & Projects
-- [Foundry Local and reasoning agents]()
-- [Spotify Agent with MCP, and evalutations]()
-- [Study Buddy chatmode in GitHub Copilot]()
-- [The new Microsoft Opensource Agent Framework]()
-- [Issues tagging and discussions with GitHub]()
+- [Foundry Local and reasoning agents](https://github.com/BethanyJep/Browser-Automation-with-Foundry-Local)
+- [Spotify Agent with MCP, and evalutations](https://github.com/BethanyJep/llms-and-a-bit-more)
+- [Study Buddy chatmode in GitHub Copilot](https://learn.microsoft.com/en-us/agent-framework/)
+- [The new Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/)
+- [Issues tagging and discussions with GitHub](https://github.com/golclinics/discussions)
 
 {{< discord-community >}}

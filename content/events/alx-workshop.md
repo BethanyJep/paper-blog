@@ -8,8 +8,7 @@ location: "Alx Hub, Nairobi"
 summary: "Delivered session on building agents."
 tags: ["MCP", "Agents", "AI"]
 ---
-
-<!-- {{< speakerdeck ab029f212a7344a5bf1bad531497184a >}} -->
+{{< speakerdeck 766f47e930ba416e859a5556b57e6661 >}}
 
 ## Session: Building AI Agents with Azure AI Foundry and AI Toolkit
 

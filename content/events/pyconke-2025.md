@@ -6,7 +6,7 @@ topic: "Building AI Agents with Azure AI Foundry and Prompty"
 type: "Conference"
 location: "Ngong Hills Hotel, Nairobi"
 summary: "Delivered session on building agents."
-tags: ["MCP", "Agentd", "AI"]
+tags: ["MCP", "Agents", "AI"]
 ---
 Spoke at PyconKE 2025 in Nairobi, delivering a session on "Building AI Agents with Azure AI Foundry and Prompty" to an audience of technical writers, documentation specialists, and open-source contributors.
 

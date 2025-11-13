@@ -15,6 +15,8 @@ tags: ["MCP", "Agents", "AI"]
 
 The GitHub Copilot & AI Toolkit Pet Planner Workshop — creating a smart, friendly agent that plans pet playdates using data and AI reasoning. Learning how to design, configure, generate, trace, and evaluate an AI-powered workflow.
 
+> Codebase: https://github.com/BethanyJep/AI_Toolkit_Samples
+
 
 ## Resources
 

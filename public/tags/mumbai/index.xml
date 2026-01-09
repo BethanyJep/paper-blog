@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mumbai on bethanyjep</title><link>https://bethany-jep.com/tags/mumbai/</link><description>Recent content in Mumbai on bethanyjep</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bethany-jep.com/tags/mumbai/index.xml" rel="self" type="application/rss+xml"/><item><title>AgentCon Mumbai 2025</title><link>https://bethany-jep.com/events/agentcon-mumbai-2025/</link><pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate><guid>https://bethany-jep.com/events/agentcon-mumbai-2025/</guid><description>Delivered keynote on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Mumbai, exploring the future of AI Agents.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mumbai on bethanyjep</title>
+    <link>https://bethany-jep.com/tags/mumbai/</link>
+    <description>Recent content in Mumbai on bethanyjep</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bethany-jep.com/tags/mumbai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AgentCon Mumbai 2025</title>
+      <link>https://bethany-jep.com/events/agentcon-mumbai-2025/</link>
+      <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://bethany-jep.com/events/agentcon-mumbai-2025/</guid>
+      <description>Delivered keynote on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Mumbai, exploring the future of AI Agents.</description>
+    </item>
+  </channel>
+</rss>

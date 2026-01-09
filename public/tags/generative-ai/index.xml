@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Generative AI on bethanyjep</title><link>https://bethany-jep.com/tags/generative-ai/</link><description>Recent content in Generative AI on bethanyjep</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bethany-jep.com/tags/generative-ai/index.xml" rel="self" type="application/rss+xml"/><item><title>Build AI Kenya 2025</title><link>https://bethany-jep.com/events/build-ai-kenya-2025/</link><pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate><guid>https://bethany-jep.com/events/build-ai-kenya-2025/</guid><description>Delivered virtual session on Generative AI in Azure AI Foundry at Build AI Kenya meetup group.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Generative AI on bethanyjep</title>
+    <link>https://bethany-jep.com/tags/generative-ai/</link>
+    <description>Recent content in Generative AI on bethanyjep</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bethany-jep.com/tags/generative-ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Build AI Kenya 2025</title>
+      <link>https://bethany-jep.com/events/build-ai-kenya-2025/</link>
+      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://bethany-jep.com/events/build-ai-kenya-2025/</guid>
+      <description>Delivered virtual session on Generative AI in Azure AI Foundry at Build AI Kenya meetup group.</description>
+    </item>
+  </channel>
+</rss>

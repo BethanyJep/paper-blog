@@ -2,7 +2,7 @@
 
 > bethanyjep blog powered by Hugo and PaperMod theme
 
-Welcome to my small garden on the internet. I currently do devrel at Microsoft. I love teaching, building, creating and making my little corner of the world better everyday.
+Welcome to my small garden on the internet. I am in Developer Relations. I love teaching, building, creating and making my little corner of the world better everyday.
 
 ## What you will find here
 

@@ -1,1 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Mcp on bethanyjep</title><link>https://bethany-jep.com/tags/mcp/</link><description>Recent content in Mcp on bethanyjep</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://bethany-jep.com/tags/mcp/index.xml" rel="self" type="application/rss+xml"/><item><title>MCP Bootcamp: MCP Integration with LLMs</title><link>https://bethany-jep.com/events/mcp-bootcamp-llms/</link><pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate><guid>https://bethany-jep.com/events/mcp-bootcamp-llms/</guid><description>A talk on scaling open-source documentation using AI at OSCA Fest Lagos.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MCP on bethanyjep</title>
+    <link>https://bethany-jep.com/tags/mcp/</link>
+    <description>Recent content in MCP on bethanyjep</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://bethany-jep.com/tags/mcp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alx Alumni Workshop</title>
+      <link>https://bethany-jep.com/events/alx-workshop/</link>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>https://bethany-jep.com/events/alx-workshop/</guid>
+      <description>Delivered session on building agents.</description>
+    </item>
+    <item>
+      <title>PyconKE 2025</title>
+      <link>https://bethany-jep.com/events/pyconke-2025/</link>
+      <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>https://bethany-jep.com/events/pyconke-2025/</guid>
+      <description>Delivered session on building agents.</description>
+    </item>
+    <item>
+      <title>MCP Bootcamp: MCP Integration with LLMs</title>
+      <link>https://bethany-jep.com/events/mcp-bootcamp-llms/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://bethany-jep.com/events/mcp-bootcamp-llms/</guid>
+      <description>A talk on scaling open-source documentation using AI at OSCA Fest Lagos.</description>
+    </item>
+  </channel>
+</rss>

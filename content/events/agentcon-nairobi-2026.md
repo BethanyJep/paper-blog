@@ -10,7 +10,7 @@ summary: "Delivered session on Building Kinder and Cost-Effective Agents through
 tags: ["AgentCon", "AI Agents", "Fine Tuning", "Microsoft Foundry"]
 ---
 
-![alt text](image.png)
+![alt text](/assets/images/image.png)
 
 Participated in the second AgentCon Nairobi 2025 at Shree Sthanakvasi Jain Sangh, delivering a comprehensive session on Building Kinder and Cost-Effective Agents through fine tuning.
 

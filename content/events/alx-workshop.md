@@ -2,7 +2,7 @@
 title: "Alx Alumni Workshop"
 date: 2025-11-12
 upcoming: false
-topic: "Building AI Agents with Azure AI Foundry and Prompty"
+topic: "Building AI Agents with Microsoft Foundry and Prompty"
 type: "Workshop"
 location: "Alx Hub, Nairobi"
 summary: "Delivered session on building agents."
@@ -10,7 +10,7 @@ tags: ["MCP", "Agents", "AI"]
 ---
 {{< speakerdeck 766f47e930ba416e859a5556b57e6661 >}}
 
-## Session: Building AI Agents with Azure AI Foundry and AI Toolkit
+## Session: Building AI Agents with Microsoft Foundry and AI Toolkit
 
 The GitHub Copilot & AI Toolkit Pet Planner Workshop — creating a smart, friendly agent that plans pet playdates using data and AI reasoning. Learning how to design, configure, generate, trace, and evaluate an AI-powered workflow.
 

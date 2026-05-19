@@ -2,19 +2,19 @@
 title: "Data Science Summit 2025"
 date: 2025-06-11
 upcoming: false
-topic: "Building an Agentic AI Application with Prompty and Azure AI Foundry"
+topic: "Building an Agentic AI Application with Prompty and Microsoft Foundry"
 type: "Conference"
 location: "Virtual"
 virtual: true
-summary: "Delivered session on Building an Agentic AI Application with Prompty and Azure AI Foundry at Data Science Summit."
-tags: ["Azure AI Foundry",]
+summary: "Delivered session on Building an Agentic AI Application with Prompty and Microsoft Foundry at Data Science Summit."
+tags: ["Microsoft Foundry",]
 ---
 
 ![Summit_banner](assets/images/Bethany_Jepchumba_lecturer-promos.png)
 
-Participated in Data Science Summit 2025, delivering a comprehensive session on building AI Agents with Azure AI Foundry to a global virtual audience.
+Participated in Data Science Summit 2025, delivering a comprehensive session on building AI Agents with Microsoft Foundry to a global virtual audience.
 
-## Session: Building an Agentic AI Application with Prompty and Azure AI Foundry
+## Session: Building an Agentic AI Application with Prompty and Microsoft Foundry
 
 {{< speakerdeck 507786d0542f4d9ca20854a05278ea54 >}}
 

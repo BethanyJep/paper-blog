@@ -2,7 +2,7 @@
 title: "Cape Town Developer User Group Meetup"
 date: 2025-01-31
 upcoming: false
-topic: "Building AI Solutions in Azure AI Foundry"
+topic: "Building AI Solutions in Microsoft Foundry"
 type: "Meetup"
 location: "Cape Town, South Africa"
 virtual: false
@@ -10,15 +10,15 @@ event_url: "https://cptmsdug.dev/"
 demo_url: "https://github.com/microsoft/aitour-concept-to-creation-ai-studio"
 course_url: "https://github.com/microsoft/generative-ai-for-beginners/tree/main/15-rag-and-vector-databases"
 reactor_url: "https://aka.ms/aifundamentalstraining-reactors"
-summary: "Delivered Azure AI Foundry session with ocean views at Cape Town Developer User Group with deep dive into RAG."
-tags: ["Community", "Speaking", "Azure AI Foundry", "RAG", "Meetup"]
+summary: "Delivered Microsoft Foundry session with ocean views at Cape Town Developer User Group with deep dive into RAG."
+tags: ["Community", "Speaking", "Microsoft Foundry", "RAG", "Meetup"]
 ---
 
 An unforgettable meetup experience with the perfect view of the Atlantic Ocean, speaking right next to where you board the ferry to the historically significant Robben Island.
 
 ![Meetup photo](/assets/images/IMG_1410%20(1).jpeg)
 
-## Session: Building AI Solutions in Azure AI Foundry
+## Session: Building AI Solutions in Microsoft Foundry
 
 Following the philosophy *"if it's not broken, it doesn't need fixing,"* I redelivered the same session from Johannesburg. However, this experience was enhanced by:
 
@@ -27,11 +27,11 @@ Following the philosophy *"if it's not broken, it doesn't need fixing,"* I redel
 - Opportunity to attend colleagues' sessions
 - Better learning experience overall
 
-The session serves as a perfect introduction to **Azure AI Foundry** and comprehensive AI solution building.
+The session serves as a perfect introduction to **Microsoft Foundry** and comprehensive AI solution building.
 
 ## Deep Dive: Retrieval-Augmented Generation (RAG)
 
-![Azure AI Foundry](/assets/images/image%20(2).png)
+![Microsoft Foundry](/assets/images/image%20(2).png)
 
 Special focus on **RAG,** a technique that enhances LLM responses by incorporating your own data.
 

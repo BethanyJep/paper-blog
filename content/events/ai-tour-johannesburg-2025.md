@@ -2,29 +2,29 @@
 title: "Microsoft AI Tour Johannesburg 2025"
 date: 2025-01-26
 upcoming: false
-topic: "Building AI Solutions in Azure AI Foundry"
+topic: "Building AI Solutions in Microsoft Foundry"
 type: "Conference"
 location: "Johannesburg, South Africa"
 virtual: false
 event_url: "https://aitour.microsoft.com/en-US/johannesburg"
 demo_url: "https://github.com/microsoft/aitour-concept-to-creation-ai-studio"
 workshop_url: "https://github.com/microsoft/aitour-build-your-first-agent-with-azure-ai-agent-service"
-summary: "Delivered breakout session on building AI solutions with Azure AI Foundry at Microsoft AI Tour Johannesburg."
-tags: ["AI", "Microsoft", "Azure AI Foundry", "Speaking", "Agents"]
+summary: "Delivered breakout session on building AI solutions with Microsoft Foundry at Microsoft AI Tour Johannesburg."
+tags: ["AI", "Microsoft", "Microsoft Foundry", "Speaking", "Agents"]
 ---
 
 ![AI Tour Johannesburg](/assets/images/AI_Tour_Johannesburg_2025_01_23_-0010.jpg)
 
 Second stop on the 2025 speaking tour in the vibrant city of Johannesburg, South Africa! This time focused on a single breakout session while spending quality time with colleagues.
 
-## Breakout Session: Building AI Solutions in Azure AI Foundry
+## Breakout Session: Building AI Solutions in Microsoft Foundry
 
 ![Event memories](/assets/images/1738073041776.jpg)
 
-Delivered a comprehensive session covering the core building blocks of AI development - from prompt engineering to Retrieval-Augmented Generation (RAG) and evaluation using Azure AI Foundry.
+Delivered a comprehensive session covering the core building blocks of AI development - from prompt engineering to Retrieval-Augmented Generation (RAG) and evaluation using Microsoft Foundry.
 
 ### Session Overview:
-- Azure AI Foundry as Microsoft's end-to-end AI platform
+- Microsoft Foundry as Microsoft's end-to-end AI platform
 - Build, develop, deploy, and monitor AI solutions
 - Core concepts: prompt engineering, RAG, and evaluation
 - Hands-on demonstrations and practical examples

@@ -9,11 +9,11 @@
     <lastBuildDate>Mon, 03 Feb 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://bethany-jep.com/tags/microsoft-reactor/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Azure AI Foundry - Live Session</title>
+      <title>Microsoft Foundry - Live Session</title>
       <link>https://bethany-jep.com/events/azure-ai-foundry-live-2025/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://bethany-jep.com/events/azure-ai-foundry-live-2025/</guid>
-      <description>First online session covering Azure AI Foundry end-to-end journey with deep dive into Prompty tooling.</description>
+      <description>First online session covering Microsoft Foundry end-to-end journey with deep dive into Prompty tooling.</description>
     </item>
   </channel>
 </rss>

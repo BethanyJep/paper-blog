@@ -21,7 +21,7 @@ Spoke at AgentCon Accra 2025, delivering a comprehensive session on "Ctrl + Alt 
 In this keynote, we’ll explore the rise of AI agents:
 
 - What exactly are Agents? Are they just smarter bots or a new paradigm in AI?
-- What kinds of Agents exist today, from low-code Copilot Studio flows to full-fledged multi-agent systems powered by Azure AI Foundry and running on the edge?
+- What kinds of Agents exist today, from low-code Copilot Studio flows to full-fledged multi-agent systems powered by Microsoft Foundry and running on the edge?
 - How you can build, deploy, and extend agents today using Microsoft’s ecosystem, from templates to custom orchestration with your own data to using mcp.
 
 Along the way, we’ll highlight real-world use cases, edge-ready deployments, and the principles of building responsible, trustworthy AI systems that continue to work even offline.
@@ -45,7 +45,7 @@ You’ll walk away with a fresh perspective on AI agents: not just as the future
 ### Tools
 - [AI Toolkit](https://learn.microsoft.com/en-us/windows/ai/toolkit/)
 - [VS Code MCP Registry](https://github.com/mcp?utm_source=vscode-website&utm_campaign=mcp-registry-server-launch-2025)
-- [Azure AI Foundry](https://ai.azure.com)
+- [Microsoft Foundry](https://ai.azure.com)
 
 ### Demos & Projects
 - [Foundry Local and reasoning agents](https://github.com/BethanyJep/Browser-Automation-with-Foundry-Local)

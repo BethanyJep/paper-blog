@@ -2,7 +2,7 @@
 title: "Microsoft AI Tour Bengaluru 2025"
 date: 2025-01-13
 upcoming: false
-topic: "Interacting with Multimodal Models on Azure AI Foundry"
+topic: "Interacting with Multimodal Models on Microsoft Foundry"
 type: "Conference"
 location: "Bengaluru, India"
 virtual: false
@@ -12,16 +12,16 @@ workshop_url: "https://aka.ms/aitour/wrk540"
 breakout_url: "https://aka.ms/aitour/brk453"
 keynote_recording: "https://www.youtube.com/live/bYgP-tC5BFU?si=Sz6g0zYewbs82sUt"
 summary: "Delivered workshop on multimodal models and breakout session on SLMs/LLMs at Microsoft AI Tour Bengaluru."
-tags: ["AI", "Microsoft", "Azure AI Foundry", "Workshop", "Speaking"]
+tags: ["AI", "Microsoft", "Microsoft Foundry", "Workshop", "Speaking"]
 ---
 
 First speaking engagement of 2025 in Bengaluru, India! A fully packed day with workshops and a breakout session at Microsoft AI Tour.
 
-## Workshop: Interacting with Multimodal Models on Azure AI Foundry
+## Workshop: Interacting with Multimodal Models on Microsoft Foundry
 
 ![presenting the workshop at the tour](/assets/images/AI_Tour_Bengaluru_2025_01_07_0018.JPG)
 
-Delivered a beginner-level workshop designed to introduce interaction with multimodal models on Azure AI Foundry. This workshop is tailored for complete beginners, making it accessible to both developers and business decision-makers alike.
+Delivered a beginner-level workshop designed to introduce interaction with multimodal models on Microsoft Foundry. This workshop is tailored for complete beginners, making it accessible to both developers and business decision-makers alike.
 
 If you are interested in learning more about the workshop, check it out at: https://aka.ms/aitour/wrk540
 

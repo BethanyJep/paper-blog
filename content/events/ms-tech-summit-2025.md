@@ -2,21 +2,21 @@
 title: "Microsoft Tech Summit 2025"
 date: 2025-06-11
 upcoming: false
-topic: "Building AI Solutions with Azure AI Foundry"
+topic: "Building AI Solutions with Microsoft Foundry"
 type: "Conference"
 location: "Virtual"
 virtual: true
-summary: "Delivered session on building AI solutions with Azure AI Foundry at Microsoft Tech Summit."
-tags: ["Azure AI Foundry",]
+summary: "Delivered session on building AI solutions with Microsoft Foundry at Microsoft Tech Summit."
+tags: ["Microsoft Foundry",]
 ---
 
 ![event banner](assets/images/Bethany_Jepchumba_lecturer-promo.png)
 
-Participated in Microsoft Tech Summit 2025, delivering a comprehensive session on building AI solutions with Azure AI Foundry to a global virtual audience.
+Participated in Microsoft Tech Summit 2025, delivering a comprehensive session on building AI solutions with Microsoft Foundry to a global virtual audience.
 
-## Session: Building AI Solutions with Azure AI Foundry
+## Session: Building AI Solutions with Microsoft Foundry
 
-This session provided a deep dive into Azure AI Foundry, Microsoft's comprehensive platform for end-to-end AI solution development, covering everything from initial concept to production deployment.
+This session provided a deep dive into Microsoft Foundry, Microsoft's comprehensive platform for end-to-end AI solution development, covering everything from initial concept to production deployment.
 
 ## Resources
 

@@ -3,7 +3,7 @@ title: "Build Your First Agent"
 date: 2025-05-01
 draft: false
 github_url: "https://github.com/BethanyJep/build-your-first-agent"
-technologies: ["Python", "AI", "Azure AI Foundry", "Prompty", "RAG"]
+technologies: ["Python", "AI", "Microsoft Foundry", "Prompty", "RAG"]
 summary: "A repository for building your first AI agent, automating tagging of GitHub issues."
 featured: false
 ---

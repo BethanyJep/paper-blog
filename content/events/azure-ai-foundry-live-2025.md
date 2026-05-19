@@ -1,24 +1,24 @@
 ---
-title: "Azure AI Foundry - Live Session"
+title: "Microsoft Foundry - Live Session"
 date: 2025-02-03
 upcoming: false
-topic: "Azure AI Foundry and Prompty Overview"
+topic: "Microsoft Foundry and Prompty Overview"
 type: "Webinar"
 location: "Virtual"
 virtual: true
-summary: "First online session covering Azure AI Foundry end-to-end journey with deep dive into Prompty tooling."
-tags: ["Azure AI Foundry", "Prompty", "Online Session", "Microsoft Reactor"]
+summary: "First online session covering Microsoft Foundry end-to-end journey with deep dive into Prompty tooling."
+tags: ["Microsoft Foundry", "Prompty", "Online Session", "Microsoft Reactor"]
 ---
 {{< youtube AI8D7UPbdU4 >}}
 
-My first online session as part of the Azure AI Fundamentals Series! An in-depth exploration of Azure AI Foundry with a special focus on Prompty tooling and capabilities.
+My first online session as part of the Azure AI Fundamentals Series! An in-depth exploration of Microsoft Foundry with a special focus on Prompty tooling and capabilities.
 
 ## Session Overview
 
-This virtual session provided a comprehensive overview of *Azure AI Foundry* and introduced *Prompty* as a powerful development tool for AI solutions.
+This virtual session provided a comprehensive overview of *Microsoft Foundry* and introduced *Prompty* as a powerful development tool for AI solutions.
 
 ### Key Topics Covered:
-- End-to-end Azure AI Foundry journey
+- End-to-end Microsoft Foundry journey
 - Prompty deep dive and practical applications
 - Building AI solutions from concept to deployment
 - Interactive Q&A with participants

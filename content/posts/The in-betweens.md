@@ -68,7 +68,7 @@ Here are a few things I’ve been working on behind the scenes:
 5. Panel session at Chuka University: https://x.com/chuka__uni/status/1898357726536712499
 6. New Agents Series, yet to do my talk: https://techcommunity.microsoft.com/blog/educatordeveloperblog/microsoft-ai-agents-learn-live-starting-15th-april/4396794
 7. Global AI Bootcamp, Kenya edition: https://www.linkedin.com/posts/bethany-jep_this-weekend-i-had-the-chance-to-speak-at-activity-7312780112653918208-Wdt_?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLJfqQBttlf9fLacJBmKUzIEdh4nzh9QPA
-8. AI Agents using Prompty and Azure AI Foundry: https://www.linkedin.com/posts/bethany-jep_building-a-ai-agent-with-prompty-and-azure-activity-7320451420241936384--Ouv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLJfqQBttlf9fLacJBmKUzIEdh4nzh9QPA
+8. AI Agents using Prompty and Microsoft Foundry: https://www.linkedin.com/posts/bethany-jep_building-a-ai-agent-with-prompty-and-azure-activity-7320451420241936384--Ouv?utm_source=share&utm_medium=member_desktop&rcm=ACoAACLJfqQBttlf9fLacJBmKUzIEdh4nzh9QPA
 
 ## Is that it?
 

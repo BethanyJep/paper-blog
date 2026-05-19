@@ -2,14 +2,14 @@
 title: "Learn Live: AI Agents Session"
 date: 2025-05-06
 upcoming: false
-topic: "Building AI Agents with Custom Tools using Azure AI Foundry"
+topic: "Building AI Agents with Custom Tools using Microsoft Foundry"
 type: "Webinar"
 location: "Virtual"
-summary: "Delivered Learn Live session on building AI agents with custom tools using Azure AI Foundry and Azure AI Agent Service."
-tags: ["AI Agents", "Azure AI Foundry", "Learn Live", "Microsoft", "Virtual"]
+summary: "Delivered Learn Live session on building AI agents with custom tools using Microsoft Foundry and Azure AI Agent Service."
+tags: ["AI Agents", "Microsoft Foundry", "Learn Live", "Microsoft", "Virtual"]
 ---
 
-Delivered a comprehensive Learn Live session on building AI agents with custom tools, focusing on practical implementation using Azure AI Foundry and Azure AI Agent Service.
+Delivered a comprehensive Learn Live session on building AI agents with custom tools, focusing on practical implementation using Microsoft Foundry and Azure AI Agent Service.
 
 ## Session: Building AI Agents with Custom Tools
 
@@ -27,8 +27,8 @@ Integrate custom tools into your agent - https://aka.ms/LLAA4/y
 
 ### Related Learning Resources:
 Build secure and responsible AI solutions and manage generative AI lifecycles: https://aka.ms/ManageGenAILifecycles
-Create agentic AI solutions by using Azure AI Foundry: https://aka.ms/CreateAgenticAISolutions
-Practical Foundation for AI Agents: A Developer's Guide on Azure AI Foundry, Apps, and Data: https://aka.ms/ai_agents_apps__data/
+Create agentic AI solutions by using Microsoft Foundry: https://aka.ms/CreateAgenticAISolutions
+Practical Foundation for AI Agents: A Developer's Guide on Microsoft Foundry, Apps, and Data: https://aka.ms/ai_agents_apps__data/
 
 📌 This session is a part of a series, learn more here: https://aka.ms/LearnLive/AIAgents
 

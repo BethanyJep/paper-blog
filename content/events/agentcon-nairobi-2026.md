@@ -1,5 +1,5 @@
 ---
-title: "AgentCon Nairobi 2025"
+title: "AgentCon Nairobi 2026"
 date: 2026-05-18
 upcoming: false
 topic: "Building Kinder and Cost-Effective Agents through fine tuning"

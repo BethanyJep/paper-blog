@@ -6,7 +6,7 @@ summary: "AI, the in-betweens, and the things I am learning along the way"
 
 _AI & the in-betweens_ is where I write about AI and the in-betweens as I know them: the work, the experiments, the pauses, and life in between.
 
-[Subscribe on Substack](https://bethanyjep.substack.com/){: target="_blank" rel="noopener"}
+[Subscribe on Substack](https://bethanyjep.substack.com/)
 
 ## Issues
 

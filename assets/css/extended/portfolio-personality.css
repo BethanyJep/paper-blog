@@ -132,10 +132,7 @@ h6,
     line-height: 1.1;
     margin: 0.2rem 0 0.85rem 0;
     letter-spacing: -0.02em;
-    background: linear-gradient(135deg, var(--bethany-plum) 20%, var(--bethany-purple) 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
+    color: #000;
     display: inline-block;
 }
 
@@ -417,6 +414,171 @@ h6,
     border: 0.65rem solid var(--bethany-paper);
     background: var(--bethany-paper);
     box-shadow: 0 0.75rem 1.75rem rgba(46, 16, 101, 0.12);
+}
+
+.project-grid {
+    margin-top: 2rem;
+}
+
+.featured-projects {
+    margin-bottom: 3rem;
+}
+
+.featured-projects h2 {
+    color: var(--bethany-plum);
+    font-size: clamp(1.5rem, 3vw, 1.9rem);
+    margin-bottom: 1.25rem;
+}
+
+.projects-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+    gap: 1.25rem;
+}
+
+.project-card {
+    display: flex;
+    flex-direction: column;
+    min-height: 13rem;
+    overflow: hidden;
+    outline: 1px solid rgba(109, 40, 217, 0.15);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, outline-color 0.2s ease;
+}
+
+.project-card.featured {
+    border-left-color: var(--bethany-purple);
+}
+
+.project-header {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 1rem;
+    padding: 1.25rem 1.25rem 0;
+}
+
+.project-header h3 {
+    margin: 0;
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 1.2rem;
+    line-height: 1.35;
+}
+
+.project-header h3 a {
+    color: var(--bethany-plum);
+    text-decoration: none;
+}
+
+.project-links {
+    display: flex;
+    flex-shrink: 0;
+    gap: 0.5rem;
+}
+
+.demo-link,
+.github-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.35rem 0.55rem;
+    border-radius: 0.4rem;
+    background: var(--bethany-purple);
+    color: #fff;
+    font-size: 0.78rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.github-link {
+    background: var(--bethany-plum);
+}
+
+.project-description {
+    margin: 1rem 0;
+    padding: 0 1.25rem;
+    color: #52525b;
+    font-size: 0.9rem;
+    line-height: 1.55;
+}
+
+.project-meta {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: auto;
+    padding: 0.85rem 1.25rem 1.15rem;
+    border-top: 1px solid var(--bethany-purple-soft);
+    color: var(--bethany-purple-deep);
+    font-size: 0.8rem;
+}
+
+.tech-tag {
+    font-style: italic;
+}
+
+.event-entry {
+    font-family: "Work Sans", ui-sans-serif, system-ui, sans-serif;
+}
+
+.event-entry .archive-entry-title {
+    font-family: "Playfair Display", Georgia, serif;
+}
+
+.event-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.6rem;
+    margin: 0.75rem 0;
+}
+
+.event-type,
+.event-topic {
+    padding: 0.25rem 0.55rem;
+    border-radius: 999px;
+    background: var(--bethany-purple-soft);
+    color: var(--bethany-purple-deep);
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+.event-details-btn {
+    padding: 0.35rem 0.6rem;
+    border-radius: 0.4rem;
+    background: var(--bethany-purple);
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.event-summary {
+    color: #52525b;
+    line-height: 1.6;
+}
+
+.event-read-more {
+    display: flex;
+    justify-content: space-between;
+    gap: 1rem;
+    margin-top: 1rem;
+    color: var(--bethany-purple-deep);
+    font-size: 0.85rem;
+    font-weight: 500;
+}
+
+.event-read-more a {
+    color: var(--bethany-purple);
+    text-decoration: none;
+}
+
+.no-events {
+    padding: 2rem;
+    border: 1px dashed var(--bethany-purple);
+    border-radius: 0.85rem;
+    background: var(--bethany-paper);
+    color: var(--bethany-purple-deep);
+    text-align: center;
 }
 
 .project-header h3 a:hover,
@@ -736,10 +898,7 @@ h6,
     }
 
     .home-info-hero .entry-header h1 {
-        background: linear-gradient(135deg, #ffffff 20%, #c4b5fd 100%);
-        -webkit-background-clip: text;
-        -webkit-text-fill-color: transparent;
-        background-clip: text;
+        color: #fff;
     }
 
     .home-info,
@@ -840,6 +999,33 @@ h6,
 
     .curiosity-card h3 {
         color: #ede9fe;
+    }
+
+    .featured-projects h2,
+    .project-header h3 a {
+        color: #f5f3ff;
+    }
+
+    .project-description,
+    .event-summary {
+        color: #ddd6fe;
+    }
+
+    .project-meta {
+        border-top-color: rgba(196, 181, 253, 0.24);
+        color: #c4b5fd;
+    }
+
+    .event-type,
+    .event-topic {
+        background: rgba(109, 40, 217, 0.35);
+        color: #ede9fe;
+    }
+
+    .no-events {
+        border-color: rgba(196, 181, 253, 0.4);
+        background: #211334;
+        color: #e9d5ff;
     }
 
     .curiosity-icon {

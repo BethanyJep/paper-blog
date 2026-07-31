@@ -40,6 +40,12 @@ h6,
     font-family: "Work Sans", ui-sans-serif, system-ui, sans-serif;
 }
 
+.header .logo a,
+.header #menu a {
+    font-family: "Rye", Georgia, serif !important;
+    font-weight: 400;
+}
+
 #menu a[accesskey="/"] {
     display: flex;
     align-items: center;

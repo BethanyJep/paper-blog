@@ -10,7 +10,7 @@ summary: "Delivered session on Building an Agentic AI Application with Prompty a
 tags: ["Microsoft Foundry",]
 ---
 
-![Summit_banner](assets/images/Bethany_Jepchumba_lecturer-promos.png)
+![Summit_banner](/assets/images/Bethany_Jepchumba_lecturer-promos.png)
 
 Participated in Data Science Summit 2025, delivering a comprehensive session on building AI Agents with Microsoft Foundry to a global virtual audience.
 

@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bethany-jep.com/tags/agentcon/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bethany-jep.com/events/agentcon-nairobi-2026/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bethany-jep.com/tags/ai-agents/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bethany-jep.com/</loc>
-    <lastmod>2026-02-16T06:30:17+00:00</lastmod>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bethany-jep.com/tags/fine-tuning/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bethany-jep.com/tags/microsoft-foundry/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://bethany-jep.com/tags/</loc>
+    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bethany-jep.com/posts/travelling/</loc>
     <lastmod>2026-02-16T06:30:17+00:00</lastmod>
@@ -12,9 +30,6 @@
     <lastmod>2026-02-16T06:30:17+00:00</lastmod>
   </url><url>
     <loc>https://bethany-jep.com/posts/</loc>
-    <lastmod>2026-02-16T06:30:17+00:00</lastmod>
-  </url><url>
-    <loc>https://bethany-jep.com/tags/</loc>
     <lastmod>2026-02-16T06:30:17+00:00</lastmod>
   </url><url>
     <loc>https://bethany-jep.com/tags/travel/</loc>
@@ -39,9 +54,6 @@
     <lastmod>2025-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bethany-jep.com/events/agentcon-accra-2025/</loc>
-    <lastmod>2025-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bethany-jep.com/tags/ai-agents/</loc>
     <lastmod>2025-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bethany-jep.com/tags/conference/</loc>
@@ -98,9 +110,6 @@
     <loc>https://bethany-jep.com/posts/evolving-growing/</loc>
     <lastmod>2025-07-02T06:30:17+00:00</lastmod>
   </url><url>
-    <loc>https://bethany-jep.com/tags/agentcon/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bethany-jep.com/events/agentcon-mumbai-2025/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
@@ -112,9 +121,6 @@
   </url><url>
     <loc>https://bethany-jep.com/projects/browser-automation-foundry-local/</loc>
     <lastmod>2025-06-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bethany-jep.com/tags/azure-ai-foundry/</loc>
-    <lastmod>2025-06-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bethany-jep.com/events/data-science-summit-2025/</loc>
     <lastmod>2025-06-11T00:00:00+00:00</lastmod>
@@ -242,9 +248,6 @@
     <loc>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</loc>
     <lastmod>2025-01-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bethany-jep.com/hobbies/hiking-adventures/</loc>
-    <lastmod>2025-01-15T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bethany-jep.com/events/ai-tour-bengaluru-2025/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -263,9 +266,11 @@
   </url><url>
     <loc>https://bethany-jep.com/events/</loc>
   </url><url>
-    <loc>https://bethany-jep.com/hobbies/</loc>
-  </url><url>
     <loc>https://bethany-jep.com/projects/</loc>
+  </url><url>
+    <loc>https://bethany-jep.com/exploring/</loc>
+  </url><url>
+    <loc>https://bethany-jep.com/newsletter/</loc>
   </url><url>
     <loc>https://bethany-jep.com/search/</loc>
   </url>

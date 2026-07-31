@@ -5,15 +5,11 @@ draft = false
 tags = ["personal", "mental-health"]
 +++
 
-![blog banner](/assets/images/medical%20drama.png)
-
 > 🚧 my first submission on mental health, and beyond. Proceed with caution!
 
 I should write more, don't we always tell ourselves that? Today, I am waiting for my billings to be done at the hospital and chose to use this moment wisely. It's been less than a month since I got my diagnosis, I am medicated and thriving, I think. So I want to walk you through my path of inconsistencies and medical drama.
 
 ## In de beninging...
-
-![blog banner](/assets/images/bening.jpg)
 
 It all started when I was 6. I think. It was August, I guess. I hate August. It's one of the months that remind me of so many bad things. I digress. So August. I was not in school that day, that's why I'm convinced it was August. I was at my grandparents' house. That's where I grew up. And suddenly I heard shouting. Lots and lots of shouting. From my mum mostly and my grandfather. My mum was trying to convince him she needed to leave my grandfather I think was concerned? I guess?
 

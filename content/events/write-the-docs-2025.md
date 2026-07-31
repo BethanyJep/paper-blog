@@ -9,7 +9,7 @@ summary: "Delivered session on scaling open-source documentation with AI at Writ
 tags: ["Documentation", "Open Source", "AI"]
 ---
 
-![speaking image](assets/images/IMG_2077.JPG)
+![speaking image](/assets/images/IMG_2077.JPG)
 
 Spoke at Write the Docs Conference 2025 in Nairobi, delivering a session on "Scaling Open-Source Documentation with AI" to an audience of technical writers, documentation specialists, and open-source contributors.
 

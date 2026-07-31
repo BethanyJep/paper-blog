@@ -72,7 +72,6 @@ h6,
         radial-gradient(circle at top right, rgba(196, 181, 253, 0.4), transparent 28rem),
         radial-gradient(circle at bottom left, rgba(253, 230, 138, 0.3), transparent 22rem),
         linear-gradient(135deg, var(--bethany-paper), #ffffff);
-    box-shadow: 0 1.25rem 3.75rem rgba(76, 29, 149, 0.09);
     padding: clamp(1.5rem, 4vw, 2.5rem);
 }
 
@@ -99,16 +98,14 @@ h6,
     padding: 0.6rem 0.6rem 0.8rem;
     background: #ffffff;
     border: 1px solid rgba(0, 0, 0, 0.08);
-    box-shadow: 0 0.8rem 2rem rgba(46, 16, 101, 0.15);
     transform: rotate(2deg);
-    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    transition: transform 0.25s ease;
     border-radius: 0.25rem;
     width: 13.5rem;
 }
 
 .polaroid-frame:hover {
     transform: rotate(0deg) scale(1.03);
-    box-shadow: 0 1.1rem 2.5rem rgba(46, 16, 101, 0.22);
 }
 
 .polaroid-frame img {
@@ -179,10 +176,9 @@ h6,
     border: 0.65rem solid var(--bethany-paper);
     outline: 1px solid rgba(109, 40, 217, 0.15);
     background: #ffffff;
-    box-shadow: 0 0.75rem 1.75rem rgba(46, 16, 101, 0.08);
     text-decoration: none !important;
     color: inherit;
-    transition: transform 0.2s ease, box-shadow 0.2s ease, outline-color 0.2s ease;
+    transition: transform 0.2s ease, outline-color 0.2s ease;
 }
 
 .home-card:nth-child(odd) {
@@ -194,7 +190,6 @@ h6,
 }
 
 .home-card:hover {
-    box-shadow: 0 1.1rem 2.3rem rgba(46, 16, 101, 0.16);
     transform: translateY(-0.25rem) rotate(0deg);
     outline-color: var(--bethany-purple);
 }
@@ -353,8 +348,7 @@ h6,
     border: 0.65rem solid var(--bethany-paper);
     outline: 1px solid rgba(109, 40, 217, 0.18);
     background: #fff;
-    box-shadow: 0 0.75rem 1.75rem rgba(46, 16, 101, 0.12);
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    transition: transform 0.2s ease;
 }
 
 .curiosity-card:nth-child(odd),
@@ -372,7 +366,6 @@ h6,
 .curiosity-card:hover,
 .project-card:hover,
 .hobby-card:hover {
-    box-shadow: 0 1.1rem 2.3rem rgba(46, 16, 101, 0.18);
     transform: translateY(-0.25rem) rotate(0);
 }
 
@@ -413,7 +406,6 @@ h6,
 .hobby-card {
     border: 0.65rem solid var(--bethany-paper);
     background: var(--bethany-paper);
-    box-shadow: 0 0.75rem 1.75rem rgba(46, 16, 101, 0.12);
 }
 
 .project-grid {
@@ -442,7 +434,7 @@ h6,
     min-height: 13rem;
     overflow: hidden;
     outline: 1px solid rgba(109, 40, 217, 0.15);
-    transition: transform 0.2s ease, box-shadow 0.2s ease, outline-color 0.2s ease;
+    transition: transform 0.2s ease, outline-color 0.2s ease;
 }
 
 .project-card.featured {
@@ -597,7 +589,6 @@ h6,
     background:
         radial-gradient(circle at top right, rgba(196, 181, 253, 0.3), transparent 25rem),
         linear-gradient(135deg, var(--bethany-paper), #ffffff);
-    box-shadow: 0 0.75rem 2.25rem rgba(76, 29, 149, 0.07);
 }
 
 .page-header h1 {
@@ -623,8 +614,7 @@ h6,
     outline: 1px solid rgba(109, 40, 217, 0.15);
     border-radius: 0.85rem;
     background: #ffffff;
-    box-shadow: 0 0.6rem 1.5rem rgba(46, 16, 101, 0.08);
-    transition: transform 0.2s ease, box-shadow 0.2s ease, outline-color 0.2s ease;
+    transition: transform 0.2s ease, outline-color 0.2s ease;
 }
 
 .post-entry:nth-child(odd),
@@ -640,7 +630,6 @@ h6,
 .post-entry:hover,
 .archive-entry:hover {
     transform: translateY(-0.25rem) rotate(0deg);
-    box-shadow: 0 1rem 2.2rem rgba(46, 16, 101, 0.15);
     outline-color: var(--bethany-purple);
 }
 
@@ -683,7 +672,6 @@ h6,
     border: 1px solid rgba(109, 40, 217, 0.18);
     border-radius: 1.25rem;
     background: var(--bethany-paper);
-    box-shadow: 0 1rem 3rem rgba(76, 29, 149, 0.07);
     margin-bottom: 2.5rem;
 }
 
@@ -741,14 +729,13 @@ h6,
     font-family: "Work Sans", sans-serif;
     font-size: 1.05rem;
     background: #ffffff;
-    box-shadow: 0 0.25rem 0.75rem rgba(0, 0, 0, 0.04);
-    transition: border-color 0.2s ease, box-shadow 0.2s ease;
+    transition: border-color 0.2s ease, outline-color 0.2s ease;
 }
 
 #searchbox input:focus {
     border-color: var(--bethany-purple);
-    box-shadow: 0 0 0 4px rgba(109, 40, 217, 0.15);
-    outline: none;
+    outline: 3px solid rgba(109, 40, 217, 0.15);
+    outline-offset: 2px;
 }
 
 /* Card Color Shades */

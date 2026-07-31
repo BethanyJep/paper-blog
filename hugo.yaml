@@ -44,6 +44,9 @@ menu:
     - name: Newsletter
       url: /newsletter/
       weight: 12
+    - name: Content
+      url: /content/
+      weight: 14
     - name: Search
       url: /search/
       weight: 15

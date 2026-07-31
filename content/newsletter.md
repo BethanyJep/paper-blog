@@ -12,6 +12,8 @@ _AI & the in-betweens_ is where I write about AI and the in-betweens as I know t
 
 ### 2026
 
+- [#011: Microsoft Foundry, Mentorship and the in betweens.](https://bethanyjep.substack.com/p/011-microsoft-foundry-mentorship) — _The art of doing, being and becoming._
+
 - [#010: IWD, FineTuning and the in betweens.](https://bethanyjep.substack.com/p/10-iwd-finetuning-and-the-in-betweens)  
   _A fresh start, no - just me being the best version of me always._
 

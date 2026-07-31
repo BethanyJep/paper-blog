@@ -1,11 +1,35 @@
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
 
 @font-face {
-    font-family: "Rye";
+    font-family: "Gelasio";
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: url("/fonts/rye-regular.ttf") format("truetype");
+    src: url("/fonts/gelasio-400.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gelasio";
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("/fonts/gelasio-500.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gelasio";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("/fonts/gelasio-600.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Gelasio";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("/fonts/gelasio-700.ttf") format("truetype");
 }
 
 :root {
@@ -34,7 +58,7 @@ h6,
 .post-title,
 .entry-header h2,
 .archive-entry-title {
-    font-family: "Rye" !important;
+    font-family: "Gelasio" !important;
 }
 
 h1,
@@ -43,7 +67,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "Rye" !important;
+    font-family: "Gelasio" !important;
 }
 
 .post-content,
@@ -59,7 +83,7 @@ h6 {
 
 .header .logo a,
 .header #menu a {
-    font-family: "Rye" !important;
+    font-family: "Gelasio" !important;
     font-weight: 400;
 }
 
@@ -140,7 +164,7 @@ h6 {
 
 .polaroid-caption {
     margin-top: 0.5rem;
-    font-family: "Rye";
+    font-family: "Gelasio";
     font-size: 0.85rem;
     color: var(--bethany-purple-deep);
     font-style: italic;
@@ -474,7 +498,7 @@ h6 {
 
 .project-header h3 {
     margin: 0;
-    font-family: "Rye";
+    font-family: "Gelasio";
     font-size: 1.2rem;
     line-height: 1.35;
 }
@@ -536,7 +560,7 @@ h6 {
 }
 
 .event-entry .archive-entry-title {
-    font-family: "Rye";
+    font-family: "Gelasio";
 }
 
 .event-meta {
@@ -683,7 +707,7 @@ h6 {
 
 .entry-header h2,
 .archive-entry-title {
-    font-family: "Rye";
+    font-family: "Gelasio";
     color: var(--bethany-plum);
     font-size: 1.35rem;
     margin: 0 0 0.35rem 0;

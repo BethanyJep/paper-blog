@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&family=Work+Sans:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rye&family=Work+Sans:wght@400;500;600;700&display=swap');
 
 :root {
     --bethany-purple: #6d28d9;
@@ -26,7 +26,7 @@ h6,
 .post-title,
 .entry-header h2,
 .archive-entry-title {
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "Rye", Georgia, serif;
 }
 
 .post-content,
@@ -117,7 +117,7 @@ h6,
 
 .polaroid-caption {
     margin-top: 0.5rem;
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "Rye", Georgia, serif;
     font-size: 0.85rem;
     color: var(--bethany-purple-deep);
     font-style: italic;
@@ -451,7 +451,7 @@ h6,
 
 .project-header h3 {
     margin: 0;
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "Rye", Georgia, serif;
     font-size: 1.2rem;
     line-height: 1.35;
 }
@@ -513,7 +513,7 @@ h6,
 }
 
 .event-entry .archive-entry-title {
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "Rye", Georgia, serif;
 }
 
 .event-meta {
@@ -635,7 +635,7 @@ h6,
 
 .entry-header h2,
 .archive-entry-title {
-    font-family: "Playfair Display", Georgia, serif;
+    font-family: "Rye", Georgia, serif;
     color: var(--bethany-plum);
     font-size: 1.35rem;
     margin: 0 0 0.35rem 0;

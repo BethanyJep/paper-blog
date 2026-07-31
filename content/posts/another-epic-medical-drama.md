@@ -5,8 +5,6 @@ draft = false
 tags = ["personal", "mental-health"]
 +++
 
-![blog banner](/assets/images/medical%20drama.jpg)
-
 > 🚧 my second submission on mental health, and beyond. Proceed with caution!
 
 **Song:** [Together in this by Natasha Bedingfield](https://open.spotify.com/track/0x9p2PjS0t9DbwqK4vgtWR?si=4c9a26237ebe43d4)

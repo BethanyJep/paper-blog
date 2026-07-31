@@ -636,3 +636,201 @@ em, i {
     h5 { font-size: 12pt; }
     h6 { font-size: 11pt; }
 }
+
+/* Current portfolio era: purple ink on warm paper. */
+:root {
+    --bethany-purple: #6d28d9;
+    --bethany-purple-deep: #4c1d95;
+    --bethany-purple-soft: #f3e8ff;
+    --bethany-plum: #2e1065;
+    --bethany-paper: #fffcf8;
+    --bethany-lilac: #c4b5fd;
+}
+
+.home-info {
+    overflow: hidden;
+    border: 1px solid rgba(109, 40, 217, 0.18);
+    border-radius: 1.25rem;
+    background:
+        radial-gradient(circle at top right, rgba(196, 181, 253, 0.35), transparent 30rem),
+        linear-gradient(135deg, var(--bethany-paper), #fff);
+    box-shadow: 0 1.25rem 3.75rem rgba(76, 29, 149, 0.09);
+    padding: clamp(1.5rem, 5vw, 3.5rem);
+}
+
+.home-kicker {
+    margin: 0 0 0.75rem;
+    color: var(--bethany-purple-deep);
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.75rem !important;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+}
+
+.home-info .entry-header h1,
+.current-curiosities-heading h2 {
+    color: var(--bethany-plum);
+}
+
+.home-info .entry-header h1 {
+    margin-top: 0;
+}
+
+.home-info .entry-content {
+    max-width: 46rem;
+    color: #3f3f46;
+}
+
+.current-curiosities {
+    margin-top: 2.5rem;
+    padding-top: 2rem;
+    border-top: 1px solid rgba(109, 40, 217, 0.18);
+}
+
+.current-curiosities-heading h2 {
+    margin: 0;
+    font-size: clamp(1.35rem, 3vw, 1.8rem);
+}
+
+.curiosity-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
+    margin-top: 1.25rem;
+}
+
+.curiosity-card,
+.project-card,
+.hobby-card {
+    border: 0.65rem solid var(--bethany-paper);
+    background: var(--bethany-paper);
+    box-shadow: 0 0.75rem 1.75rem rgba(46, 16, 101, 0.12);
+}
+
+.curiosity-card {
+    min-height: 11rem;
+    padding: 1.1rem;
+    outline: 1px solid rgba(109, 40, 217, 0.16);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.curiosity-card:nth-child(odd),
+.project-card:nth-child(odd),
+.hobby-card:nth-child(odd) {
+    transform: rotate(-0.35deg);
+}
+
+.curiosity-card:nth-child(even),
+.project-card:nth-child(even),
+.hobby-card:nth-child(even) {
+    transform: rotate(0.35deg);
+}
+
+.curiosity-card:hover,
+.project-card:hover,
+.hobby-card:hover {
+    box-shadow: 0 1.1rem 2.3rem rgba(46, 16, 101, 0.18);
+    transform: translateY(-0.25rem) rotate(0);
+}
+
+.curiosity-icon {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: var(--bethany-purple-soft);
+    color: var(--bethany-purple-deep);
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 1.25rem !important;
+    font-weight: 700;
+}
+
+.curiosity-card h3 {
+    margin: 1rem 0 0.5rem;
+    color: var(--bethany-purple-deep);
+    font-size: 1rem !important;
+}
+
+.curiosity-card p {
+    margin: 0;
+    color: #52525b;
+    font-size: 0.875rem !important;
+    line-height: 1.6;
+}
+
+.projects-page {
+    --heading-accent: var(--bethany-purple);
+    --demo-link-color: var(--bethany-purple);
+    --github-link-color: var(--bethany-plum);
+}
+
+.project-header h3 a:hover,
+.project-card.featured .project-header h3 a:hover,
+.home-info .social-icons a:hover {
+    color: var(--bethany-purple-deep) !important;
+    text-shadow: none;
+}
+
+@media (max-width: 640px) {
+    .home-info {
+        border-radius: 1rem;
+    }
+
+    .curiosity-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .curiosity-card,
+    .project-card,
+    .hobby-card {
+        border-width: 0.5rem;
+        transform: none !important;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .home-info {
+        border-color: rgba(196, 181, 253, 0.28);
+        background:
+            radial-gradient(circle at top right, rgba(109, 40, 217, 0.34), transparent 30rem),
+            linear-gradient(135deg, #1f1437, #171221);
+    }
+
+    .home-info .entry-header h1,
+    .current-curiosities-heading h2 {
+        color: #f5f3ff;
+    }
+
+    .home-info .entry-content,
+    .curiosity-card p {
+        color: #ddd6fe;
+    }
+
+    .home-kicker {
+        color: var(--bethany-lilac);
+    }
+
+    .current-curiosities {
+        border-top-color: rgba(196, 181, 253, 0.24);
+    }
+
+    .curiosity-card,
+    .project-card,
+    .hobby-card {
+        border-color: #211334;
+        background: #211334;
+        outline-color: rgba(196, 181, 253, 0.2);
+    }
+
+    .curiosity-card h3 {
+        color: #ede9fe;
+    }
+
+    .curiosity-icon {
+        background: rgba(109, 40, 217, 0.35);
+        color: #ede9fe;
+    }
+}

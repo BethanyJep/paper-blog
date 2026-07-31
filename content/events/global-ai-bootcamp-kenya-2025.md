@@ -9,7 +9,7 @@ summary: "Delivered session on building AI solutions with Microsoft Foundry at G
 tags: ["Microsoft Foundry"]
 ---
 
-![](assets/images/54419995751_f2dff178c2_k.jpg)
+![](/assets/images/54419995751_f2dff178c2_k.jpg)
 
 Participated in Global AI Bootcamp Kenya 2025 at Zetech University, delivering a comprehensive session on building AI solutions with Microsoft Foundry.
 
@@ -24,4 +24,3 @@ This session provided an end-to-end exploration of Microsoft Foundry, demonstrat
 - [Global AI Bootcamp Official Site](https://globalai.community/bootcamp)
 
 {{< discord-community >}}
-

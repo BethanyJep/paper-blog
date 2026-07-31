@@ -8,22 +8,15 @@ params:
   mainSections: ["posts"]
   homeInfoParams:
     Title: "Bethany Jep"
-    Content: > 
-     Hey, I'm Bethany, currently in Developer Relations tinkering with AI, Data and beyond.
-
-      - Fun fact: I'm a house cat, but you'll find me trying. 
-
-      - Currently, I'm diving into African Literature, Psychology, AI, and fiction. 
-
-      - Click here to subscribe to my Newsletter: [the abcd of ai.](https://abcdofai.substack.com/)
+    Content: "I am inherently curious, a builder of things and love to teach."
   assets:
     css:
       - "css/custom.css"
       - "css/force-typography.css"
-    favicon: "favicon.svg"
+    favicon: "favicon.ico"
     favicon16x16: "favicon-16x16.png"
     favicon32x32: "favicon-32x32.png"
-    safari_pinned_tab: "favicon.svg"
+    safari_pinned_tab: "favicon.ico"
   socialIcons:
     - name: "github"
       url: "https://github.com/bethanyjep"
@@ -36,24 +29,24 @@ params:
 
 menu:
   main:
-    - name: Projects
+    - name: Experiments
       url: /projects/
       weight: 5
     - name: Events
       url: /events/
       weight: 7
-    - name: Hobbies
-      url: /hobbies/
+    - name: Exploring
+      url: /exploring/
       weight: 8
-    - name: Archives
+    - name: Blog
       url: /archives/
       weight: 10
+    - name: Newsletter
+      url: /newsletter/
+      weight: 12
     - name: Search
       url: /search/
       weight: 15
-    - name: Tags
-      url: /tags/
-      weight: 20
 
 outputs:
   home:

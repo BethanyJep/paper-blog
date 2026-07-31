@@ -1,0 +1,124 @@
+{{- define "main" }}
+
+<article class="first-entry home-info-hero">
+    <div class="hero-content-wrap">
+        <div class="hero-text-side">
+            <header class="entry-header">
+                <div class="home-kicker">Developer Relations • Microsoft (&amp; GitHub)</div>
+                <h1>Bethany Jep</h1>
+            </header>
+            <div class="entry-content">
+                <p class="hero-bio">
+                    I am inherently curious, a builder of things and love to teach.
+                </p>
+            </div>
+            <footer class="entry-footer">
+                {{- partial "social_icons.html" (dict "align" "left") }}
+            </footer>
+        </div>
+        <div class="hero-photo-side">
+            <div class="polaroid-frame">
+                <img src="/assets/images/AI_Tour_Johannesburg_2025_01_23_-0010.jpg" alt="Bethany speaking on stage" loading="lazy" />
+                <span class="polaroid-caption">Speaking &amp; Building ✨</span>
+            </div>
+        </div>
+    </div>
+</article>
+
+<section class="home-section">
+    <div class="section-title-wrap">
+        <h2>Explore</h2>
+        <p>A quick map of what I’m building, sharing, and thinking about.</p>
+    </div>
+
+    <div class="home-grid">
+        <a class="home-card card-shade-purple" href="/projects/">
+            <div class="card-header">
+                <div class="card-icon">🧪</div>
+                <h3>Experiments</h3>
+            </div>
+            <p>Demos and hands-on AI experiments</p>
+            <span class="card-link">View Experiments &rarr;</span>
+        </a>
+
+        <a class="home-card card-shade-amber" href="/events/">
+            <div class="card-header">
+                <div class="card-icon">🎤</div>
+                <h3>Events &amp; Talks</h3>
+            </div>
+            <p>Keynotes, workshops, community meetups, and speaking engagements.</p>
+            <span class="card-link">See Schedule &rarr;</span>
+        </a>
+
+        <a class="home-card card-shade-indigo" href="/archives/">
+            <div class="card-header">
+                <div class="card-icon">📝</div>
+                <h3>Blog</h3>
+            </div>
+            <p>Essays and reflections on life, learning, career, and growth.</p>
+            <span class="card-link">Read Posts &rarr;</span>
+        </a>
+
+        <a class="home-card card-shade-rose" href="/newsletter/">
+            <div class="card-header">
+                <div class="card-icon">📩</div>
+                <h3>AI &amp; the in-betweens</h3>
+            </div>
+            <p>AI concepts, reflections, and thoughts on navigating tech and life.</p>
+            <span class="card-link">Browse Archives &rarr;</span>
+        </a>
+
+        <a class="home-card home-card-wide card-shade-emerald" href="/exploring/">
+            <div class="card-header">
+                <div class="card-icon">🧭</div>
+                <h3>Exploring</h3>
+            </div>
+            <p>Polaroids, trail hikes, nature, numbers, finance, and learning in public.</p>
+            <span class="card-link">Explore More &rarr;</span>
+        </a>
+    </div>
+</section>
+
+<section class="home-section home-recent-section">
+    <div class="recent-columns">
+        <div class="recent-column">
+            <div class="column-header">
+                <h3>Latest Blog Posts</h3>
+                <a href="/archives/" class="view-all">All Posts &rarr;</a>
+            </div>
+            <ul class="recent-list">
+                {{- range first 4 (where site.RegularPages "Type" "posts") }}
+                <li class="recent-item">
+                    <a href="{{ .RelPermalink }}">
+                        <span class="recent-title">{{ .Title }}</span>
+                        {{- if .Date }}
+                        <span class="recent-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                        {{- end }}
+                    </a>
+                </li>
+                {{- end }}
+            </ul>
+        </div>
+
+        <div class="recent-column">
+            <div class="column-header">
+                <h3>Recent Events &amp; Talks</h3>
+                <a href="/events/" class="view-all">All Events &rarr;</a>
+            </div>
+            <ul class="recent-list">
+                {{- range first 4 (where site.RegularPages "Section" "events") }}
+                <li class="recent-item">
+                    <a href="{{ .RelPermalink }}">
+                        <span class="recent-title">{{ .Title }}</span>
+                        {{- if .Date }}
+                        <span class="recent-date">{{ .Date.Format "Jan 2006" }}</span>
+                        {{- end }}
+                    </a>
+                </li>
+                {{- end }}
+            </ul>
+        </div>
+    </div>
+</section>
+
+{{- end }}

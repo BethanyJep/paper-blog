@@ -1,8 +1,8 @@
 ---
-title: "Projects"
+title: "Experiments"
 layout: "projects"
 url: "/projects/"
-summary: "My projects, workshops, and demonstrations"
+summary: "Experiments, workshops, and demonstrations"
 ---
 
-A collection of workshops, demos, and projects I've been working on, particularly focused on AI, Azure, and developer education.
+A collection of workshops, demos, and experiments I have been working on, particularly focused on AI, Azure, and developer education.

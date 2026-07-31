@@ -10,7 +10,7 @@ summary: "Delivered session on building AI solutions with Microsoft Foundry at M
 tags: ["Microsoft Foundry",]
 ---
 
-![event banner](assets/images/Bethany_Jepchumba_lecturer-promo.png)
+![event banner](/assets/images/Bethany_Jepchumba_lecturer-promo.png)
 
 Participated in Microsoft Tech Summit 2025, delivering a comprehensive session on building AI solutions with Microsoft Foundry to a global virtual audience.
 

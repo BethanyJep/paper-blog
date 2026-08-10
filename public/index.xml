@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>bethanyjep</title>
-    <link>https://bethany-jep.com/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bethany-jep.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AgentCon Nairobi 2026</title>
-      <link>https://bethany-jep.com/events/agentcon-nairobi-2026/</link>
+      <link>http://localhost:1313/events/agentcon-nairobi-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agentcon-nairobi-2026/</guid>
+      <guid>http://localhost:1313/events/agentcon-nairobi-2026/</guid>
       <description>Delivered session on Building Kinder and Cost-Effective Agents through fine tuning at AgentCon Nairobi.</description>
     </item>
     <item>
       <title>One year on, travel musings</title>
-      <link>https://bethany-jep.com/posts/travelling/</link>
+      <link>http://localhost:1313/posts/travelling/</link>
       <pubDate>Mon, 16 Feb 2026 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/travelling/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/travelling.png&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/travelling/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/travelling.png&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;one year in, was it an escape or did I learn something? :-)&lt;/p&gt;&lt;/blockquote&gt;
@@ -28,10 +28,10 @@
     </item>
     <item>
       <title>Catastrophizing</title>
-      <link>https://bethany-jep.com/posts/catastrophizing/</link>
+      <link>http://localhost:1313/posts/catastrophizing/</link>
       <pubDate>Thu, 08 Jan 2026 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/catastrophizing/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/Catastrophizing.jpg&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/catastrophizing/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/Catastrophizing.jpg&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Catastrophizing is a cognitive distortion that prompts people to jump to the worst possible conclusion, usually with very limited information or objective reason to despair. ~ psychology today&lt;/p&gt;&lt;/blockquote&gt;
@@ -40,30 +40,30 @@
     </item>
     <item>
       <title>Alx Alumni Workshop</title>
-      <link>https://bethany-jep.com/events/alx-workshop/</link>
+      <link>http://localhost:1313/events/alx-workshop/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/alx-workshop/</guid>
+      <guid>http://localhost:1313/events/alx-workshop/</guid>
       <description>Delivered session on building agents.</description>
     </item>
     <item>
       <title>AgentCon Accra 2025</title>
-      <link>https://bethany-jep.com/events/agentcon-accra-2025/</link>
+      <link>http://localhost:1313/events/agentcon-accra-2025/</link>
       <pubDate>Wed, 08 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agentcon-accra-2025/</guid>
+      <guid>http://localhost:1313/events/agentcon-accra-2025/</guid>
       <description>Delivered talk on &amp;lsquo;Ctrl + Alt + Assist: AI Agents Edition&amp;rsquo; at AgentCon Accra, exploring autonomous AI systems and their applications.</description>
     </item>
     <item>
       <title>PyconKE 2025</title>
-      <link>https://bethany-jep.com/events/pyconke-2025/</link>
+      <link>http://localhost:1313/events/pyconke-2025/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/pyconke-2025/</guid>
+      <guid>http://localhost:1313/events/pyconke-2025/</guid>
       <description>Delivered session on building agents.</description>
     </item>
     <item>
       <title>Another epic medical drama to end the month..</title>
-      <link>https://bethany-jep.com/posts/another-epic-medical-drama/</link>
+      <link>http://localhost:1313/posts/another-epic-medical-drama/</link>
       <pubDate>Tue, 30 Sep 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/another-epic-medical-drama/</guid>
+      <guid>http://localhost:1313/posts/another-epic-medical-drama/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🚧 my second submission on mental health, and beyond. Proceed with caution!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Song:&lt;/strong&gt; &lt;a href=&#34;https://open.spotify.com/track/0x9p2PjS0t9DbwqK4vgtWR?si=4c9a26237ebe43d4&#34;&gt;Together in this by Natasha Bedingfield&lt;/a&gt;&lt;/p&gt;
@@ -71,70 +71,70 @@
     </item>
     <item>
       <title>MCP Bootcamp: MCP Integration with LLMs</title>
-      <link>https://bethany-jep.com/events/mcp-bootcamp-llms/</link>
+      <link>http://localhost:1313/events/mcp-bootcamp-llms/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/mcp-bootcamp-llms/</guid>
+      <guid>http://localhost:1313/events/mcp-bootcamp-llms/</guid>
       <description>A talk on scaling open-source documentation using AI at OSCA Fest Lagos.</description>
     </item>
     <item>
       <title>OSCA Fest 2025</title>
-      <link>https://bethany-jep.com/events/osca-fest-2025/</link>
+      <link>http://localhost:1313/events/osca-fest-2025/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/osca-fest-2025/</guid>
+      <guid>http://localhost:1313/events/osca-fest-2025/</guid>
       <description>A talk on scaling open-source documentation using AI at OSCA Fest Lagos.</description>
     </item>
     <item>
       <title>I hope you enjoy an epic medical drama..</title>
-      <link>https://bethany-jep.com/posts/epic-medical-drama/</link>
+      <link>http://localhost:1313/posts/epic-medical-drama/</link>
       <pubDate>Thu, 14 Aug 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/epic-medical-drama/</guid>
+      <guid>http://localhost:1313/posts/epic-medical-drama/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🚧 my first submission on mental health, and beyond. Proceed with caution!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I should write more, don&amp;rsquo;t we always tell ourselves that? Today, I am waiting for my billings to be done at the hospital and chose to use this moment wisely. It&amp;rsquo;s been less than a month since I got my diagnosis, I am medicated and thriving, I think. So I want to walk you through my path of inconsistencies and medical drama.&lt;/p&gt;</description>
     </item>
     <item>
       <title>AI Summit Nairobi 2025</title>
-      <link>https://bethany-jep.com/events/ai-summit-kenya-2025/</link>
+      <link>http://localhost:1313/events/ai-summit-kenya-2025/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ai-summit-kenya-2025/</guid>
+      <guid>http://localhost:1313/events/ai-summit-kenya-2025/</guid>
       <description>A technical keynote at AI Summit Nairobi focusing on AI and AI Agents.</description>
     </item>
     <item>
       <title>Spotify MCP Serve and more</title>
-      <link>https://bethany-jep.com/projects/spotify-mcp/</link>
+      <link>http://localhost:1313/projects/spotify-mcp/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/spotify-mcp/</guid>
+      <guid>http://localhost:1313/projects/spotify-mcp/</guid>
       <description>A comprehensive educational repository exploring LLMs, RAG, AI Agents, MCP.</description>
     </item>
     <item>
       <title>MCP Microsoft Docs</title>
-      <link>https://bethany-jep.com/projects/mcp-microsoft-docs/</link>
+      <link>http://localhost:1313/projects/mcp-microsoft-docs/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/mcp-microsoft-docs/</guid>
+      <guid>http://localhost:1313/projects/mcp-microsoft-docs/</guid>
       <description>A Model Context Protocol (MCP) server that provides access to Microsoft Learn documentation.</description>
     </item>
     <item>
       <title>Zetech University AI Workshop</title>
-      <link>https://bethany-jep.com/events/zetech-ai-workshop/</link>
+      <link>http://localhost:1313/events/zetech-ai-workshop/</link>
       <pubDate>Tue, 08 Jul 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/zetech-ai-workshop/</guid>
+      <guid>http://localhost:1313/events/zetech-ai-workshop/</guid>
       <description>A session on the overview of Gen AI from LLMs, RAG to Agents.</description>
     </item>
     <item>
       <title>Creating, permission to create</title>
-      <link>https://bethany-jep.com/posts/permission/</link>
+      <link>http://localhost:1313/posts/permission/</link>
       <pubDate>Mon, 07 Jul 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/permission/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/life%20permission.png&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/permission/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/life%20permission.png&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;I am a haphazard creature. Sometimes a creature of habit and sometimes I just want to break free and be let go. Habits, sometimes, might seem to tie me down in creating and rigidity. I do not do well with schedules, heck I spent most of my high school life asleep on my desk because the repetitiveness of it all was just numbing. Also, I used it as an escape.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Evolving, growing.</title>
-      <link>https://bethany-jep.com/posts/evolving-growing/</link>
+      <link>http://localhost:1313/posts/evolving-growing/</link>
       <pubDate>Wed, 02 Jul 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/evolving-growing/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/life%20evolving.png&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/evolving-growing/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/life%20evolving.png&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;the endless desire to fix everything or run away&lt;/p&gt;&lt;/blockquote&gt;
@@ -142,65 +142,65 @@
     </item>
     <item>
       <title>AgentCon Mumbai 2025</title>
-      <link>https://bethany-jep.com/events/agentcon-mumbai-2025/</link>
+      <link>http://localhost:1313/events/agentcon-mumbai-2025/</link>
       <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agentcon-mumbai-2025/</guid>
+      <guid>http://localhost:1313/events/agentcon-mumbai-2025/</guid>
       <description>Delivered keynote on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Mumbai, exploring the future of AI Agents.</description>
     </item>
     <item>
       <title>AgentCon Chennai 2025</title>
-      <link>https://bethany-jep.com/events/agentcon-chennai-2025/</link>
+      <link>http://localhost:1313/events/agentcon-chennai-2025/</link>
       <pubDate>Thu, 26 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agentcon-chennai-2025/</guid>
+      <guid>http://localhost:1313/events/agentcon-chennai-2025/</guid>
       <description>Delivered talk on &amp;lsquo;The Age of AI Agents&amp;rsquo; at AgentCon Chennai, exploring autonomous AI systems and their applications.</description>
     </item>
     <item>
       <title>Browser Automation with Foundry Local</title>
-      <link>https://bethany-jep.com/projects/browser-automation-foundry-local/</link>
+      <link>http://localhost:1313/projects/browser-automation-foundry-local/</link>
       <pubDate>Fri, 20 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/browser-automation-foundry-local/</guid>
+      <guid>http://localhost:1313/projects/browser-automation-foundry-local/</guid>
       <description>An AI-powered browser automation system that uses Foundry Local models.</description>
     </item>
     <item>
       <title>Data Science Summit 2025</title>
-      <link>https://bethany-jep.com/events/data-science-summit-2025/</link>
+      <link>http://localhost:1313/events/data-science-summit-2025/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/data-science-summit-2025/</guid>
+      <guid>http://localhost:1313/events/data-science-summit-2025/</guid>
       <description>Delivered session on Building an Agentic AI Application with Prompty and Microsoft Foundry at Data Science Summit.</description>
     </item>
     <item>
       <title>Microsoft Tech Summit 2025</title>
-      <link>https://bethany-jep.com/events/ms-tech-summit-2025/</link>
+      <link>http://localhost:1313/events/ms-tech-summit-2025/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ms-tech-summit-2025/</guid>
+      <guid>http://localhost:1313/events/ms-tech-summit-2025/</guid>
       <description>Delivered session on building AI solutions with Microsoft Foundry at Microsoft Tech Summit.</description>
     </item>
     <item>
       <title>Write the Docs Conference 2025</title>
-      <link>https://bethany-jep.com/events/write-the-docs-2025/</link>
+      <link>http://localhost:1313/events/write-the-docs-2025/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/write-the-docs-2025/</guid>
+      <guid>http://localhost:1313/events/write-the-docs-2025/</guid>
       <description>Delivered session on scaling open-source documentation with AI at Write the Docs Conference Nairobi.</description>
     </item>
     <item>
       <title>Learn Live: AI Agents Session</title>
-      <link>https://bethany-jep.com/events/learn-live-ai-agents-2025/</link>
+      <link>http://localhost:1313/events/learn-live-ai-agents-2025/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/learn-live-ai-agents-2025/</guid>
+      <guid>http://localhost:1313/events/learn-live-ai-agents-2025/</guid>
       <description>Delivered Learn Live session on building AI agents with custom tools using Microsoft Foundry and Azure AI Agent Service.</description>
     </item>
     <item>
       <title>Azure AI Speech services video translation</title>
-      <link>https://bethany-jep.com/projects/speech-translation/</link>
+      <link>http://localhost:1313/projects/speech-translation/</link>
       <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/speech-translation/</guid>
+      <guid>http://localhost:1313/projects/speech-translation/</guid>
       <description>A demo on live language translation of videos using Azure Speech Studio.</description>
     </item>
     <item>
       <title>The in-betweens, before we continue</title>
-      <link>https://bethany-jep.com/posts/the-in-betweens/</link>
+      <link>http://localhost:1313/posts/the-in-betweens/</link>
       <pubDate>Thu, 01 May 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/the-in-betweens/</guid>
+      <guid>http://localhost:1313/posts/the-in-betweens/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;I really threw this page away, huh!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;h2 id=&#34;in-my-defense&#34;&gt;In my defense….&lt;/h2&gt;
@@ -209,31 +209,31 @@
     </item>
     <item>
       <title>Build Your First Agent</title>
-      <link>https://bethany-jep.com/projects/build-your-first-agent/</link>
+      <link>http://localhost:1313/projects/build-your-first-agent/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/build-your-first-agent/</guid>
+      <guid>http://localhost:1313/projects/build-your-first-agent/</guid>
       <description>A repository for building your first AI agent, automating tagging of GitHub issues.</description>
     </item>
     <item>
       <title>Agents Hack 2025</title>
-      <link>https://bethany-jep.com/events/agents-hack-2025/</link>
+      <link>http://localhost:1313/events/agents-hack-2025/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agents-hack-2025/</guid>
+      <guid>http://localhost:1313/events/agents-hack-2025/</guid>
       <description>Participated in Agents Hack 2025, demonstrating how to build AI agents using Prompty and Microsoft Foundry.</description>
     </item>
     <item>
       <title>Automating PowerPoint Generation with AI</title>
-      <link>https://bethany-jep.com/projects/automating-powerpoint/</link>
+      <link>http://localhost:1313/projects/automating-powerpoint/</link>
       <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/automating-powerpoint/</guid>
+      <guid>http://localhost:1313/projects/automating-powerpoint/</guid>
       <description>A case study on automating PowerPoint generation using AI.</description>
     </item>
     <item>
       <title>Endings and new Beginnings</title>
-      <link>https://bethany-jep.com/posts/endings/</link>
+      <link>http://localhost:1313/posts/endings/</link>
       <pubDate>Fri, 04 Apr 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/endings/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/life%20endings.png&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/endings/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/life%20endings.png&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;showing up is a lot harder, a lot lot harder.&lt;/p&gt;&lt;/blockquote&gt;
@@ -243,17 +243,17 @@
     </item>
     <item>
       <title>Global AI Bootcamp Kenya 2025</title>
-      <link>https://bethany-jep.com/events/global-ai-bootcamp-kenya-2025/</link>
+      <link>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/global-ai-bootcamp-kenya-2025/</guid>
+      <guid>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</guid>
       <description>Delivered session on building AI solutions with Microsoft Foundry at Global AI Bootcamp Kenya hosted at Zetech University.</description>
     </item>
     <item>
       <title>Life is like Laundry, it does not stop</title>
-      <link>https://bethany-jep.com/posts/laundry-life/</link>
+      <link>http://localhost:1313/posts/laundry-life/</link>
       <pubDate>Mon, 24 Mar 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/laundry-life/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/life%20laundry.png&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/laundry-life/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/life%20laundry.png&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;my not so pointless, rant 😅&lt;/p&gt;&lt;/blockquote&gt;
@@ -264,53 +264,53 @@
     </item>
     <item>
       <title>AgentCon Nairobi 2025</title>
-      <link>https://bethany-jep.com/events/agentcon-nairobi-2025/</link>
+      <link>http://localhost:1313/events/agentcon-nairobi-2025/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agentcon-nairobi-2025/</guid>
+      <guid>http://localhost:1313/events/agentcon-nairobi-2025/</guid>
       <description>Delivered session on building AI agents with Prompty and Microsoft Foundry at AgentCon Nairobi.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Nairobi 2025</title>
-      <link>https://bethany-jep.com/events/ai-tour-nairobi-2025/</link>
+      <link>http://localhost:1313/events/ai-tour-nairobi-2025/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ai-tour-nairobi-2025/</guid>
+      <guid>http://localhost:1313/events/ai-tour-nairobi-2025/</guid>
       <description>Delivered session on code-first GenAIOps covering the journey from prototype to production at Microsoft AI Tour Nairobi.</description>
     </item>
     <item>
       <title>Explore and Evaluate AI  models for free with GitHub Models</title>
-      <link>https://bethany-jep.com/posts/github-models-intro/</link>
+      <link>http://localhost:1313/posts/github-models-intro/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/github-models-intro/</guid>
+      <guid>http://localhost:1313/posts/github-models-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Build AI Kenya 2025</title>
-      <link>https://bethany-jep.com/events/build-ai-kenya-2025/</link>
+      <link>http://localhost:1313/events/build-ai-kenya-2025/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/build-ai-kenya-2025/</guid>
+      <guid>http://localhost:1313/events/build-ai-kenya-2025/</guid>
       <description>Delivered virtual session on Generative AI in Microsoft Foundry at Build AI Kenya meetup group.</description>
     </item>
     <item>
       <title>GitHub Models Workshop</title>
-      <link>https://bethany-jep.com/projects/github-models-workshop/</link>
+      <link>http://localhost:1313/projects/github-models-workshop/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/github-models-workshop/</guid>
+      <guid>http://localhost:1313/projects/github-models-workshop/</guid>
       <description>An introductory workshop for exploring and evaluating AI models.</description>
     </item>
     <item>
       <title>Generative AI Train the Trainer Session - Microsoft LEAP</title>
-      <link>https://bethany-jep.com/events/generative-ai-train-trainer-2025/</link>
+      <link>http://localhost:1313/events/generative-ai-train-trainer-2025/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/generative-ai-train-trainer-2025/</guid>
+      <guid>http://localhost:1313/events/generative-ai-train-trainer-2025/</guid>
       <description>Delivered train-the-trainer session on using Generative AI effectively in educational settings for Microsoft LEAP instructors.</description>
     </item>
     <item>
       <title>I changed my LinkedIn profile photo</title>
-      <link>https://bethany-jep.com/posts/linked-or-locked-in/</link>
+      <link>http://localhost:1313/posts/linked-or-locked-in/</link>
       <pubDate>Tue, 04 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/linked-or-locked-in/</guid>
+      <guid>http://localhost:1313/posts/linked-or-locked-in/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;📶  and it’s basically the only Social media platform I use&amp;hellip;.&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;&lt;em&gt;P.S. WhatsApp &amp;amp; Snapchat don’t count since they’re basically messaging apps, not social media.&lt;/em&gt;&lt;/p&gt;
@@ -319,38 +319,38 @@
     </item>
     <item>
       <title>Microsoft Foundry - Live Session</title>
-      <link>https://bethany-jep.com/events/azure-ai-foundry-live-2025/</link>
+      <link>http://localhost:1313/events/azure-ai-foundry-live-2025/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/azure-ai-foundry-live-2025/</guid>
+      <guid>http://localhost:1313/events/azure-ai-foundry-live-2025/</guid>
       <description>First online session covering Microsoft Foundry end-to-end journey with deep dive into Prompty tooling.</description>
     </item>
     <item>
       <title>Cape Town Developer User Group Meetup</title>
-      <link>https://bethany-jep.com/events/cptdug-meetup-january-2025/</link>
+      <link>http://localhost:1313/events/cptdug-meetup-january-2025/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/cptdug-meetup-january-2025/</guid>
+      <guid>http://localhost:1313/events/cptdug-meetup-january-2025/</guid>
       <description>Delivered Microsoft Foundry session with ocean views at Cape Town Developer User Group with deep dive into RAG.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Johannesburg 2025</title>
-      <link>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</link>
+      <link>http://localhost:1313/events/ai-tour-johannesburg-2025/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</guid>
+      <guid>http://localhost:1313/events/ai-tour-johannesburg-2025/</guid>
       <description>Delivered breakout session on building AI solutions with Microsoft Foundry at Microsoft AI Tour Johannesburg.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Bengaluru 2025</title>
-      <link>https://bethany-jep.com/events/ai-tour-bengaluru-2025/</link>
+      <link>http://localhost:1313/events/ai-tour-bengaluru-2025/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ai-tour-bengaluru-2025/</guid>
+      <guid>http://localhost:1313/events/ai-tour-bengaluru-2025/</guid>
       <description>Delivered workshop on multimodal models and breakout session on SLMs/LLMs at Microsoft AI Tour Bengaluru.</description>
     </item>
     <item>
       <title>What if perfection is in completion?</title>
-      <link>https://bethany-jep.com/posts/perfection/</link>
+      <link>http://localhost:1313/posts/perfection/</link>
       <pubDate>Sun, 05 Jan 2025 16:30:17 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/perfection/</guid>
-      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;https://bethany-jep.com/assets/images/life%20perfection.png&#34; alt=&#34;blog banner&#34;  /&gt;
+      <guid>http://localhost:1313/posts/perfection/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/assets/images/life%20perfection.png&#34; alt=&#34;blog banner&#34;  /&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;💡 What if the only way to achieve perfection is completing your own damn work?&lt;/p&gt;&lt;/blockquote&gt;
@@ -359,9 +359,9 @@
     </item>
     <item>
       <title>Welcome</title>
-      <link>https://bethany-jep.com/posts/welcome/</link>
+      <link>http://localhost:1313/posts/welcome/</link>
       <pubDate>Wed, 02 Oct 2024 07:06:31 +0000</pubDate>
-      <guid>https://bethany-jep.com/posts/welcome/</guid>
+      <guid>http://localhost:1313/posts/welcome/</guid>
       <description>&lt;p&gt;Hi 😊,&lt;/p&gt;
 &lt;p&gt;Welcome to my small garden on the internet.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m Bethany Jepchumba, currently a Cloud Advocate at Microsoft and I enjoy teaching.&lt;/p&gt;
@@ -379,37 +379,37 @@
     </item>
     <item>
       <title>Content</title>
-      <link>https://bethany-jep.com/content/</link>
+      <link>http://localhost:1313/content/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/content/</guid>
+      <guid>http://localhost:1313/content/</guid>
       <description>Videos, articles, and learning resources I create</description>
     </item>
     <item>
       <title>Events</title>
-      <link>https://bethany-jep.com/events/</link>
+      <link>http://localhost:1313/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/</guid>
+      <guid>http://localhost:1313/events/</guid>
       <description>Speaking engagements, workshops, and events I&amp;rsquo;ve participated in</description>
     </item>
     <item>
       <title>Experiments</title>
-      <link>https://bethany-jep.com/projects/</link>
+      <link>http://localhost:1313/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/projects/</guid>
+      <guid>http://localhost:1313/projects/</guid>
       <description>Experiments, workshops, and demonstrations</description>
     </item>
     <item>
       <title>Exploring</title>
-      <link>https://bethany-jep.com/exploring/</link>
+      <link>http://localhost:1313/exploring/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/exploring/</guid>
+      <guid>http://localhost:1313/exploring/</guid>
       <description>A living collection of curiosities, questions, and things I am learning in public</description>
     </item>
     <item>
       <title>Newsletter</title>
-      <link>https://bethany-jep.com/newsletter/</link>
+      <link>http://localhost:1313/newsletter/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/newsletter/</guid>
+      <guid>http://localhost:1313/newsletter/</guid>
       <description>AI, the in-betweens, and the things I am learning along the way</description>
     </item>
   </channel>

@@ -1,9 +1,8 @@
 ---
 title: "Exploring"
 url: "/exploring/"
-summary: "A living collection of curiosities, questions, and things I am learning in public"
+layout: "exploring"
+summary: "Favourite places, people and things, collected as polaroids"
 ---
 
-This is a space for the ideas, places, and practices I am paying attention to: Polaroids, time in nature, meaningful questions about numbers and finance, and the ways AI can meet real life with care.
-
-It will evolve as I do.
+When I am not introverting or working, you will find me out and about, here is a collection of my favourite place, people and things.

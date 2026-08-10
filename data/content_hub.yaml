@@ -1,0 +1,117 @@
+# Content hub entries, rendered by layouts/_default/content-hub.html.
+# `date` drives sorting (newest first); `when` is the label shown on the card.
+# Evergreen work uses a 9999 sort key so it sits at the top of its section.
+
+sections:
+  - id: watch
+    title: "Watch"
+    blurb: "Video and demos."
+    items:
+      - title: "Fun Demo Fridays"
+        url: "https://www.youtube.com/@bethany-jep/videos"
+        date: "9999-99"
+        when: "Ongoing"
+        venue: "YouTube"
+        summary: "Small, hands-on demos exploring what is possible with AI and developer tools."
+
+  - id: workshops
+    title: "Workshops and labs"
+    blurb: "Hands-on sessions I have written or delivered, most built to be run at your own pace."
+    items:
+      - title: "Biashara Agent Workshop"
+        url: "https://github.com/BethanyJep/Safaricom-Decode-Agents-Workshop"
+        date: "2026-07"
+        when: "Jul 2026"
+        venue: "Safaricom Decode"
+        summary: "Build a bilingual English and Swahili AI agent for a Nairobi restaurant using the Microsoft Foundry Toolkit in VS Code. Covers agent setup, system prompts, MCP tools for grounded answers, evaluation, a Flask chat interface, and exporting to production code with Microsoft Agent Framework."
+
+      - title: "Foundry Toolkit and Hosted Agents Workshop"
+        url: "https://github.com/microsoft-foundry/Foundry_Toolkit_for_VSCode_Lab"
+        date: "2026-06"
+        when: "Jun 2026"
+        venue: "Microsoft Foundry"
+        summary: "Build, test, and deploy single-agent and multi-agent Hosted Agents to Microsoft Foundry from VS Code, using the Foundry Toolkit and Microsoft Agent Framework in Python."
+
+      - title: "LAB521: Improving Agent Behavior Using Reinforcement Learning from Traces"
+        url: "https://github.com/microsoft/Build26-LAB521-improving-agent-behavior-using-reinforcement-learning-from-traces"
+        date: "2026-05"
+        when: "May 2026"
+        venue: "Microsoft Build 2026"
+        summary: "Agents often work, but prompts alone make their behaviour hard to control. This lab starts with a working agent, inspects its execution traces, defines good behaviour using evaluation graders, and applies reinforcement fine-tuning to reinforce better decisions without redesigning the agent."
+
+      - title: "BRK441: Build and Launch AI Agents Fast with Foundry Toolkit for VS Code"
+        url: "https://github.com/microsoft/aitour26-BRK441-Build-and-launch-AI-agents-fast-with-Foundry-Toolkit-for-VS-Code"
+        date: "2026-04"
+        when: "AI Tour 2025/26"
+        venue: "Microsoft AI Tour"
+        summary: "Prototype with open models in the Foundry Toolkit Playground, iterate on prompts in Agent Builder, evaluate against a test dataset, then take the same work from prototype to a deployed, monitored agent."
+
+      - title: "BRK443: Efficient Model Customization with Microsoft Foundry"
+        url: "https://github.com/microsoft/aitour26-BRK443-efficient-model-customization-with-microsoft-foundry"
+        date: "2026-03"
+        when: "AI Tour 2025/26"
+        venue: "Microsoft AI Tour"
+        summary: "When does fine-tuning actually make sense? This session walks through the customization options in Microsoft Foundry, then gets hands-on with synthetic data generation, distillation for cutting cost, and SFT for shaping tone."
+
+  - id: curricula
+    title: "Curricula and courses"
+    blurb: "Longer-form programs and learning paths."
+    items:
+      - title: "Generative AI for Beginners"
+        url: "https://aka.ms/genai-beginners"
+        date: "9999-99"
+        when: "Ongoing"
+        venue: "Microsoft"
+        summary: "A course of lessons teaching everything you need to start building generative AI applications."
+
+      - title: "Using GitHub Copilot with Python"
+        url: "https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum"
+        date: "9999-98"
+        when: "Ongoing"
+        venue: "Microsoft Learn"
+        summary: "A module on pairing with Copilot in Python: writing prompts that work, reviewing what it suggests, and knowing when to push back."
+
+      - title: "Alliance Girls High School Software Engineering Program"
+        url: "https://github.com/BethanyJep/HS-Software-Engineering"
+        date: "2026-08"
+        when: "Aug 2026"
+        venue: "with TOFA and Alliance Girls Alumni"
+        summary: "A project-based software engineering program for Grade 10 students. Term 2 covers foundations, careers and resources; Term 3 is a group project sprint ending in a showcase. Includes a facilitator guide, icebreakers, demos, and beginner career-path guides."
+
+  - id: talks
+    title: "Talks"
+    blurb: "Sessions and community talks."
+    items:
+      - title: "Manipulating and Cleaning Data"
+        url: "https://github.com/BethanyJep/Manipulating-and-Cleaning-Talk"
+        date: "2022-01"
+        when: "Jan 2022"
+        venue: "Microsoft Reactor Tel Aviv"
+        summary: "Real-world data is messy. A beginner-friendly session on missing and duplicate data, joining and merging datasets, and exploring your data visually and statistically before you model anything."
+        secondary_url: "https://www.youtube.com/watch?v=xKIm02254SQ"
+        secondary_label: "Watch the recording"
+
+  - id: read
+    title: "Read"
+    blurb: "Articles, tutorials, and community reflections."
+    items:
+      - title: "Microsoft Community Hub"
+        url: "https://techcommunity.microsoft.com/users/bethanyjep/1373657"
+        date: "9999-99"
+        when: "Ongoing"
+        venue: "All posts"
+        summary: "Articles, tutorials, and community reflections published through Microsoft Community Hub."
+
+      - title: "Automating PowerPoint generation with AI"
+        url: "https://techcommunity.microsoft.com/blog/educatordeveloperblog/automating-powerpoint-generation-with-ai-a-learn-live-series-case-study/4399557"
+        date: "2025-04"
+        when: "Apr 2025"
+        venue: "A Learn Live series case study"
+        summary: "What it took to automate slide generation for a Learn Live series, and where the automation earned its keep."
+
+      - title: "Translating AI and ML for beginners curriculums in less than a day"
+        url: "https://techcommunity.microsoft.com/blog/azuredevcommunityblog/translating-ai-and-ml-for-beginners-curriculums-in-less-than-a-day/4381854"
+        date: "2025-03"
+        when: "2025"
+        venue: "Co-op Translator"
+        summary: "Translating two full beginner curriculums into multiple languages in under a day, using Co-op Translator."

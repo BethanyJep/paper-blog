@@ -2,94 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Microsoft Foundry on bethanyjep</title>
-    <link>https://bethany-jep.com/tags/microsoft-foundry/</link>
+    <link>http://localhost:1313/tags/microsoft-foundry/</link>
     <description>Recent content in Microsoft Foundry on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bethany-jep.com/tags/microsoft-foundry/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/microsoft-foundry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AgentCon Nairobi 2026</title>
-      <link>https://bethany-jep.com/events/agentcon-nairobi-2026/</link>
+      <link>http://localhost:1313/events/agentcon-nairobi-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agentcon-nairobi-2026/</guid>
+      <guid>http://localhost:1313/events/agentcon-nairobi-2026/</guid>
       <description>Delivered session on Building Kinder and Cost-Effective Agents through fine tuning at AgentCon Nairobi.</description>
     </item>
     <item>
       <title>Data Science Summit 2025</title>
-      <link>https://bethany-jep.com/events/data-science-summit-2025/</link>
+      <link>http://localhost:1313/events/data-science-summit-2025/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/data-science-summit-2025/</guid>
+      <guid>http://localhost:1313/events/data-science-summit-2025/</guid>
       <description>Delivered session on Building an Agentic AI Application with Prompty and Microsoft Foundry at Data Science Summit.</description>
     </item>
     <item>
       <title>Microsoft Tech Summit 2025</title>
-      <link>https://bethany-jep.com/events/ms-tech-summit-2025/</link>
+      <link>http://localhost:1313/events/ms-tech-summit-2025/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ms-tech-summit-2025/</guid>
+      <guid>http://localhost:1313/events/ms-tech-summit-2025/</guid>
       <description>Delivered session on building AI solutions with Microsoft Foundry at Microsoft Tech Summit.</description>
     </item>
     <item>
       <title>Learn Live: AI Agents Session</title>
-      <link>https://bethany-jep.com/events/learn-live-ai-agents-2025/</link>
+      <link>http://localhost:1313/events/learn-live-ai-agents-2025/</link>
       <pubDate>Tue, 06 May 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/learn-live-ai-agents-2025/</guid>
+      <guid>http://localhost:1313/events/learn-live-ai-agents-2025/</guid>
       <description>Delivered Learn Live session on building AI agents with custom tools using Microsoft Foundry and Azure AI Agent Service.</description>
     </item>
     <item>
       <title>Agents Hack 2025</title>
-      <link>https://bethany-jep.com/events/agents-hack-2025/</link>
+      <link>http://localhost:1313/events/agents-hack-2025/</link>
       <pubDate>Tue, 22 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agents-hack-2025/</guid>
+      <guid>http://localhost:1313/events/agents-hack-2025/</guid>
       <description>Participated in Agents Hack 2025, demonstrating how to build AI agents using Prompty and Microsoft Foundry.</description>
     </item>
     <item>
       <title>Global AI Bootcamp Kenya 2025</title>
-      <link>https://bethany-jep.com/events/global-ai-bootcamp-kenya-2025/</link>
+      <link>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</link>
       <pubDate>Sat, 29 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/global-ai-bootcamp-kenya-2025/</guid>
+      <guid>http://localhost:1313/events/global-ai-bootcamp-kenya-2025/</guid>
       <description>Delivered session on building AI solutions with Microsoft Foundry at Global AI Bootcamp Kenya hosted at Zetech University.</description>
     </item>
     <item>
       <title>AgentCon Nairobi 2025</title>
-      <link>https://bethany-jep.com/events/agentcon-nairobi-2025/</link>
+      <link>http://localhost:1313/events/agentcon-nairobi-2025/</link>
       <pubDate>Thu, 13 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/agentcon-nairobi-2025/</guid>
+      <guid>http://localhost:1313/events/agentcon-nairobi-2025/</guid>
       <description>Delivered session on building AI agents with Prompty and Microsoft Foundry at AgentCon Nairobi.</description>
     </item>
     <item>
       <title>Build AI Kenya 2025</title>
-      <link>https://bethany-jep.com/events/build-ai-kenya-2025/</link>
+      <link>http://localhost:1313/events/build-ai-kenya-2025/</link>
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/build-ai-kenya-2025/</guid>
+      <guid>http://localhost:1313/events/build-ai-kenya-2025/</guid>
       <description>Delivered virtual session on Generative AI in Microsoft Foundry at Build AI Kenya meetup group.</description>
     </item>
     <item>
       <title>Microsoft Foundry - Live Session</title>
-      <link>https://bethany-jep.com/events/azure-ai-foundry-live-2025/</link>
+      <link>http://localhost:1313/events/azure-ai-foundry-live-2025/</link>
       <pubDate>Mon, 03 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/azure-ai-foundry-live-2025/</guid>
+      <guid>http://localhost:1313/events/azure-ai-foundry-live-2025/</guid>
       <description>First online session covering Microsoft Foundry end-to-end journey with deep dive into Prompty tooling.</description>
     </item>
     <item>
       <title>Cape Town Developer User Group Meetup</title>
-      <link>https://bethany-jep.com/events/cptdug-meetup-january-2025/</link>
+      <link>http://localhost:1313/events/cptdug-meetup-january-2025/</link>
       <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/cptdug-meetup-january-2025/</guid>
+      <guid>http://localhost:1313/events/cptdug-meetup-january-2025/</guid>
       <description>Delivered Microsoft Foundry session with ocean views at Cape Town Developer User Group with deep dive into RAG.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Johannesburg 2025</title>
-      <link>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</link>
+      <link>http://localhost:1313/events/ai-tour-johannesburg-2025/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</guid>
+      <guid>http://localhost:1313/events/ai-tour-johannesburg-2025/</guid>
       <description>Delivered breakout session on building AI solutions with Microsoft Foundry at Microsoft AI Tour Johannesburg.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Bengaluru 2025</title>
-      <link>https://bethany-jep.com/events/ai-tour-bengaluru-2025/</link>
+      <link>http://localhost:1313/events/ai-tour-bengaluru-2025/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://bethany-jep.com/events/ai-tour-bengaluru-2025/</guid>
+      <guid>http://localhost:1313/events/ai-tour-bengaluru-2025/</guid>
       <description>Delivered workshop on multimodal models and breakout session on SLMs/LLMs at Microsoft AI Tour Bengaluru.</description>
     </item>
   </channel>

@@ -19,8 +19,8 @@ Set up an intelligent MCP client that uses LLM to interpret natural commands and
 * Test interactions using natural language
 
 You can use my two demos: 
-1. [Spotify MCP](/content/projects/spotify-mcp.md)
-2. [Microsoft Docs MCP](/content/projects/mcp-microsoft-docs.md)
+1. [Spotify Agent and MCP Server](/projects/spotify-mcp/)
+2. [Microsoft Docs MCP](/projects/mcp-microsoft-docs/)
 
 ### Resources
 

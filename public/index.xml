@@ -6,14 +6,28 @@
     <description>Recent content on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 May 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writing Editor</title>
+      <link>http://localhost:1313/projects/writing-editor/</link>
+      <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/writing-editor/</guid>
+      <description>A multi-agent writing assistant where five specialist agents work as a team, sharing insights and building on each other&amp;rsquo;s findings.</description>
+    </item>
     <item>
       <title>AgentCon Nairobi 2026</title>
       <link>http://localhost:1313/events/agentcon-nairobi-2026/</link>
       <pubDate>Mon, 18 May 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/events/agentcon-nairobi-2026/</guid>
       <description>Delivered session on Building Kinder and Cost-Effective Agents through fine tuning at AgentCon Nairobi.</description>
+    </item>
+    <item>
+      <title>NikoKadi</title>
+      <link>http://localhost:1313/projects/nikokadi/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/nikokadi/</guid>
+      <description>An online multiplayer version of Kadi, the Kenyan card game, playable with friends from anywhere.</description>
     </item>
     <item>
       <title>One year on, travel musings</title>
@@ -100,11 +114,11 @@
       <description>A technical keynote at AI Summit Nairobi focusing on AI and AI Agents.</description>
     </item>
     <item>
-      <title>Spotify MCP Serve and more</title>
+      <title>Spotify Agent and MCP Server</title>
       <link>http://localhost:1313/projects/spotify-mcp/</link>
       <pubDate>Tue, 15 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/spotify-mcp/</guid>
-      <description>A comprehensive educational repository exploring LLMs, RAG, AI Agents, MCP.</description>
+      <description>A Model Context Protocol server that lets an AI agent control Spotify playback on macOS.</description>
     </item>
     <item>
       <title>MCP Microsoft Docs</title>
@@ -222,13 +236,6 @@
       <description>Participated in Agents Hack 2025, demonstrating how to build AI agents using Prompty and Microsoft Foundry.</description>
     </item>
     <item>
-      <title>Automating PowerPoint Generation with AI</title>
-      <link>http://localhost:1313/projects/automating-powerpoint/</link>
-      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/automating-powerpoint/</guid>
-      <description>A case study on automating PowerPoint generation using AI.</description>
-    </item>
-    <item>
       <title>Endings and new Beginnings</title>
       <link>http://localhost:1313/posts/endings/</link>
       <pubDate>Fri, 04 Apr 2025 06:30:17 +0000</pubDate>
@@ -291,13 +298,6 @@
       <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/events/build-ai-kenya-2025/</guid>
       <description>Delivered virtual session on Generative AI in Microsoft Foundry at Build AI Kenya meetup group.</description>
-    </item>
-    <item>
-      <title>GitHub Models Workshop</title>
-      <link>http://localhost:1313/projects/github-models-workshop/</link>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/github-models-workshop/</guid>
-      <description>An introductory workshop for exploring and evaluating AI models.</description>
     </item>
     <item>
       <title>Generative AI Train the Trainer Session - Microsoft LEAP</title>
@@ -376,6 +376,13 @@
     &lt;p class=&#34;discord-text&#34;&gt;
         💬 &lt;strong&gt;Join the conversation!&lt;/strong&gt; Connect with our community on Discord to continue the discussion, ask questions, and stay updated on the latest in AI and technology.
     &lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Image Generation Garage</title>
+      <link>http://localhost:1313/projects/image-generation-garage/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/image-generation-garage/</guid>
+      <description>A Flask app that reimagines Kenyan cities through randomly styled DALL-E prompts.</description>
     </item>
     <item>
       <title>Content</title>

@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/writing-editor/</loc>
+    <lastmod>2026-08-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/agentcon/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,9 +15,6 @@
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ai-agents/</loc>
-    <lastmod>2026-05-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fine-tuning/</loc>
@@ -22,6 +25,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2026-05-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/nikokadi/</loc>
+    <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/travelling/</loc>
     <lastmod>2026-02-16T06:30:17+00:00</lastmod>
@@ -164,9 +170,6 @@
     <loc>http://localhost:1313/tags/prompty/</loc>
     <lastmod>2025-04-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/automating-powerpoint/</loc>
-    <lastmod>2025-04-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/endings/</loc>
     <lastmod>2025-04-04T06:30:17+00:00</lastmod>
   </url><url>
@@ -204,9 +207,6 @@
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/generative-ai/</loc>
-    <lastmod>2025-02-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/projects/github-models-workshop/</loc>
     <lastmod>2025-02-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/education/</loc>
@@ -259,6 +259,9 @@
   </url><url>
     <loc>http://localhost:1313/posts/welcome/</loc>
     <lastmod>2024-10-02T07:06:31+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/image-generation-garage/</loc>
+    <lastmod>2024-05-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/archives/</loc>
   </url><url>

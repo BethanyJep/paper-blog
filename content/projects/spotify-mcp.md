@@ -1,37 +1,24 @@
 ---
-title: "Spotify MCP Serve and more"
+title: "Spotify Agent and MCP Server"
 date: 2025-07-15
 draft: false
-github_url: "https://github.com/BethanyJep/llms-and-a-bit-more"
-technologies: ["Python", "Azure OpenAI", "RAG","MCP", "AI Toolkit"]
-summary: "A comprehensive educational repository exploring LLMs, RAG, AI Agents, MCP."
+github_url: "https://github.com/BethanyJep/llms-and-a-bit-more/tree/main/spotify-play-music"
+technologies: ["Python", "MCP", "AI Toolkit", "AppleScript"]
+summary: "A Model Context Protocol server that lets an AI agent control Spotify playback on macOS."
 featured: false
 ---
 
-## What's Inside
+A Model Context Protocol (MCP) server that gives an AI agent hands-on control of Spotify. Instead of asking a chatbot for song recommendations and copying them across yourself, the agent talks to the player directly.
 
-This repository contains practical demonstrations and implementations of modern AI technologies:
+## What it does
 
-### LLM Demonstrations (llms.ipynb)
-- _Azure OpenAI Integration_: Complete setup guide for Azure OpenAI services
-- _Chat Conversations_: Build an AI study buddy for computer science topics
-- _Image Generation_: Create visual aids using DALL-E
-- _Educational Applications_: Real-world examples for students
-- _Essay Writing Assistant_: Help with academic writing and outlines
+- **Music control** — play, pause, skip tracks, and adjust volume
+- **AppleScript integration** — drives the native macOS Spotify client, no web API round trip
+- **MCP tools** — structured tool definitions any MCP-compatible agent can discover and call
+- **Agent Builder** — connects to the AI Toolkit Agent Builder in VS Code for testing
 
-### RAG Implementation (rag.ipynb)
-- _Document Processing_: Extract text from PDF files (Constitution of Kenya 2010)
-- _Text Chunking_: Intelligent document segmentation
-- _Vector Embeddings_: Using Sentence Transformers for semantic search
-- _FAISS Integration_: Efficient similarity search
-- _Query System_: Ask questions about constitutional content
+## Why MCP
 
-### Spotify MCP Server (spotify-play-music/)
-A complete Model Context Protocol (MCP) server for Spotify integration:
+MCP is what turns "a model that can talk about music" into "an agent that can actually play it." The server exposes each capability as a typed tool, the agent picks the right one from the conversation, and the protocol handles the wiring in between. Swap the agent and the tools still work.
 
-- _Music Control_: Play, pause, skip tracks, and adjust volume
-- _Apple Script Integration_: Native macOS Spotify control
-- _MCP Tools_: Structured tool definitions for AI agents
-- _Agent Builder Integration_: Connect with AI Toolkit Agent Builder
-
-> Link to [repository](https://github.com/BethanyJep/llms-and-a-bit-more).
+> Source lives in [`spotify-play-music/`](https://github.com/BethanyJep/llms-and-a-bit-more/tree/main/spotify-play-music).

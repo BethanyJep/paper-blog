@@ -3,6 +3,7 @@ title: "Writing Editor"
 date: 2026-08-07
 draft: false
 demo_url: "https://bethanyjep.github.io/writing-editor/"
+demo_note: "The live version replays saved reviews of the sample drafts so you can see the agents' output without an API key. Run it locally against Azure OpenAI to review your own writing."
 github_url: "https://github.com/BethanyJep/writing-editor"
 technologies: ["Python", "Microsoft Agent Framework", "Azure OpenAI", "Flask"]
 summary: "A multi-agent writing assistant where five specialist agents work as a team, sharing insights and building on each other's findings."

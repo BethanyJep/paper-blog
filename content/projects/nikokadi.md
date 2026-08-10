@@ -2,6 +2,7 @@
 title: "NikoKadi"
 date: 2026-05-15
 draft: false
+demo_url: "https://bethanyjep.github.io/NikoKadi/"
 github_url: "https://github.com/BethanyJep/NikoKadi"
 technologies: ["JavaScript", "Supabase", "Realtime", "GitHub Pages"]
 summary: "An online multiplayer version of Kadi, the Kenyan card game, playable with friends from anywhere."

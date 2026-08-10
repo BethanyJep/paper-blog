@@ -14,6 +14,27 @@ sections:
         venue: "YouTube"
         summary: "Small, hands-on demos exploring what is possible with AI and developer tools."
 
+      - title: "Learn Live: Integrate custom tools into your agent"
+        url: "https://www.youtube.com/watch?v=MRpExvcdxGs"
+        date: "2025-05"
+        when: "May 2025"
+        venue: "Microsoft Reactor"
+        summary: "A live walkthrough of giving an agent custom tools with Microsoft Foundry and Azure AI Agent Service, so it can call out to real services instead of guessing."
+
+      - title: "Building an AI agent with Prompty and Microsoft Foundry"
+        url: "https://www.youtube.com/watch?v=AOGprtBJ0hk"
+        date: "2025-04"
+        when: "Apr 2025"
+        venue: "Microsoft Reactor"
+        summary: "Building an agent that triages and tags GitHub issues, using Prompty for structured prompt engineering and Microsoft Foundry to run it."
+
+      - title: "Azure AI Fundamentals, 2025 edition"
+        url: "https://www.youtube.com/watch?v=Vtm7pdD2Ghc&list=PLmsFUfdnGr3zTs9lpTDVa4jAECFELd778"
+        date: "2025-02"
+        when: "2025"
+        venue: "Microsoft Reactor, AI-900 series"
+        summary: "A full series covering the Azure AI fundamentals, from what the services actually do through to sitting the AI-900 exam."
+
   - id: workshops
     title: "Workshops and labs"
     blurb: "Hands-on sessions I have written or delivered, most built to be run at your own pace."
@@ -53,6 +74,20 @@ sections:
         venue: "Microsoft AI Tour"
         summary: "When does fine-tuning actually make sense? This session walks through the customization options in Microsoft Foundry, then gets hands-on with synthetic data generation, distillation for cutting cost, and SFT for shaping tone."
 
+      - title: "PREL13: Observe, Manage and Scale Agentic AI Apps with Microsoft Foundry"
+        url: "https://github.com/microsoft/ignite25-PREL13-observe-manage-and-scale-agentic-ai-apps-with-microsoft-foundry"
+        date: "2025-11"
+        when: "Nov 2025"
+        venue: "Microsoft Ignite 2025"
+        summary: "An end-to-end lab on taking an agentic app past the demo stage: instrumenting it, watching what it actually does in production, and scaling it with Microsoft Foundry."
+
+      - title: "Analyzing Snapshot Serengeti data with Microsoft Fabric"
+        url: "https://moaw.dev/workshop/fabric-e2e-serengeti/"
+        date: "2023-08"
+        when: "2023"
+        venue: "Microsoft Open Awesome Workshops"
+        summary: "A self-paced workshop using camera trap data from the Serengeti: load it into a Lakehouse, query the SQL endpoint, visualize in Power BI, then transform and analyze the images with Apache Spark in Fabric."
+
   - id: curricula
     title: "Curricula and courses"
     blurb: "Longer-form programs and learning paths."
@@ -63,6 +98,29 @@ sections:
         when: "Ongoing"
         venue: "Microsoft"
         summary: "A course of lessons teaching everything you need to start building generative AI applications."
+        secondary_url: "https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum"
+        secondary_label: "Read the RAG and vector databases lesson"
+
+      - title: "AI for Beginners"
+        url: "https://aka.ms/ai4beginners"
+        date: "9999-97"
+        when: "Ongoing"
+        venue: "Microsoft"
+        summary: "A 12-week curriculum covering the foundations of AI, from symbolic approaches through neural networks, computer vision, and natural language processing."
+
+      - title: "Prompty documentation"
+        url: "https://prompty.ai/welcome"
+        date: "9999-96"
+        when: "Ongoing"
+        venue: "prompty.ai"
+        summary: "Documentation for Prompty, an asset class and format for structuring LLM prompts so they are observable, understandable, and portable across tools."
+
+      - title: "30 Days of Data Science"
+        url: "https://github.com/microsoft/30daysof/blob/main/website/docs/roadmaps/05-data-science.md"
+        date: "2022-10"
+        when: "2022"
+        venue: "Microsoft 30DaysOf"
+        summary: "A month-long roadmap of data science learning resources, samples, and curricula, structured so you can follow it a day at a time."
 
       - title: "Using GitHub Copilot with Python"
         url: "https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum"
@@ -102,6 +160,13 @@ sections:
         venue: "All posts"
         summary: "Articles, tutorials, and community reflections published through Microsoft Community Hub."
 
+      - title: "Is it a bug or a feature? Using Prompty to automatically track and tag issues"
+        url: "https://techcommunity.microsoft.com/blog/azuredevcommunityblog/is-it-a-bug-or-a-feature-using-prompty-to-automatically-track-and-tag-issues-/4409327"
+        date: "2025-05"
+        when: "May 2025"
+        venue: "Microsoft Developer Community"
+        summary: "Triaging issues is the kind of chore that quietly eats a maintainer's week. This walks through building a Prompty agent that reads an issue and tags it for you."
+
       - title: "Automating PowerPoint generation with AI"
         url: "https://techcommunity.microsoft.com/blog/educatordeveloperblog/automating-powerpoint-generation-with-ai-a-learn-live-series-case-study/4399557"
         date: "2025-04"
@@ -115,3 +180,10 @@ sections:
         when: "2025"
         venue: "Co-op Translator"
         summary: "Translating two full beginner curriculums into multiple languages in under a day, using Co-op Translator."
+
+      - title: "Using Azure ML to train a Serengeti data model for animal identification"
+        url: "https://opendatascience.com/using-azure-ml-to-train-a-serengeti-data-model-for-animal-identification/"
+        date: "2023-03"
+        when: "Mar 2023"
+        venue: "Open Data Science"
+        summary: "Training a model on Snapshot Serengeti camera trap images to identify the animals in them, from data prep through to a deployed endpoint on Azure ML."

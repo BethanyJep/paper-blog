@@ -1,0 +1,76 @@
+{{- define "main" }}
+
+<header class="page-header content-hub-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Content }}
+    <div class="page-description">
+        {{ .Content }}
+    </div>
+    {{- end }}
+</header>
+
+<nav class="content-crumbs" aria-label="Sections on this page">
+    {{- range $i, $section := site.Data.content_hub.sections }}
+    {{- if $i }}<span class="crumb-sep" aria-hidden="true">/</span>{{ end }}
+    <a class="crumb" href="#{{ $section.id }}" data-crumb="{{ $section.id }}">{{ $section.title }}</a>
+    {{- end }}
+</nav>
+
+<div class="content-hub">
+    {{- range site.Data.content_hub.sections }}
+    <section class="hub-section" id="{{ .id }}">
+        <div class="hub-section-head">
+            <h2>{{ .title }}</h2>
+            {{- with .blurb }}<p class="hub-blurb">{{ . }}</p>{{ end }}
+        </div>
+
+        <ol class="hub-list">
+            {{- range sort .items "date" "desc" }}
+            <li class="hub-item">
+                <div class="hub-when">
+                    <span class="hub-date">{{ .when }}</span>
+                </div>
+                <div class="hub-body">
+                    <h3 class="hub-title">
+                        <a href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+                    </h3>
+                    {{- with .venue }}<p class="hub-venue">{{ . }}</p>{{ end }}
+                    {{- with .summary }}<p class="hub-summary">{{ . }}</p>{{ end }}
+                    {{- if .secondary_url }}
+                    <p class="hub-secondary">
+                        <a href="{{ .secondary_url }}" target="_blank" rel="noopener">{{ .secondary_label | default "More" }}</a>
+                    </p>
+                    {{- end }}
+                </div>
+            </li>
+            {{- end }}
+        </ol>
+    </section>
+    {{- end }}
+</div>
+
+<script>
+(function () {
+    var crumbs = document.querySelectorAll(".crumb");
+    var sections = document.querySelectorAll(".hub-section");
+    if (!crumbs.length || !sections.length || !("IntersectionObserver" in window)) return;
+
+    var setActive = function (id) {
+        crumbs.forEach(function (c) {
+            c.classList.toggle("is-active", c.dataset.crumb === id);
+        });
+    };
+
+    var observer = new IntersectionObserver(function (entries) {
+        var visible = entries
+            .filter(function (e) { return e.isIntersecting; })
+            .sort(function (a, b) { return a.boundingClientRect.top - b.boundingClientRect.top; })[0];
+        if (visible) setActive(visible.target.id);
+    }, { rootMargin: "-25% 0px -65% 0px", threshold: 0 });
+
+    sections.forEach(function (s) { observer.observe(s); });
+    setActive(sections[0].id);
+})();
+</script>
+
+{{- end }}

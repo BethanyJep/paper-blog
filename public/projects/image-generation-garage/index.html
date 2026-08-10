@@ -1,24 +1,24 @@
 <!DOCTYPE html>
 <html lang="en" dir="auto">
 
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><meta charset="utf-8">
+<head><meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta name="robots" content="noindex, nofollow">
-<title>Automating PowerPoint Generation with AI | bethanyjep</title>
+<meta name="robots" content="index, follow">
+<title>Image Generation Garage | bethanyjep</title>
 <meta name="keywords" content="">
-<meta name="description" content="A case study on automating PowerPoint generation using AI.">
+<meta name="description" content="A Flask app that reimagines Kenyan cities through randomly styled DALL-E prompts.">
 <meta name="author" content="">
-<link rel="canonical" href="http://localhost:1313/projects/automating-powerpoint/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.ece2f812462366e18402b7bab8fc80696c796821b3f348afd29ff99662d2ac64.css" integrity="sha256-7OL4EkYjZuGEAre6uPyAaWx5aCGz80iv0p/5lmLSrGQ=" rel="preload stylesheet" as="style">
-<link rel="icon" href="http://localhost:1313/favicon.ico">
-<link rel="icon" type="image/png" sizes="16x16" href="http://localhost:1313/favicon-16x16.png">
-<link rel="icon" type="image/png" sizes="32x32" href="http://localhost:1313/favicon-32x32.png">
-<link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png">
-<link rel="mask-icon" href="http://localhost:1313/favicon.ico">
+<link rel="canonical" href="https://bethany-jep.com/projects/image-generation-garage/">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.cdd8cc9215b0cf7eccc7e8e10d918bf9d9b8f0d9505faa3541bb0d3cd63729c6.css" integrity="sha256-zdjMkhWwz37Mx&#43;jhDZGL&#43;dm48NlQX6o1QbsNPNY3KcY=" rel="preload stylesheet" as="style">
+<link rel="icon" href="https://bethany-jep.com/favicon.ico">
+<link rel="icon" type="image/png" sizes="16x16" href="https://bethany-jep.com/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://bethany-jep.com/favicon-32x32.png">
+<link rel="apple-touch-icon" href="https://bethany-jep.com/apple-touch-icon.png">
+<link rel="mask-icon" href="https://bethany-jep.com/favicon.ico">
 <meta name="theme-color" content="#2e2e33">
 <meta name="msapplication-TileColor" content="#2e2e33">
-<link rel="alternate" hreflang="en" href="http://localhost:1313/projects/automating-powerpoint/">
+<link rel="alternate" hreflang="en" href="https://bethany-jep.com/projects/image-generation-garage/">
 <noscript>
     <style>
         #theme-toggle,
@@ -55,7 +55,61 @@
         }
 
     </style>
-</noscript>
+</noscript><meta property="og:title" content="Image Generation Garage" />
+<meta property="og:description" content="A Flask app that reimagines Kenyan cities through randomly styled DALL-E prompts." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://bethany-jep.com/projects/image-generation-garage/" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2024-05-31T00:00:00+00:00" />
+<meta property="article:modified_time" content="2024-05-31T00:00:00+00:00" />
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Image Generation Garage"/>
+<meta name="twitter:description" content="A Flask app that reimagines Kenyan cities through randomly styled DALL-E prompts."/>
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position":  1 ,
+      "name": "Image Generation Garage",
+      "item": "https://bethany-jep.com/projects/image-generation-garage/"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "Image Generation Garage",
+  "name": "Image Generation Garage",
+  "description": "A Flask app that reimagines Kenyan cities through randomly styled DALL-E prompts.",
+  "keywords": [
+    
+  ],
+  "articleBody": "A small Flask app that turns the name of a Kenyan city into artwork. You give it a city, it picks a descriptive prompt at random, and DALL-E renders the result.\nThe idea The prompt library is where the personality lives. Nairobi might come back as a surrealist oil painting in cool blues during a thunderstorm, or an abstract digital piece lit by neon, or a photorealistic pencil sketch bathed in golden hour light. Same city, entirely different mood each time.\nIt started as a way to see how much a single variable — style, palette, lighting, time of day — changes what a model produces from otherwise identical input.\nUnder the hood Flask + Flask-RESTful for the API layer OpenAI DALL-E for generation Flask-Caching to memoize repeat prompts and avoid burning through calls A rotating list of descriptive prompt templates, each parameterised on the city name ",
+  "wordCount" : "147",
+  "inLanguage": "en",
+  "datePublished": "2024-05-31T00:00:00Z",
+  "dateModified": "2024-05-31T00:00:00Z",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://bethany-jep.com/projects/image-generation-garage/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "bethanyjep",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://bethany-jep.com/favicon.ico"
+    }
+  }
+}
+</script>
 <script type="text/javascript">
     (function(c,l,a,r,i,t,y){
         c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
@@ -81,7 +135,7 @@
 <header class="header">
     <nav class="nav">
         <div class="logo">
-            <a href="http://localhost:1313/" accesskey="h" title="bethanyjep (Alt + H)">bethanyjep</a>
+            <a href="https://bethany-jep.com/" accesskey="h" title="bethanyjep (Alt + H)">bethanyjep</a>
             <div class="logo-switches">
                 <button id="theme-toggle" accesskey="t" title="(Alt + T)">
                     <svg id="moon" xmlns="http://www.w3.org/2000/svg" width="24" height="18" viewBox="0 0 24 24"
@@ -107,37 +161,37 @@
         </div>
         <ul id="menu">
             <li>
-                <a href="http://localhost:1313/projects/" title="Experiments">
+                <a href="https://bethany-jep.com/projects/" title="Experiments">
                     <span>Experiments</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/events/" title="Events">
+                <a href="https://bethany-jep.com/events/" title="Events">
                     <span>Events</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/exploring/" title="Exploring">
+                <a href="https://bethany-jep.com/exploring/" title="Exploring">
                     <span>Exploring</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/archives/" title="Blog">
+                <a href="https://bethany-jep.com/archives/" title="Blog">
                     <span>Blog</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/newsletter/" title="Newsletter">
+                <a href="https://bethany-jep.com/newsletter/" title="Newsletter">
                     <span>Newsletter</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/content/" title="Content">
+                <a href="https://bethany-jep.com/content/" title="Content">
                     <span>Content</span>
                 </a>
             </li>
             <li>
-                <a href="http://localhost:1313/search/" title="Search (Alt &#43; /)" accesskey=/>
+                <a href="https://bethany-jep.com/search/" title="Search (Alt &#43; /)" accesskey=/>
                     <span>Search</span>
                 </a>
             </li>
@@ -150,20 +204,23 @@
   <header class="post-header">
     
     <h1 class="post-title entry-hint-parent">
-      Automating PowerPoint Generation with AI
+      Image Generation Garage
     </h1>
-    <div class="post-meta"><span title='2025-04-18 00:00:00 +0000 UTC'>April 18, 2025</span>
+    <div class="post-meta"><span title='2024-05-31 00:00:00 +0000 UTC'>May 31, 2024</span>
 
 </div>
   </header> 
-  <div class="post-content"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/_2rCYlaM0zE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"></iframe>
-    </div>
-
-<p>In this episode, we dive into one of my favorite real-world use cases: automating PowerPoint creation using generative AI. Inspired by a Learn Live series case study, I walk through how I used Python, and Copilot on PowerPoint to go from ideas to polished slides; saving time, reducing manual work, and making content creation smarter.</p>
-<p>💡 Whether you’re a student, educator, developer, or just AI-curious, this one’s for you.
-Let’s build something together!</p>
-<p>Read the full case study: 📖 <a href="https://techcommunity.microsoft.com/blog/educatordeveloperblog/automating-powerpoint-generation-with-ai-a-learn-live-series-case-study/4399557">https://techcommunity.microsoft.com/blog/educatordeveloperblog/automating-powerpoint-generation-with-ai-a-learn-live-series-case-study/4399557</a></p>
+  <div class="post-content"><p>A small Flask app that turns the name of a Kenyan city into artwork. You give it a city, it picks a descriptive prompt at random, and DALL-E renders the result.</p>
+<h2 id="the-idea">The idea<a hidden class="anchor" aria-hidden="true" href="#the-idea">#</a></h2>
+<p>The prompt library is where the personality lives. Nairobi might come back as a surrealist oil painting in cool blues during a thunderstorm, or an abstract digital piece lit by neon, or a photorealistic pencil sketch bathed in golden hour light. Same city, entirely different mood each time.</p>
+<p>It started as a way to see how much a single variable — style, palette, lighting, time of day — changes what a model produces from otherwise identical input.</p>
+<h2 id="under-the-hood">Under the hood<a hidden class="anchor" aria-hidden="true" href="#under-the-hood">#</a></h2>
+<ul>
+<li><strong>Flask + Flask-RESTful</strong> for the API layer</li>
+<li><strong>OpenAI DALL-E</strong> for generation</li>
+<li><strong>Flask-Caching</strong> to memoize repeat prompts and avoid burning through calls</li>
+<li>A rotating list of descriptive prompt templates, each parameterised on the city name</li>
+</ul>
 
 
   </div>
@@ -176,7 +233,7 @@ Let’s build something together!</p>
     </main>
     
 <footer class="footer">
-        <span>&copy; 2026 <a href="http://localhost:1313/">bethanyjep</a></span> · 
+        <span>&copy; 2026 <a href="https://bethany-jep.com/">bethanyjep</a></span> · 
 
     <span>
         Powered by

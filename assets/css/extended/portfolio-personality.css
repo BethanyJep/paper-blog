@@ -1090,3 +1090,224 @@ h6 {
         color: #ede9fe;
     }
 }
+
+/* ==========================================================================
+   Content hub — breadcrumb nav and dated timeline
+   ========================================================================== */
+
+.content-crumbs {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.15rem 0.35rem;
+    margin: 0 0 2.5rem 0;
+    padding: 0.65rem 0;
+    background: var(--theme);
+    border-bottom: 1px solid rgba(109, 40, 217, 0.14);
+}
+
+.content-crumbs .crumb {
+    padding: 0.3rem 0.7rem;
+    border: 0 !important;
+    border-radius: 999px;
+    color: #6b6b76;
+    font-size: 0.85rem;
+    line-height: 1.2;
+    text-decoration: none !important;
+    white-space: nowrap;
+    transition: color 0.15s ease, background 0.15s ease;
+}
+
+.content-crumbs .crumb:hover {
+    color: var(--bethany-purple);
+    background: var(--bethany-purple-soft);
+}
+
+.content-crumbs .crumb.is-active {
+    color: #ffffff;
+    background: var(--bethany-purple);
+}
+
+.crumb-sep {
+    color: rgba(109, 40, 217, 0.35);
+    font-size: 0.85rem;
+    user-select: none;
+}
+
+.hub-section {
+    margin-bottom: 3.25rem;
+    scroll-margin-top: 4.5rem;
+}
+
+.hub-section-head {
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.6rem;
+    border-bottom: 1px solid rgba(109, 40, 217, 0.14);
+}
+
+.hub-section-head h2 {
+    margin: 0;
+    color: var(--bethany-plum);
+    font-size: 1.5rem;
+}
+
+.hub-blurb {
+    margin: 0.35rem 0 0 0;
+    color: #6b6b76;
+    font-size: 0.95rem;
+}
+
+.hub-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.hub-item {
+    display: grid;
+    grid-template-columns: 8.5rem 1fr;
+    gap: 0 1.5rem;
+    padding: 1.35rem 0;
+    border-bottom: 1px solid rgba(109, 40, 217, 0.09);
+}
+
+.hub-item:last-child {
+    border-bottom: 0;
+}
+
+.hub-when {
+    padding-top: 0.15rem;
+}
+
+.hub-date {
+    display: inline-block;
+    padding: 0.2rem 0.6rem;
+    border-radius: 999px;
+    background: var(--bethany-purple-soft);
+    color: var(--bethany-purple-deep);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    white-space: nowrap;
+}
+
+.hub-title {
+    margin: 0;
+    font-size: 1.12rem;
+    line-height: 1.4;
+}
+
+.hub-title a {
+    border: 0 !important;
+    color: var(--bethany-plum);
+    text-decoration: none !important;
+}
+
+.hub-title a:hover {
+    color: var(--bethany-purple);
+}
+
+.hub-venue {
+    margin: 0.25rem 0 0 0;
+    color: var(--bethany-purple);
+    font-size: 0.82rem;
+    font-weight: 500;
+}
+
+.hub-summary {
+    margin: 0.5rem 0 0 0;
+    color: #4b5563;
+    font-size: 0.95rem;
+    line-height: 1.65;
+}
+
+.hub-secondary {
+    margin: 0.5rem 0 0 0;
+    font-size: 0.88rem;
+}
+
+.hub-secondary a {
+    border: 0 !important;
+    color: var(--bethany-purple);
+    text-decoration: none !important;
+}
+
+.hub-secondary a:hover {
+    text-decoration: underline !important;
+}
+
+@media (max-width: 640px) {
+    .hub-item {
+        grid-template-columns: 1fr;
+        gap: 0.45rem;
+    }
+
+    .hub-when {
+        padding-top: 0;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .content-crumbs {
+        border-bottom-color: rgba(196, 181, 253, 0.18);
+    }
+
+    .content-crumbs .crumb {
+        color: #c4b5fd;
+    }
+
+    .content-crumbs .crumb:hover {
+        background: rgba(109, 40, 217, 0.35);
+        color: #ede9fe;
+    }
+
+    .content-crumbs .crumb.is-active {
+        background: var(--bethany-purple);
+        color: #ffffff;
+    }
+
+    .crumb-sep {
+        color: rgba(196, 181, 253, 0.35);
+    }
+
+    .hub-section-head {
+        border-bottom-color: rgba(196, 181, 253, 0.18);
+    }
+
+    .hub-section-head h2 {
+        color: #f5f3ff;
+    }
+
+    .hub-blurb {
+        color: #c4b5fd;
+    }
+
+    .hub-item {
+        border-bottom-color: rgba(196, 181, 253, 0.12);
+    }
+
+    .hub-date {
+        background: rgba(109, 40, 217, 0.35);
+        color: #ede9fe;
+    }
+
+    .hub-title a {
+        color: #f5f3ff;
+    }
+
+    .hub-title a:hover {
+        color: var(--bethany-lilac);
+    }
+
+    .hub-venue,
+    .hub-secondary a {
+        color: var(--bethany-lilac);
+    }
+
+    .hub-summary {
+        color: #ddd6fe;
+    }
+}

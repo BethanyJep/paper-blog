@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Agents on bethanyjep</title>
-    <link>http://localhost:1313/tags/agents/</link>
+    <link>https://bethany-jep.com/tags/agents/</link>
     <description>Recent content in Agents on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/agents/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bethany-jep.com/tags/agents/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alx Alumni Workshop</title>
-      <link>http://localhost:1313/events/alx-workshop/</link>
+      <link>https://bethany-jep.com/events/alx-workshop/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/alx-workshop/</guid>
+      <guid>https://bethany-jep.com/events/alx-workshop/</guid>
       <description>Delivered session on building agents.</description>
     </item>
     <item>
       <title>PyconKE 2025</title>
-      <link>http://localhost:1313/events/pyconke-2025/</link>
+      <link>https://bethany-jep.com/events/pyconke-2025/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/pyconke-2025/</guid>
+      <guid>https://bethany-jep.com/events/pyconke-2025/</guid>
       <description>Delivered session on building agents.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Johannesburg 2025</title>
-      <link>http://localhost:1313/events/ai-tour-johannesburg-2025/</link>
+      <link>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/ai-tour-johannesburg-2025/</guid>
+      <guid>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</guid>
       <description>Delivered breakout session on building AI solutions with Microsoft Foundry at Microsoft AI Tour Johannesburg.</description>
     </item>
   </channel>

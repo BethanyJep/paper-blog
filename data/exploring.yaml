@@ -1,0 +1,17 @@
+# Polaroids on the Exploring page, rendered by layouts/_default/exploring.html.
+#
+# image  - filename inside assets/images/exploring/. Hugo resizes and converts
+#          it to WebP at build time, so drop the full-size original in as-is.
+# caption- the handwritten line under the photo.
+# place  - smaller line beneath the caption.
+# focus  - optional object-position for the crop, e.g. "center 60%".
+#          Defaults to "center" when omitted.
+# tilt   - optional rotation in degrees, e.g. -2. Defaults to a gentle
+#          alternating tilt based on position.
+
+polaroids:
+  - image: "susumwa-dam-njambini.jpg"
+    caption: "Susumwa Dam"
+    place: "Njambini, Nyandarua"
+    focus: "center 62%"
+    tilt: -2

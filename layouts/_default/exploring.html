@@ -1,0 +1,42 @@
+{{- define "main" }}
+
+<header class="page-header exploring-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Content }}
+    <div class="page-description">
+        {{ .Content }}
+    </div>
+    {{- end }}
+</header>
+
+<div class="polaroid-wall">
+    {{- range $i, $p := site.Data.exploring.polaroids }}
+    {{- $src := resources.Get (printf "images/exploring/%s" $p.image) }}
+    {{- if $src }}
+    {{- $small := $src.Process "resize 480x webp q78" }}
+    {{- $large := $src.Process "resize 960x webp q78" }}
+    {{- $tilt := $p.tilt | default (cond (eq (mod $i 2) 0) -2 1.5) }}
+    <figure class="polaroid" style="--tilt: {{ $tilt }}deg;">
+        <div class="polaroid-photo">
+            <img
+                src="{{ $small.RelPermalink }}"
+                srcset="{{ $small.RelPermalink }} 480w, {{ $large.RelPermalink }} 960w"
+                sizes="(max-width: 640px) 88vw, 300px"
+                width="{{ $large.Width }}"
+                height="{{ $large.Height }}"
+                alt="{{ $p.caption }}{{ with $p.place }}, {{ . }}{{ end }}"
+                loading="{{ cond (lt $i 2) "eager" "lazy" }}"
+                {{ if lt $i 2 }}fetchpriority="high"{{ end }}
+                decoding="async"
+                style="object-position: {{ $p.focus | default "center" }};" />
+        </div>
+        <figcaption class="polaroid-note">
+            <span class="polaroid-title">{{ $p.caption }}</span>
+            {{- with $p.place }}<span class="polaroid-place">{{ . }}</span>{{ end }}
+        </figcaption>
+    </figure>
+    {{- end }}
+    {{- end }}
+</div>
+
+{{- end }}

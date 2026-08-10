@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Open Source on bethanyjep</title>
-    <link>http://localhost:1313/tags/open-source/</link>
+    <link>https://bethany-jep.com/tags/open-source/</link>
     <description>Recent content in Open Source on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bethany-jep.com/tags/open-source/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OSCA Fest 2025</title>
-      <link>http://localhost:1313/events/osca-fest-2025/</link>
+      <link>https://bethany-jep.com/events/osca-fest-2025/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/osca-fest-2025/</guid>
+      <guid>https://bethany-jep.com/events/osca-fest-2025/</guid>
       <description>A talk on scaling open-source documentation using AI at OSCA Fest Lagos.</description>
     </item>
     <item>
       <title>Write the Docs Conference 2025</title>
-      <link>http://localhost:1313/events/write-the-docs-2025/</link>
+      <link>https://bethany-jep.com/events/write-the-docs-2025/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/write-the-docs-2025/</guid>
+      <guid>https://bethany-jep.com/events/write-the-docs-2025/</guid>
       <description>Delivered session on scaling open-source documentation with AI at Write the Docs Conference Nairobi.</description>
     </item>
   </channel>

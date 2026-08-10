@@ -2,82 +2,82 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>AI on bethanyjep</title>
-    <link>http://localhost:1313/tags/ai/</link>
+    <link>https://bethany-jep.com/tags/ai/</link>
     <description>Recent content in AI on bethanyjep</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Nov 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bethany-jep.com/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alx Alumni Workshop</title>
-      <link>http://localhost:1313/events/alx-workshop/</link>
+      <link>https://bethany-jep.com/events/alx-workshop/</link>
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/alx-workshop/</guid>
+      <guid>https://bethany-jep.com/events/alx-workshop/</guid>
       <description>Delivered session on building agents.</description>
     </item>
     <item>
       <title>PyconKE 2025</title>
-      <link>http://localhost:1313/events/pyconke-2025/</link>
+      <link>https://bethany-jep.com/events/pyconke-2025/</link>
       <pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/pyconke-2025/</guid>
+      <guid>https://bethany-jep.com/events/pyconke-2025/</guid>
       <description>Delivered session on building agents.</description>
     </item>
     <item>
       <title>MCP Bootcamp: MCP Integration with LLMs</title>
-      <link>http://localhost:1313/events/mcp-bootcamp-llms/</link>
+      <link>https://bethany-jep.com/events/mcp-bootcamp-llms/</link>
       <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/mcp-bootcamp-llms/</guid>
+      <guid>https://bethany-jep.com/events/mcp-bootcamp-llms/</guid>
       <description>A talk on scaling open-source documentation using AI at OSCA Fest Lagos.</description>
     </item>
     <item>
       <title>OSCA Fest 2025</title>
-      <link>http://localhost:1313/events/osca-fest-2025/</link>
+      <link>https://bethany-jep.com/events/osca-fest-2025/</link>
       <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/osca-fest-2025/</guid>
+      <guid>https://bethany-jep.com/events/osca-fest-2025/</guid>
       <description>A talk on scaling open-source documentation using AI at OSCA Fest Lagos.</description>
     </item>
     <item>
       <title>AI Summit Nairobi 2025</title>
-      <link>http://localhost:1313/events/ai-summit-kenya-2025/</link>
+      <link>https://bethany-jep.com/events/ai-summit-kenya-2025/</link>
       <pubDate>Sat, 02 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/ai-summit-kenya-2025/</guid>
+      <guid>https://bethany-jep.com/events/ai-summit-kenya-2025/</guid>
       <description>A technical keynote at AI Summit Nairobi focusing on AI and AI Agents.</description>
     </item>
     <item>
       <title>Write the Docs Conference 2025</title>
-      <link>http://localhost:1313/events/write-the-docs-2025/</link>
+      <link>https://bethany-jep.com/events/write-the-docs-2025/</link>
       <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/write-the-docs-2025/</guid>
+      <guid>https://bethany-jep.com/events/write-the-docs-2025/</guid>
       <description>Delivered session on scaling open-source documentation with AI at Write the Docs Conference Nairobi.</description>
     </item>
     <item>
       <title>Explore and Evaluate AI  models for free with GitHub Models</title>
-      <link>http://localhost:1313/posts/github-models-intro/</link>
+      <link>https://bethany-jep.com/posts/github-models-intro/</link>
       <pubDate>Mon, 24 Feb 2025 06:30:17 +0000</pubDate>
-      <guid>http://localhost:1313/posts/github-models-intro/</guid>
+      <guid>https://bethany-jep.com/posts/github-models-intro/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;🛠 I have the workshop; you just need to try it out and tell me what you think!&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;I recently converted my workshop from Azure AI to &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt;, and it will be globally used as &lt;a href=&#34;https://globalaicommunity.github.io/global-ai-bootcamp-2025/workshops/#interacting-with-multimodal-models-in-github-models-and-microsoft-copilot&#34;&gt;introductory content&lt;/a&gt; for the &lt;a href=&#34;https://globalai.community/bootcamp&#34;&gt;Global AI Bootcamps&lt;/a&gt; all over the world in ~125 locations. One of the biggest advantages of using GitHub Models is it provides every GitHub user access to some leading models from Azure AI Model Catalog, allowing you to experiment, test and compare models before you get them to production. Another plus of using &lt;a href=&#34;https://github.com/marketplace/models&#34;&gt;GitHub Models&lt;/a&gt; is you only need to create your personal token to get started and going - no complicated setup, no friction. Using GitHub Models is free until you hit the rate limits of the different models.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Generative AI Train the Trainer Session - Microsoft LEAP</title>
-      <link>http://localhost:1313/events/generative-ai-train-trainer-2025/</link>
+      <link>https://bethany-jep.com/events/generative-ai-train-trainer-2025/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/generative-ai-train-trainer-2025/</guid>
+      <guid>https://bethany-jep.com/events/generative-ai-train-trainer-2025/</guid>
       <description>Delivered train-the-trainer session on using Generative AI effectively in educational settings for Microsoft LEAP instructors.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Johannesburg 2025</title>
-      <link>http://localhost:1313/events/ai-tour-johannesburg-2025/</link>
+      <link>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</link>
       <pubDate>Sun, 26 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/ai-tour-johannesburg-2025/</guid>
+      <guid>https://bethany-jep.com/events/ai-tour-johannesburg-2025/</guid>
       <description>Delivered breakout session on building AI solutions with Microsoft Foundry at Microsoft AI Tour Johannesburg.</description>
     </item>
     <item>
       <title>Microsoft AI Tour Bengaluru 2025</title>
-      <link>http://localhost:1313/events/ai-tour-bengaluru-2025/</link>
+      <link>https://bethany-jep.com/events/ai-tour-bengaluru-2025/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/ai-tour-bengaluru-2025/</guid>
+      <guid>https://bethany-jep.com/events/ai-tour-bengaluru-2025/</guid>
       <description>Delivered workshop on multimodal models and breakout session on SLMs/LLMs at Microsoft AI Tour Bengaluru.</description>
     </item>
   </channel>

@@ -1443,3 +1443,134 @@ h6 {
 .dark .polaroid-place {
     color: #6b7280;
 }
+
+/* ---------------------------------------------------------------
+   Experiment detail page: demo and source actions
+   --------------------------------------------------------------- */
+
+.project-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 1.15rem 0 0;
+}
+
+.project-action {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.55rem 0.95rem;
+    border: 1px solid var(--bethany-purple-soft);
+    border-radius: 0.5rem;
+    background: transparent;
+    color: var(--bethany-purple-deep);
+    font-family: "Work Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.85rem;
+    font-weight: 600;
+    line-height: 1;
+    text-decoration: none;
+    transition: transform 0.18s ease, background 0.18s ease, border-color 0.18s ease;
+}
+
+.project-action:hover,
+.project-action:focus-visible {
+    transform: translateY(-1px);
+    background: var(--bethany-purple-soft);
+    border-color: var(--bethany-lilac);
+    border-bottom-width: 1px !important;
+    text-decoration: none;
+}
+
+.project-action.is-primary {
+    background: var(--bethany-purple);
+    border-color: var(--bethany-purple);
+    color: #fff;
+}
+
+.project-action.is-primary:hover,
+.project-action.is-primary:focus-visible {
+    background: var(--bethany-purple-deep);
+    border-color: var(--bethany-purple-deep);
+    color: #fff;
+}
+
+.project-action svg {
+    flex-shrink: 0;
+}
+
+.project-demo-note {
+    margin: 0.7rem 0 0;
+    max-width: 46rem;
+    color: #6b7280;
+    font-family: "Work Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.82rem;
+    line-height: 1.55;
+}
+
+.project-stack {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin: 1.15rem 0 0;
+    padding: 0;
+    list-style: none;
+}
+
+.project-stack li {
+    padding: 0.2rem 0.55rem;
+    border-radius: 999px;
+    background: var(--bethany-purple-soft);
+    color: var(--bethany-purple-deep);
+    font-family: "Work Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.02em;
+}
+
+.project-actions-footer {
+    margin: 0 0 1.25rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--bethany-purple-soft);
+}
+
+.project-back a {
+    color: var(--bethany-purple-deep);
+    font-family: "Work Sans", ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.85rem;
+    text-decoration: none;
+    border-bottom: 0 !important;
+}
+
+.project-back a:hover {
+    color: var(--bethany-purple);
+    border-bottom: 0 !important;
+}
+
+.dark .project-action {
+    border-color: #4c1d95;
+    color: #ddd6fe;
+}
+
+.dark .project-action:hover,
+.dark .project-action:focus-visible {
+    background: #2e1065;
+    border-color: #6d28d9;
+}
+
+.dark .project-action.is-primary {
+    background: #7c3aed;
+    border-color: #7c3aed;
+    color: #fff;
+}
+
+.dark .project-stack li {
+    background: #2e1065;
+    color: #ddd6fe;
+}
+
+.dark .project-demo-note {
+    color: #a8a29e;
+}
+
+.dark .project-back a {
+    color: #ddd6fe;
+}

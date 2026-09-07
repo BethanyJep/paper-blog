@@ -10,9 +10,6 @@ params:
     Title: "Bethany Jep"
     Content: "I am inherently curious, a builder of things and love to teach."
   assets:
-    css:
-      - "css/custom.css"
-      - "css/force-typography.css"
     favicon: "favicon.ico"
     favicon16x16: "favicon-16x16.png"
     favicon32x32: "favicon-32x32.png"

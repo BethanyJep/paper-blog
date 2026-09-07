@@ -190,7 +190,29 @@ h6 {
     font-size: 1.15rem;
     line-height: 1.65;
     color: #374151;
-    margin-bottom: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.hero-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.7rem 1rem;
+    border: 1px solid var(--bethany-purple);
+    border-radius: 999px;
+    background: var(--bethany-purple);
+    color: #ffffff !important;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.hero-cta:hover,
+.hero-cta:focus-visible {
+    border-color: var(--bethany-purple-deep);
+    background: var(--bethany-purple-deep);
+    transform: translateY(-0.1rem);
 }
 
 .home-section {
@@ -241,10 +263,6 @@ h6 {
     outline-color: var(--bethany-purple);
 }
 
-.home-card-wide {
-    grid-column: span 2;
-}
-
 .card-icon {
     font-size: 1.5rem;
     margin-bottom: 0.5rem;
@@ -281,6 +299,22 @@ h6 {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: 2rem;
+}
+
+.recent-column {
+    padding: 1.25rem;
+    border: 0.65rem solid var(--bethany-paper);
+    outline: 1px solid rgba(109, 40, 217, 0.15);
+    background: #ffffff;
+    box-shadow: 0 8px 18px rgba(46, 16, 101, 0.06);
+}
+
+.recent-column:first-child {
+    transform: rotate(-0.25deg);
+}
+
+.recent-column:last-child {
+    transform: rotate(0.25deg);
 }
 
 .column-header {
@@ -1008,6 +1042,13 @@ h6 {
         color: #ddd6fe;
     }
 
+    .recent-column {
+        border-color: #211334;
+        outline-color: rgba(196, 181, 253, 0.2);
+        background: #211334;
+        box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
+    }
+
     .home-recent-section {
         border-top-color: rgba(196, 181, 253, 0.2);
     }
@@ -1107,6 +1148,17 @@ h6 {
     color: #e9d5ff;
 }
 
+.dark .hero-cta {
+    border-color: #8b5cf6;
+    background: #7c3aed;
+}
+
+.dark .hero-cta:hover,
+.dark .hero-cta:focus-visible {
+    border-color: #a78bfa;
+    background: #8b5cf6;
+}
+
 .dark .home-info-hero .polaroid-frame {
     background: #211334;
     border-color: rgba(196, 181, 253, 0.3);
@@ -1137,6 +1189,13 @@ h6 {
 
 .dark .home-card p {
     color: #ddd6fe;
+}
+
+.dark .recent-column {
+    border-color: #211334;
+    outline-color: rgba(196, 181, 253, 0.2);
+    background: #211334;
+    box-shadow: 0 8px 18px rgba(0, 0, 0, 0.2);
 }
 
 .dark .home-recent-section {

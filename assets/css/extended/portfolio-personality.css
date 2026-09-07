@@ -1091,6 +1091,74 @@ h6 {
     }
 }
 
+/* Keep the homepage in sync with PaperMod's manual theme toggle. */
+.dark .home-info-hero {
+    border-color: rgba(196, 181, 253, 0.28);
+    background:
+        radial-gradient(circle at top right, rgba(109, 40, 217, 0.34), transparent 30rem),
+        linear-gradient(135deg, #1f1437, #171221);
+}
+
+.dark .home-info-hero .entry-header h1 {
+    color: #fff;
+}
+
+.dark .home-info-hero .hero-bio {
+    color: #e9d5ff;
+}
+
+.dark .home-info-hero .polaroid-frame {
+    background: #211334;
+    border-color: rgba(196, 181, 253, 0.3);
+}
+
+.dark .home-info-hero .polaroid-caption {
+    color: #ddd6fe;
+}
+
+.dark .section-title-wrap h2,
+.dark .column-header h3 {
+    color: #f5f3ff;
+}
+
+.dark .section-title-wrap p {
+    color: #a78bfa;
+}
+
+.dark .home-card {
+    border-color: #211334;
+    outline-color: rgba(196, 181, 253, 0.2);
+    background: #211334;
+}
+
+.dark .home-card h3 {
+    color: #f5f3ff;
+}
+
+.dark .home-card p {
+    color: #ddd6fe;
+}
+
+.dark .home-recent-section {
+    border-top-color: rgba(196, 181, 253, 0.2);
+}
+
+.dark .column-header {
+    border-bottom-color: rgba(109, 40, 217, 0.4);
+}
+
+.dark .recent-item {
+    border-bottom-color: rgba(196, 181, 253, 0.15);
+}
+
+.dark .recent-title {
+    color: #e9d5ff;
+}
+
+.dark .recent-date {
+    color: #a78bfa;
+}
+
 /* ==========================================================================
    Content hub — breadcrumb nav and dated timeline
    ========================================================================== */

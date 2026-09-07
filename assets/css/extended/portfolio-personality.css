@@ -190,7 +190,29 @@ h6 {
     font-size: 1.15rem;
     line-height: 1.65;
     color: #374151;
-    margin-bottom: 1.25rem;
+    margin-bottom: 1rem;
+}
+
+.hero-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.7rem 1rem;
+    border: 1px solid var(--bethany-purple);
+    border-radius: 999px;
+    background: var(--bethany-purple);
+    color: #ffffff !important;
+    font-size: 0.9rem;
+    font-weight: 600;
+    text-decoration: none !important;
+    transition: background-color 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+}
+
+.hero-cta:hover,
+.hero-cta:focus-visible {
+    border-color: var(--bethany-purple-deep);
+    background: var(--bethany-purple-deep);
+    transform: translateY(-0.1rem);
 }
 
 .home-section {
@@ -239,10 +261,6 @@ h6 {
 .home-card:hover {
     transform: translateY(-0.25rem) rotate(0deg);
     outline-color: var(--bethany-purple);
-}
-
-.home-card-wide {
-    grid-column: span 2;
 }
 
 .card-icon {
@@ -1128,6 +1146,17 @@ h6 {
 
 .dark .home-info-hero .hero-bio {
     color: #e9d5ff;
+}
+
+.dark .hero-cta {
+    border-color: #8b5cf6;
+    background: #7c3aed;
+}
+
+.dark .hero-cta:hover,
+.dark .hero-cta:focus-visible {
+    border-color: #a78bfa;
+    background: #8b5cf6;
 }
 
 .dark .home-info-hero .polaroid-frame {

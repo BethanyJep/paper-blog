@@ -3,7 +3,15 @@ languageCode: en-us
 title: bethanyjep
 theme: ["PaperMod"]
 
+module:
+  mounts:
+    - source: assets
+      target: assets
+    - source: static/assets/images
+      target: assets/moments
+
 params:
+  description: "Bethany Jep's little corner of the internet. Building, teaching, exploring, and staying curious."
   disableSpecial1stPost: false
   mainSections: ["posts"]
   homeInfoParams:
@@ -26,6 +34,9 @@ params:
 
 menu:
   main:
+    - name: About
+      url: /about/
+      weight: 3
     - name: Experiments
       url: /projects/
       weight: 5
@@ -44,9 +55,6 @@ menu:
     - name: Content
       url: /content/
       weight: 14
-    - name: Search
-      url: /search/
-      weight: 15
 
 outputs:
   home:

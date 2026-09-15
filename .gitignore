@@ -6,4 +6,8 @@ _site/
 .bundle/
 vendor/
 
-
+# Local Hugo derivatives and Impeccable interaction state.
+resources/_gen/
+.impeccable/questions/
+.impeccable/hook.cache.json
+__pycache__/

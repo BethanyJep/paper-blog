@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-09-15T09:04:39.920Z",
+  "title": "Design System: Bethany Jep",
+  "extensions": {
+    "colorMeta": {
+      "teaching-bg": {"role": "primary", "displayName": "Deep Plum Teaching Panel"},
+      "paper": {"role": "neutral", "displayName": "Butter Paper", "tonalRamp": ["oklch(15% 0.0249 89.21)", "oklch(26% 0.0249 89.21)", "oklch(38% 0.0249 89.21)", "oklch(49% 0.0249 89.21)", "oklch(61% 0.0249 89.21)", "oklch(72% 0.0249 89.21)", "oklch(84% 0.0249 89.21)", "oklch(95% 0.0249 89.21)"]},
+      "sheet": {"role": "neutral", "displayName": "Warm Sheet", "tonalRamp": ["oklch(15% 0.0142 84.58)", "oklch(26% 0.0142 84.58)", "oklch(38% 0.0142 84.58)", "oklch(49% 0.0142 84.58)", "oklch(61% 0.0142 84.58)", "oklch(72% 0.0142 84.58)", "oklch(84% 0.0142 84.58)", "oklch(95% 0.0142 84.58)"]},
+      "forest": {"role": "primary", "displayName": "Forest", "tonalRamp": ["oklch(15% 0.0446 168.29)", "oklch(26% 0.0446 168.29)", "oklch(38% 0.0446 168.29)", "oklch(49% 0.0446 168.29)", "oklch(61% 0.0446 168.29)", "oklch(72% 0.0446 168.29)", "oklch(84% 0.0446 168.29)", "oklch(95% 0.0446 168.29)"]},
+      "ink": {"role": "neutral", "displayName": "Forest Ink", "tonalRamp": ["oklch(15% 0.0350 166.26)", "oklch(26% 0.0350 166.26)", "oklch(38% 0.0350 166.26)", "oklch(49% 0.0350 166.26)", "oklch(61% 0.0350 166.26)", "oklch(72% 0.0350 166.26)", "oklch(84% 0.0350 166.26)", "oklch(95% 0.0350 166.26)"]},
+      "muted": {"role": "neutral", "displayName": "Muted Botanical", "tonalRamp": ["oklch(15% 0.0245 140.84)", "oklch(26% 0.0245 140.84)", "oklch(38% 0.0245 140.84)", "oklch(49% 0.0245 140.84)", "oklch(61% 0.0245 140.84)", "oklch(72% 0.0245 140.84)", "oklch(84% 0.0245 140.84)", "oklch(95% 0.0245 140.84)"]},
+      "tomato": {"role":"primary","displayName":"Plum"},
+      "pink": {"role":"secondary","displayName":"Lilac Paper"},
+      "sky": {"role": "secondary", "displayName": "Pale Sky", "tonalRamp": ["oklch(15% 0.0230 207.07)", "oklch(26% 0.0230 207.07)", "oklch(38% 0.0230 207.07)", "oklch(49% 0.0230 207.07)", "oklch(61% 0.0230 207.07)", "oklch(72% 0.0230 207.07)", "oklch(84% 0.0230 207.07)", "oklch(95% 0.0230 207.07)"]},
+      "sunflower": {"role": "tertiary", "displayName": "Sunflower Yellow", "tonalRamp": ["oklch(15% 0.1330 91.49)", "oklch(26% 0.1330 91.49)", "oklch(38% 0.1330 91.49)", "oklch(49% 0.1330 91.49)", "oklch(61% 0.1330 91.49)", "oklch(72% 0.1330 91.49)", "oklch(84% 0.1330 91.49)", "oklch(95% 0.1330 91.49)"]},
+      "rule": {"role": "neutral", "displayName": "Paper Rule", "tonalRamp": ["oklch(15% 0.0302 96.45)", "oklch(26% 0.0302 96.45)", "oklch(38% 0.0302 96.45)", "oklch(49% 0.0302 96.45)", "oklch(61% 0.0302 96.45)", "oklch(72% 0.0302 96.45)", "oklch(84% 0.0302 96.45)", "oklch(95% 0.0302 96.45)"]},
+      "code-bg": {"role": "neutral", "displayName": "Inline Code Paper", "tonalRamp": ["oklch(15% 0.0251 89.22)", "oklch(26% 0.0251 89.22)", "oklch(38% 0.0251 89.22)", "oklch(49% 0.0251 89.22)", "oklch(61% 0.0251 89.22)", "oklch(72% 0.0251 89.22)", "oklch(84% 0.0251 89.22)", "oklch(95% 0.0251 89.22)"]},
+      "code-block-bg": {"role": "neutral", "displayName": "Code Block Forest", "tonalRamp": ["oklch(15% 0.0333 164.30)", "oklch(26% 0.0333 164.30)", "oklch(38% 0.0333 164.30)", "oklch(49% 0.0333 164.30)", "oklch(61% 0.0333 164.30)", "oklch(72% 0.0333 164.30)", "oklch(84% 0.0333 164.30)", "oklch(95% 0.0333 164.30)"]},
+      "print-paper": {"role": "neutral", "displayName": "Fixed Photographic Paper", "tonalRamp": ["oklch(15% 0.0151 90.23)", "oklch(26% 0.0151 90.23)", "oklch(38% 0.0151 90.23)", "oklch(49% 0.0151 90.23)", "oklch(61% 0.0151 90.23)", "oklch(72% 0.0151 90.23)", "oklch(84% 0.0151 90.23)", "oklch(95% 0.0151 90.23)"]},
+      "button-ink": {"role": "neutral", "displayName": "Fixed Button Light", "tonalRamp": ["oklch(15% 0.0244 83.42)", "oklch(26% 0.0244 83.42)", "oklch(38% 0.0244 83.42)", "oklch(49% 0.0244 83.42)", "oklch(61% 0.0244 83.42)", "oklch(72% 0.0244 83.42)", "oklch(84% 0.0244 83.42)", "oklch(95% 0.0244 83.42)"]},
+      "together-ink": {"role": "neutral", "displayName": "Fixed Teaching Panel Light", "tonalRamp": ["oklch(15% 0.0308 86.46)", "oklch(26% 0.0308 86.46)", "oklch(38% 0.0308 86.46)", "oklch(49% 0.0308 86.46)", "oklch(61% 0.0308 86.46)", "oklch(72% 0.0308 86.46)", "oklch(84% 0.0308 86.46)", "oklch(95% 0.0308 86.46)"]},
+      "dark-paper": {"role": "neutral", "displayName": "Night Paper", "tonalRamp": ["oklch(15% 0.0221 166.49)", "oklch(26% 0.0221 166.49)", "oklch(38% 0.0221 166.49)", "oklch(49% 0.0221 166.49)", "oklch(61% 0.0221 166.49)", "oklch(72% 0.0221 166.49)", "oklch(84% 0.0221 166.49)", "oklch(95% 0.0221 166.49)"]},
+      "dark-sheet": {"role": "neutral", "displayName": "Night Sheet", "tonalRamp": ["oklch(15% 0.0283 162.60)", "oklch(26% 0.0283 162.60)", "oklch(38% 0.0283 162.60)", "oklch(49% 0.0283 162.60)", "oklch(61% 0.0283 162.60)", "oklch(72% 0.0283 162.60)", "oklch(84% 0.0283 162.60)", "oklch(95% 0.0283 162.60)"]},
+      "dark-ink": {"role": "neutral", "displayName": "Night Warm Ink", "tonalRamp": ["oklch(15% 0.0262 90.10)", "oklch(26% 0.0262 90.10)", "oklch(38% 0.0262 90.10)", "oklch(49% 0.0262 90.10)", "oklch(61% 0.0262 90.10)", "oklch(72% 0.0262 90.10)", "oklch(84% 0.0262 90.10)", "oklch(95% 0.0262 90.10)"]},
+      "dark-muted": {"role": "neutral", "displayName": "Night Muted Sage", "tonalRamp": ["oklch(15% 0.0236 128.78)", "oklch(26% 0.0236 128.78)", "oklch(38% 0.0236 128.78)", "oklch(49% 0.0236 128.78)", "oklch(61% 0.0236 128.78)", "oklch(72% 0.0236 128.78)", "oklch(84% 0.0236 128.78)", "oklch(95% 0.0236 128.78)"]},
+      "dark-tomato": {"role":"primary","displayName":"Night Lilac Accent"},
+      "dark-rule": {"role": "neutral", "displayName": "Night Rule", "tonalRamp": ["oklch(15% 0.0286 150.64)", "oklch(26% 0.0286 150.64)", "oklch(38% 0.0286 150.64)", "oklch(49% 0.0286 150.64)", "oklch(61% 0.0286 150.64)", "oklch(72% 0.0286 150.64)", "oklch(84% 0.0286 150.64)", "oklch(95% 0.0286 150.64)"]},
+      "dark-code-bg": {"role": "neutral", "displayName": "Night Inline Code", "tonalRamp": ["oklch(15% 0.0278 162.92)", "oklch(26% 0.0278 162.92)", "oklch(38% 0.0278 162.92)", "oklch(49% 0.0278 162.92)", "oklch(61% 0.0278 162.92)", "oklch(72% 0.0278 162.92)", "oklch(84% 0.0278 162.92)", "oklch(95% 0.0278 162.92)"]},
+      "dark-code-block-bg": {"role": "neutral", "displayName": "Night Code Block", "tonalRamp": ["oklch(15% 0.0226 160.51)", "oklch(26% 0.0226 160.51)", "oklch(38% 0.0226 160.51)", "oklch(49% 0.0226 160.51)", "oklch(61% 0.0226 160.51)", "oklch(72% 0.0226 160.51)", "oklch(84% 0.0226 160.51)", "oklch(95% 0.0226 160.51)"]}
+    },
+    "typographyMeta": {
+      "display": {"displayName": "Retro Display", "purpose": "Large personal greeting; local Caprasimo normal 400."},
+      "headline": {"displayName": "Section Headline", "purpose": "Balanced Caprasimo headings, not continuous reading."},
+      "title": {"displayName": "Editorial Title", "purpose": "Gelasio journal titles; italic styling also supplies captions and annotations."},
+      "body": {"displayName": "Friendly Body", "purpose": "Trebuchet MS with Segoe UI and sans-serif fallbacks."},
+      "article": {"displayName": "Long-form Body", "purpose": "17px desktop, 16px mobile, 1.85 line-height and 70ch paragraph/list measure."},
+      "label": {"displayName": "Navigation Label", "purpose": "Compact readable navigation, with no uppercase transformation."}
+    },
+    "shadows": [
+      {"name": "instant-print", "value": "3px 7px 15px #17261c20", "purpose": "Soft lift beneath photographic paper."},
+      {"name": "collection-print", "value": "3px 8px 16px #17261c25", "purpose": "Exploration photo wall."},
+      {"name": "coloured-note", "value": "2px 4px 0 #23443818", "purpose": "Small hard paper offset."},
+      {"name": "landscape-print", "value": "4px 5px 0 #23443815", "purpose": "Sky-backed landscape frame."},
+      {"name": "button-hover", "value": "3px 4px 0 var(--tomato)", "purpose": "Action feedback paired with a tiny lift."}
+    ],
+    "motion": [
+      {"name": "button-transition", "value": "box-shadow .2s, transform .2s", "purpose": "Hover lift; suppressed when paused or reduced."},
+      {"name": "photo-develop", "value": "850ms cubic-bezier(.16, 1, .3, 1)", "purpose": "Manual photo change: sepia(.8) saturate(.3) contrast(.65) brightness(1.3) to filter:none."},
+      {"name": "sun-turn", "value": "40s linear infinite", "purpose": "One full rotation, only after motion-ready is enabled."},
+      {"name": "reduced-motion", "value": "animation: none !important; transition: none !important", "purpose": "Applied to all elements and pseudo-elements under reduced-motion or motion-paused; reduced-motion also changes smooth scrolling to auto."}
+    ],
+    "breakpoints": [
+      {"name": "navigation-wrap", "value": "1100px"},
+      {"name": "single-column", "value": "700px"}
+    ]
+  },
+  "components": [
+    {
+      "name": "Primary Button",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Forest action with a warm-light label, hard hover shadow and visible keyboard focus.",
+      "html": "<a class=\"ds-button\" href=\"#curiosities\">Wander a little <span aria-hidden=\"true\">↗</span></a>",
+      "css": ".ds-button{display:inline-flex;align-items:center;justify-content:center;gap:22px;min-height:48px;padding:11px 23px;border:1px solid var(--forest,#234438);border-radius:6px;background:var(--forest,#234438);color:#fff6e5;font-family:var(--body,\"Trebuchet MS\",\"Segoe UI\",sans-serif);font-size:14px;font-weight:700;text-decoration:none;transition:box-shadow .2s,transform .2s}.ds-button span{font-size:20px}.ds-button:hover{box-shadow:3px 4px 0 var(--tomato,#70428c);transform:translate(-1px,-2px);text-decoration:none;color:#fff6e5}.ds-button:focus-visible{outline:3px solid var(--tomato,#70428c);outline-offset:6px;color:#fff6e5}:host-context(.dark) .ds-button{border-color:var(--rule,#506053)}:host-context(.motion-paused) .ds-button{transition:none!important}@media(prefers-reduced-motion:reduce){.ds-button{transition:none!important}}"
+    },
+    {
+      "name": "Light Button",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "Sunflower action on the deep-plum teaching panel; sunflower keyboard outline.",
+      "html": "<a class=\"ds-light-button\" href=\"/events/\">Talks &amp; teaching <span aria-hidden=\"true\">↗</span></a>",
+      "css": ".ds-light-button{display:inline-flex;align-items:center;justify-content:center;gap:22px;min-height:48px;padding:11px 23px;border:1px solid var(--sunflower,#ebc85b);border-radius:6px;background:var(--sunflower,#ebc85b);color:var(--forest,#234438);font-family:var(--body,\"Trebuchet MS\",\"Segoe UI\",sans-serif);font-size:14px;font-weight:700;text-decoration:none;transition:box-shadow .2s,transform .2s}.ds-light-button span{font-size:20px}.ds-light-button:hover{box-shadow:3px 4px 0 var(--tomato,#70428c);transform:translate(-1px,-2px);text-decoration:none;color:var(--forest,#234438)}.ds-light-button:focus-visible{outline:3px solid var(--sunflower,#ebc85b);outline-offset:6px}:host-context(.motion-paused) .ds-light-button{transition:none!important}@media(prefers-reduced-motion:reduce){.ds-light-button{transition:none!important}}"
+    },
+    {
+      "name": "Search Input",
+      "kind": "input",
+      "refersTo": "search-input",
+      "description": "Quiet paper field with an ink border; no invented hover, disabled or error state.",
+      "html": "<input class=\"ds-search\" type=\"search\" aria-label=\"Search\" placeholder=\"Search\">",
+      "css": ".ds-search{border:1px solid var(--ink,#253d33);border-radius:4px;padding:15px 20px;background:var(--sheet,#fffaf0);color:var(--ink,#253d33);font-family:var(--body,\"Trebuchet MS\",\"Segoe UI\",sans-serif);font-size:16px;line-height:1.65}.ds-search:focus-visible{outline:3px solid var(--tomato,#70428c);outline-offset:6px}"
+    },
+    {
+      "name": "Navigation Links",
+      "kind": "nav",
+      "refersTo": "navigation-link",
+      "description": "Representative existing destinations, active underline and visible mobile wrapping; not a replacement for the configured menu.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"/projects/\" aria-current=\"page\"><span class=\"ds-active\">Projects</span></a><a href=\"/archives/\">Writing</a><a href=\"/exploring/\">Exploring</a></nav>",
+      "css": ".ds-nav{display:flex;gap:21px;align-items:center;color:var(--ink,#253d33);font-family:var(--body,\"Trebuchet MS\",\"Segoe UI\",sans-serif);line-height:1.4}.ds-nav a{padding:10px 0;font-size:13px;font-weight:600;color:inherit;text-decoration:none;text-underline-offset:5px}.ds-active{border-bottom:2px solid var(--tomato,#70428c);padding-bottom:5px}.ds-nav a:hover{text-decoration:underline}.ds-nav a:focus-visible{outline:3px solid var(--tomato,#70428c);outline-offset:6px}@media(max-width:700px){.ds-nav{flex-wrap:wrap;gap:0 19px}.ds-nav a{font-size:12px;padding:9px 0}}"
+    },
+    {
+      "name": "Topic Tag",
+      "kind": "chip",
+      "refersTo": "tag",
+      "description": "Static topic/type label, not an interactive filter.",
+      "html": "<span class=\"ds-tag\">AI</span>",
+      "css": ".ds-tag{display:inline-block;font-family:var(--body,\"Trebuchet MS\",\"Segoe UI\",sans-serif);font-size:12px;background:var(--code-bg,#ece5d3);color:var(--ink,#253d33);border:1px solid var(--rule,#d4cfb9);padding:4px 10px}"
+    },
+    {
+      "name": "Project Card",
+      "kind": "card",
+      "refersTo": "project-card",
+      "description": "Sheet-and-rule container; sample links are existing destinations, not invented project claims.",
+      "html": "<article class=\"ds-project\"><h3 class=\"ds-project-title\"><a href=\"/projects/\">Explore the experiments</a></h3></article>",
+      "css": ".ds-project{display:flex;flex-direction:column;padding:27px;background:var(--sheet,#fffaf0);color:var(--ink,#253d33);border:1px solid var(--rule,#d4cfb9)}.ds-project-title{font-family:Gelasio,Georgia,serif;font-size:26px;font-weight:400;line-height:1.25;max-width:25ch}.ds-project a{color:inherit;text-decoration:none;text-underline-offset:5px}.ds-project a:hover{text-decoration:underline}.ds-project a:focus-visible{outline:3px solid var(--tomato,#70428c);outline-offset:6px}@media(max-width:700px){.ds-project{padding:22px}}"
+    },
+    {
+      "name": "Curiosity Note",
+      "kind": "card",
+      "description": "Lilac paper note, tilted slightly, with the real writing invitation and ruled footer.",
+      "html": "<a class=\"ds-note\" href=\"/archives/\"><h3>Life, in<br>the margins.</h3><p>Honest reflections on being a human in progress.</p><span class=\"ds-note-link\">Read my musings <span aria-hidden=\"true\">↗</span></span></a>",
+      "css": ".ds-note{display:flex;flex-direction:column;position:relative;padding:24px 27px 27px;color:var(--forest,#234438);background:var(--pink,#d5c5e7);border:1px solid #23443825;box-shadow:2px 4px 0 #23443818;transform:rotate(1.5deg) translateY(12px);text-decoration:none;font-family:var(--body,\"Trebuchet MS\",\"Segoe UI\",sans-serif)}.ds-note h3{font-family:var(--display,Caprasimo,Georgia,serif);font-weight:400;font-size:30px;line-height:1.1;margin:0 0 15px}.ds-note p{font-size:14px;line-height:1.7;margin:0 0 25px;max-width:26ch}.ds-note-link{margin-top:auto;display:flex;justify-content:space-between;gap:10px;padding-top:13px;border-top:1px solid #23443844;font-size:12px;font-weight:700}.ds-note:hover{color:var(--forest,#234438);text-decoration:none}.ds-note:hover .ds-note-link{text-decoration:underline}.ds-note:focus-visible{outline:3px solid var(--tomato,#70428c);outline-offset:6px}:host-context(.dark) .ds-note:focus-visible{outline-color:var(--sunflower,#ebc85b)}@media(max-width:700px){.ds-note{padding:24px;transform:rotate(1deg)}.ds-note h3{font-size:28px;max-width:75%}.ds-note h3 br{display:none}.ds-note p{max-width:80%;margin-bottom:16px}}"
+    },
+    {
+      "name": "Camera Control",
+      "kind": "custom",
+      "description": "Actual inline camera drawing and manual-next affordance. This is a visual specimen; photo cycling belongs to personality.js.",
+      "html": "<button class=\"ds-camera\" type=\"button\" aria-label=\"Show the next photo\"><svg viewBox=\"0 0 120 120\" fill=\"none\" aria-hidden=\"true\" focusable=\"false\"><g stroke=\"currentColor\" stroke-width=\"4\" stroke-linejoin=\"round\"><rect x=\"12\" y=\"27\" width=\"96\" height=\"73\" rx=\"16\"/><path d=\"M29 27v-8h25v8M13 45h94\"/><circle cx=\"65\" cy=\"67\" r=\"22\"/><circle cx=\"65\" cy=\"67\" r=\"13\"/><rect x=\"24\" y=\"56\" width=\"12\" height=\"8\" rx=\"2\"/><path d=\"M82 34h13m-63 3h9\"/></g></svg><span>Another little moment</span></button>",
+      "css": ".ds-camera{display:inline-flex;align-items:center;gap:10px;border:0;background:transparent;color:var(--ink,#253d33);padding:5px;cursor:pointer;font-family:var(--body,\"Trebuchet MS\",\"Segoe UI\",sans-serif);font-size:12px;font-weight:700}.ds-camera svg{display:block;width:43px;height:43px}.ds-camera:hover span{text-decoration:underline;text-underline-offset:4px}.ds-camera:focus-visible{outline:3px solid var(--tomato,#70428c);outline-offset:6px}@media(max-width:700px){.ds-camera{font-size:11px}.ds-camera svg{width:36px;height:36px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Bethany’s Analogue Field Journal",
+    "overview": "An oldies, instant-photography world inspired by Bethany’s LiPlay: playful, warm, curious and bold. Butter paper, forest ink, chunky retro lettering, real photographs and hand-drawn nature make room for teaching, connection, art and adventure.\n\nThe interface feels collected rather than corporate. Tilted prints and coloured notes provide tactile depth; generous whitespace and ruled editorial lists keep the actual writing comfortable. This documents the finished implementation, not a proposed redesign or a new aesthetic decision.",
+    "keyCharacteristics": [
+      "Retro display lettering with italic editorial captions.",
+      "Warm paper and forest ink, with plum and lilac accents.",
+      "Real photography, lightly tilted prints and friendly nature drawings.",
+      "Playful details around quiet, usable navigation and long-form writing."
+    ],
+    "rules": [
+      {"name": "The Printed Paper Rule", "body": "Keep photographic paper and pastel-note lettering fixed across themes; only the documented theme-dependent tokens switch.", "section": "colors"},
+      {"name": "The Quiet Reading Rule", "body": "Reserve the retro display voice for hierarchy; use the existing body and editorial faces for sustained reading.", "section": "typography"}
+    ],
+    "dos": [
+      "Do preserve the user-pinned LiPlay/oldies world and playful, warm, curious, bold personality.",
+      "Do use real photographs and existing factual captions, with accessible alternative text.",
+      "Do keep navigation, reading contrast and long-form typography quieter than the decorative layer.",
+      "Do preserve every existing route, search, RSS, theme switching and reduced-motion support."
+    ],
+    "donts": [
+      "Don't replace the analogue character with generic corporate portfolio styling.",
+      "Don't invert the fixed photographic paper or pastel-note foregrounds in dark theme.",
+      "Don't introduce automatic photo rotation or make content depend on animation.",
+      "Don't invent testimonials, achievements, events or photographic evidence."
+    ]
+  }
+}

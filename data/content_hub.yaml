@@ -14,6 +14,27 @@ sections:
         venue: "YouTube"
         summary: "Small, hands-on demos exploring what is possible with AI and developer tools."
 
+      - title: "Model Mondays"
+        url: "https://developer.microsoft.com/en-us/reactor/series/s-1485/"
+        date: "9999-98"
+        when: "2025 - Ongoing"
+        venue: "Microsoft Reactor · Host"
+        summary: "Hosting Model Mondays on Microsoft Reactor."
+
+      - title: "What Is Microsoft Foundry Toolkit for VS Code? What's New and How to Get Started"
+        url: "https://www.youtube.com/watch?v=MJ74JkUMI9Q&list=PLfFkrJrvj_-w"
+        date: "2026-09"
+        when: "Aug - Sep 2026"
+        venue: "YouTube"
+        summary: "A series on Microsoft Foundry Toolkit for VS Code, what's new, and how to get started."
+
+      - title: "Inside Microsoft Foundry QuickStart"
+        url: "https://www.youtube.com/watch?v=gF2RMvXput8&list=PLlrxD0HtieHj61bBwrAqd5yHvwjB8s_oz"
+        date: "9999-97"
+        when: "Aug 2026 - Ongoing"
+        venue: "YouTube"
+        summary: "What does it really take to ship an AI agent?"
+
       - title: "Learn Live: Integrate custom tools into your agent"
         url: "https://www.youtube.com/watch?v=MRpExvcdxGs"
         date: "2025-05"
@@ -41,15 +62,15 @@ sections:
     items:
       - title: "Biashara Agent Workshop"
         url: "https://github.com/BethanyJep/Safaricom-Decode-Agents-Workshop"
-        date: "2026-07"
-        when: "Jul 2026"
+        date: "2026-04"
+        when: "Mar - Apr 2026"
         venue: "Safaricom Decode"
         summary: "Build a bilingual English and Swahili AI agent for a Nairobi restaurant using the Microsoft Foundry Toolkit in VS Code. Covers agent setup, system prompts, MCP tools for grounded answers, evaluation, a Flask chat interface, and exporting to production code with Microsoft Agent Framework."
 
       - title: "Foundry Toolkit and Hosted Agents Workshop"
         url: "https://github.com/microsoft-foundry/Foundry_Toolkit_for_VSCode_Lab"
-        date: "2026-06"
-        when: "Jun 2026"
+        date: "2026-09"
+        when: "Jul - Sep 2026"
         venue: "Microsoft Foundry"
         summary: "Build, test, and deploy single-agent and multi-agent Hosted Agents to Microsoft Foundry from VS Code, using the Foundry Toolkit and Microsoft Agent Framework in Python."
 
@@ -94,8 +115,8 @@ sections:
     items:
       - title: "Generative AI for Beginners"
         url: "https://aka.ms/genai-beginners"
-        date: "9999-99"
-        when: "Ongoing"
+        date: "2025"
+        when: "2025"
         venue: "Microsoft"
         summary: "A course of lessons teaching everything you need to start building generative AI applications."
         secondary_url: "https://github.com/microsoft/generative-ai-for-beginners/blob/main/15-rag-and-vector-databases/README.md?WT.mc_id=academic-105485-bethanycheum"
@@ -103,8 +124,8 @@ sections:
 
       - title: "AI for Beginners"
         url: "https://aka.ms/ai4beginners"
-        date: "9999-97"
-        when: "Ongoing"
+        date: "2023"
+        when: "2023"
         venue: "Microsoft"
         summary: "A 12-week curriculum covering the foundations of AI, from symbolic approaches through neural networks, computer vision, and natural language processing."
 
@@ -124,15 +145,15 @@ sections:
 
       - title: "Using GitHub Copilot with Python"
         url: "https://learn.microsoft.com/en-us/training/modules/introduction-copilot-python/?WT.mc_id=academic-106558-bethanycheum"
-        date: "9999-98"
-        when: "Ongoing"
+        date: "2024"
+        when: "2024"
         venue: "Microsoft Learn"
         summary: "A module on pairing with Copilot in Python: writing prompts that work, reviewing what it suggests, and knowing when to push back."
 
       - title: "Alliance Girls High School Software Engineering Program"
         url: "https://github.com/BethanyJep/HS-Software-Engineering"
-        date: "2026-08"
-        when: "Aug 2026"
+        date: "9999-99"
+        when: "Ongoing"
         venue: "with TOFA and Alliance Girls Alumni"
         summary: "A project-based software engineering program for Grade 10 students. Term 2 covers foundations, careers and resources; Term 3 is a group project sprint ending in a showcase. Includes a facilitator guide, icebreakers, demos, and beginner career-path guides."
 

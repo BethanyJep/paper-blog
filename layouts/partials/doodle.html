@@ -1,0 +1,42 @@
+<svg class="doodle doodle-{{ . }}" viewBox="0 0 120 120" fill="none" aria-hidden="true" focusable="false">
+{{- if eq . "flower" -}}
+<g fill="currentColor">
+    <ellipse cx="60" cy="28" rx="14" ry="25"/>
+    <ellipse cx="60" cy="92" rx="14" ry="25"/>
+    <ellipse cx="28" cy="60" rx="25" ry="14"/>
+    <ellipse cx="92" cy="60" rx="25" ry="14"/>
+    <ellipse cx="37" cy="37" rx="14" ry="23" transform="rotate(-45 37 37)"/>
+    <ellipse cx="83" cy="83" rx="14" ry="23" transform="rotate(-45 83 83)"/>
+    <ellipse cx="37" cy="83" rx="14" ry="23" transform="rotate(45 37 83)"/>
+    <ellipse cx="83" cy="37" rx="14" ry="23" transform="rotate(45 83 37)"/>
+</g>
+<circle cx="60" cy="60" r="20" fill="var(--sunflower)"/>
+<path d="M51 62q9 12 18 0M51 54v2m18-2v2" stroke="var(--forest)" stroke-width="3" stroke-linecap="round"/>
+{{- else if eq . "sun" -}}
+<g stroke="currentColor" stroke-width="4" stroke-linecap="round">
+    <circle cx="60" cy="60" r="29"/>
+    <path d="M60 7v10m0 86v10M7 60h10m86 0h10M22 22l8 8m60 60 8 8M22 98l8-8m60-60 8-8M40 11l4 10m32 78 4 10M11 40l10 4m78 32 10 4M11 80l10-4m78-32 10-4M40 109l4-10m32-78 4-10"/>
+    <path d="M47 65q13 15 26 0m-25-15v4m24-4v4"/>
+</g>
+{{- else if eq . "camera" -}}
+<g stroke="currentColor" stroke-width="4" stroke-linejoin="round">
+    <rect x="12" y="27" width="96" height="73" rx="16"/>
+    <path d="M29 27v-8h25v8M13 45h94"/>
+    <circle cx="65" cy="67" r="22"/><circle cx="65" cy="67" r="13"/>
+    <rect x="24" y="56" width="12" height="8" rx="2"/>
+    <path d="M82 34h13m-63 3h9"/>
+</g>
+{{- else if eq . "leaf" -}}
+<g stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 106Q45 42 97 13C100 77 64 108 38 86M39 85l41-49M53 67l-4-23m15 10 21 1"/>
+    <path d="M35 88C8 76 9 46 14 35q30 14 32 43M34 80 23 57"/>
+</g>
+{{- else if eq . "shoe" -}}
+<g stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m20 55 17-22q9 20 26 17l17 25 23 11q10 6 5 15H16q-6-20 4-46Z"/>
+    <path d="M18 88h76M54 56l11-7m-4 17 10-7m-3 17 10-7M10 38h14M6 49h9M45 76q12-5 17-3"/>
+</g>
+{{- else if eq . "spark" -}}
+<path d="M60 8q4 45 52 52-48 4-52 52Q53 66 8 60q46-7 52-52Z" fill="currentColor"/>
+{{- end -}}
+</svg>

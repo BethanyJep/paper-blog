@@ -1,133 +1,137 @@
 {{- define "main" }}
+{{ "<!-- THESIS: Bethany's analogue field journal, not a corporate portfolio. OWN-WORLD: forest ink, butter paper, plum, lilac and sky; chunky retro type, instant prints and hand-drawn nature. STORY: meet the person, join her learning, follow a curiosity. FIRST VIEWPORT: large personal greeting left, interactive real-photo stack right, visible exploration links and friendly drawings. FORM: user-pinned LiPlay/oldies world; a collected photographic journey with quiet writing interludes. -->" | safeHTML }}
 
-<article class="first-entry home-info-hero">
-    <div class="hero-content-wrap">
-        <div class="hero-text-side">
-            <header class="entry-header">
-                <h1>DEVELOPER RELATIONS • MICROSOFT (&amp; GITHUB)</h1>
-            </header>
-            <div class="entry-content">
-                <p class="hero-bio">
-                    I am inherently curious, a builder of things and love to teach.
-                </p>
-                <a class="hero-cta" href="/projects/">See what I’m building <span aria-hidden="true">&rarr;</span></a>
-            </div>
-            <footer class="entry-footer">
-                {{- partial "social_icons.html" (dict "align" "left") }}
-            </footer>
+<section class="welcome" aria-labelledby="welcome-title">
+    <div class="welcome-copy">
+        <h1 id="welcome-title">Hey, I’m<br><span>Bethany.</span><span class="greeting-flower">{{ partial "doodle.html" "flower" }}</span></h1>
+        <p class="welcome-description">I build things, teach what I learn, and follow my curiosity. Sometimes into AI. Sometimes out onto a trail. Always towards a good connection.</p>
+        <div class="welcome-actions">
+            <a class="button" href="#curiosities">Wander a little <span aria-hidden="true">↗</span></a>
+            <a class="text-link" href="/content/">Learn with me <span aria-hidden="true">→</span></a>
         </div>
-        <div class="hero-photo-side">
-            <div class="polaroid-frame">
-                <img src="/assets/images/home-hero.jpg" alt="Bethany speaking on stage" width="640" height="426" loading="eager" fetchpriority="high" decoding="async" />
-                <span class="polaroid-caption">Speaking &amp; Building ✨</span>
-            </div>
+        <p class="work-note">Developer Relations at Microsoft (&amp; GitHub).<br>So much more in between.</p>
+        <p class="welcome-links">
+            <a href="{{ "/about/" | relURL }}">A little about me <span aria-hidden="true">→</span></a>
+            {{- range where site.Params.socialIcons "name" "linkedin" }}
+            <a href="{{ .url }}">Connect on LinkedIn <span aria-hidden="true">↗</span></a>
+            {{- end }}
+        </p>
+    </div>
+    <div class="memory-desk">
+        <span class="desk-sun">{{ partial "doodle.html" "sun" }}</span>
+        <span class="desk-note handwritten">a few moments<br>worth keeping</span>
+        <div class="photo-stack" aria-label="Moments from my world">
+            {{- $moments := slice
+                (dict "src" "moments/home-hero.jpg" "alt" "Bethany speaking on stage" "caption" "In my element. Sharing & learning." "link" "/events/" "label" "Explore my talks")
+                (dict "src" "images/exploring/susumwa-dam-njambini.jpg" "alt" "A view of Susumwa Dam in Njambini" "caption" "A little fresh air. Njambini, Kenya." "link" "/exploring/" "label" "Explore the photo collection")
+                (dict "src" "moments/AI_Tour_Bengaluru_2025_01_07_0018.JPG" "alt" "Bethany presenting a workshop at Microsoft AI Tour Bengaluru" "caption" "Learning together. Bengaluru, 2025." "link" "/events/ai-tour-bengaluru-2025/" "label" "Read about the Bengaluru workshop")
+            -}}
+            {{- range $i, $moment := $moments }}
+            <figure class="instant-photo memory-photo" {{ if ne $i 0 }}hidden{{ end }} data-moment>
+                {{ partial "moment-image.html" (merge $moment (dict "eager" (eq $i 0))) }}
+                <figcaption>
+                    <span class="handwritten">{{ .caption }}</span>
+                    <a href="{{ .link }}">{{ .label }} <span aria-hidden="true">↗</span></a>
+                </figcaption>
+            </figure>
+            {{- end }}
         </div>
+        <div class="memory-controls" hidden>
+            <button class="camera-button" id="next-moment" aria-label="Show the next photo">{{ partial "doodle.html" "camera" }}<span>Another little moment</span></button>
+            <span id="moment-count" class="moment-count" aria-live="polite" aria-atomic="true">1 / 3</span>
+        </div>
+        <span class="desk-leaf">{{ partial "doodle.html" "leaf" }}</span>
     </div>
-</article>
+</section>
 
-<section class="home-section">
-    <div class="section-title-wrap">
-        <h2>Explore</h2>
-        <p>A quick map of what I’m building, sharing, and thinking about.</p>
+<div class="interest-ribbon" aria-label="Things I love">
+    <span>Nature</span><span aria-hidden="true">✳</span><span>Art &amp; play</span><span aria-hidden="true">✳</span><span>Running</span><span aria-hidden="true">✳</span><span>Teaching</span><span aria-hidden="true">✳</span><span>Little adventures</span>
+</div>
+
+<section class="curiosities section-space" id="curiosities" aria-labelledby="curiosities-title">
+    <div class="section-heading">
+        <h2 id="curiosities-title">Follow a little<br><em>curiosity.</em></h2>
+        <p>No perfectly straight paths here.<br>Just things worth trying, sharing, and noticing.</p>
     </div>
-
-    <div class="home-grid">
-        <a class="home-card card-shade-purple" href="/projects/">
-            <div class="card-header">
-                <div class="card-icon">🧪</div>
-                <h3>Experiments</h3>
-            </div>
-            <p>Demos and hands-on AI experiments</p>
-            <span class="card-link">View Experiments &rarr;</span>
+    <div class="curiosity-paths">
+        <a class="path-note path-build" href="/projects/">
+            <span class="path-art" aria-hidden="true"><span class="code-flower">{<span>✳</span>}</span></span>
+            <h3>What if I<br>built this?</h3>
+            <p>AI experiments, little tools, and ideas made real.</p>
+            <span class="path-link">Explore the experiments <span aria-hidden="true">↗</span></span>
         </a>
-
-        <a class="home-card card-shade-amber" href="/events/">
-            <div class="card-header">
-                <div class="card-icon">🎤</div>
-                <h3>Events and Talks</h3>
-            </div>
-            <p>Speaking engagements</p>
-            <span class="card-link">See Schedule &rarr;</span>
+        <a class="path-note path-write" href="/archives/">
+            <span class="path-art scribble-art" aria-hidden="true"><svg viewBox="0 0 160 65" fill="none"><path d="M15 42Q37-5 44 30t22-5q13-19 9 10t21-11q10-12 4 17t35-22M17 56q50-9 126-2" stroke="currentColor" stroke-width="4" stroke-linecap="round"/></svg></span>
+            <h3>Life, in<br>the margins.</h3>
+            <p>Honest reflections on being a human in progress.</p>
+            <span class="path-link">Read my musings <span aria-hidden="true">↗</span></span>
         </a>
-
-        <a class="home-card card-shade-indigo" href="/archives/">
-            <div class="card-header">
-                <div class="card-icon">📝</div>
-                <h3>Blog</h3>
-            </div>
-            <p>Essays and reflections</p>
-            <span class="card-link">Read Posts &rarr;</span>
-        </a>
-
-        <a class="home-card card-shade-rose" href="/newsletter/">
-            <div class="card-header">
-                <div class="card-icon">📩</div>
-                <h3>Newsletter</h3>
-            </div>
-            <p>AI and the in beteweens</p>
-            <span class="card-link">Browse Archives &rarr;</span>
-        </a>
-
-        <a class="home-card card-shade-emerald" href="/exploring/">
-            <div class="card-header">
-                <div class="card-icon">🧭</div>
-                <h3>Exploring</h3>
-            </div>
-            <p>Going where my curiosity and creativity takes me</p>
-            <span class="card-link">Explore More &rarr;</span>
-        </a>
-
-        <a class="home-card card-shade-purple" href="/content/">
-            <div class="card-header">
-                <div class="card-icon">🎬</div>
-                <h3>Content</h3>
-            </div>
-            <p>Videos, articles, and hands-on lessons from what I am building and learning.</p>
-            <span class="card-link">Watch and Read &rarr;</span>
+        <a class="path-note path-explore" href="/exploring/">
+            <span class="path-art">{{ partial "doodle.html" "shoe" }}</span>
+            <h3>Take the<br>scenic route.</h3>
+            <p>Favourite places, people, and things along the way.</p>
+            <span class="path-link">Come exploring <span aria-hidden="true">↗</span></span>
         </a>
     </div>
 </section>
 
-<section class="home-section home-recent-section">
-    <div class="recent-columns">
-        <div class="recent-column">
-            <div class="column-header">
-                <h3>Latest Blog Posts</h3>
-                <a href="/archives/" class="view-all">All Posts &rarr;</a>
-            </div>
-            <ul class="recent-list">
-                {{- range first 4 (where site.RegularPages "Type" "posts") }}
-                <li class="recent-item">
-                    <a href="{{ .RelPermalink }}">
-                        <span class="recent-title">{{ .Title }}</span>
-                        {{- if .Date }}
-                        <span class="recent-date">{{ .Date.Format "Jan 2, 2006" }}</span>
-                        {{- end }}
-                    </a>
-                </li>
-                {{- end }}
-            </ul>
-        </div>
-
-        <div class="recent-column">
-            <div class="column-header">
-                <h3>Recent Speaking Engagements</h3>
-                <a href="/events/" class="view-all">All Engagements &rarr;</a>
-            </div>
-            <ul class="recent-list">
-                {{- range first 4 (where site.RegularPages "Section" "events") }}
-                <li class="recent-item">
-                    <a href="{{ .RelPermalink }}">
-                        <span class="recent-title">{{ .Title }}</span>
-                        {{- if .Date }}
-                        <span class="recent-date">{{ .Date.Format "Jan 2006" }}</span>
-                        {{- end }}
-                    </a>
-                </li>
-                {{- end }}
-            </ul>
+<section class="together section-space" aria-labelledby="together-title">
+    <div class="together-photo">
+        <figure class="instant-photo">
+            {{ partial "moment-image.html" (dict "src" "moments/AI_Tour_Bengaluru_2025_01_07_0018.JPG" "alt" "Teaching a workshop at Microsoft AI Tour Bengaluru") }}
+            <figcaption class="handwritten">Good questions. New connections. Bengaluru, 2025.</figcaption>
+        </figure>
+        <span class="together-flower">{{ partial "doodle.html" "flower" }}</span>
+    </div>
+    <div class="together-copy">
+        <h2 id="together-title">Better<br><em>together.</em></h2>
+        <p>My favourite part of technology? The people. Sharing what I know, figuring things out together, and making room for one more question.</p>
+        <a class="button button-light" href="/events/">Talks &amp; teaching <span aria-hidden="true">↗</span></a>
+        <div class="lesson-link">
+            {{- with site.GetPage "/events/ai-tour-bengaluru-2025" }}
+            <a href="{{ .RelPermalink }}">Inside the Bengaluru workshop <span aria-hidden="true">→</span></a>
+            {{- end }}
+            <a href="/content/#workshops">Find a hands-on workshop <span aria-hidden="true">→</span></a>
+            <a href="/content/#watch">Watch &amp; learn at your own pace <span aria-hidden="true">→</span></a>
         </div>
     </div>
 </section>
 
+<section class="journal section-space" aria-labelledby="journal-title">
+    <div class="section-heading">
+        <h2 id="journal-title">Fresh from<br><em>my little corner.</em></h2>
+        <a class="text-link" href="/archives/">All the writing <span aria-hidden="true">↗</span></a>
+    </div>
+    <div class="journal-entries">
+        {{- range first 3 (sort (where site.RegularPages "Type" "posts") "Date" "desc") }}
+        <article class="journal-entry">
+            <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2, 2006" }}</time>
+            <h3><a href="{{ .RelPermalink }}">{{ .Title }} <span aria-hidden="true">↗</span></a></h3>
+            <p>{{ .Summary | plainify | truncate 145 }}</p>
+        </article>
+        {{- end }}
+    </div>
+</section>
+
+<section class="outside section-space" aria-labelledby="outside-title">
+    <div class="outside-copy">
+        {{ partial "doodle.html" "leaf" }}
+        <h2 id="outside-title">There’s a world<br><em>outside the tabs.</em></h2>
+        <p>Nature, a good run, a little adventure. Not everything needs to become a project. Some things are just worth being there for.</p>
+        <a class="text-link" href="/exploring/">A few things I’ve noticed <span aria-hidden="true">↗</span></a>
+    </div>
+    <figure class="landscape-print">
+        {{ partial "moment-image.html" (dict "src" "images/exploring/susumwa-dam-njambini.jpg" "alt" "Susumwa Dam in Njambini, Nyandarua") }}
+        <figcaption><span class="handwritten">Taking the long way home.</span><span>Susumwa Dam · Njambini, Nyandarua</span></figcaption>
+    </figure>
+</section>
+
+<section class="stay-in-touch section-space" aria-labelledby="stay-title">
+    {{ partial "doodle.html" "sun" }}
+    <div>
+        <h2 id="stay-title">Let’s stay curious.</h2>
+        <p>More AI, more learning, and a few things in between.</p>
+    </div>
+    <a class="button" href="/newsletter/">The ABCD of AI <span aria-hidden="true">↗</span></a>
+</section>
 {{- end }}

@@ -1,0 +1,7 @@
+<div class="garden-signoff">
+    <span class="handwritten">Made of curiosity. Best enjoyed at your own pace.</span>
+    <a href="{{ "/index.xml" | relURL }}">RSS</a>
+    {{ partial "social_icons.html" (dict "align" "center") }}
+</div>
+{{- $script := resources.Get "js/personality.js" | minify | fingerprint -}}
+<script src="{{ $script.RelPermalink }}" integrity="{{ $script.Data.Integrity }}" defer></script>

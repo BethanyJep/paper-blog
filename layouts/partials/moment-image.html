@@ -1,0 +1,11 @@
+{{- $image := resources.Get .src -}}
+{{- if not $image -}}
+    {{- errorf "Missing moment image: %s" .src -}}
+{{- else -}}
+    {{- $small := $image.Resize (printf "%dx webp q82" (math.Min 560 $image.Width | int)) -}}
+    {{- $large := $image.Resize (printf "%dx webp q85" (math.Min 1120 $image.Width | int)) -}}
+    <img src="{{ $small.RelPermalink }}" srcset="{{ $small.RelPermalink }} {{ $small.Width }}w, {{ $large.RelPermalink }} {{ $large.Width }}w"
+        sizes="{{ .sizes | default "(max-width: 700px) 90vw, 45vw" }}"
+        width="{{ $large.Width }}" height="{{ $large.Height }}" alt="{{ .alt }}"
+        loading="{{ if .eager }}eager{{ else }}lazy{{ end }}" {{ if .eager }}fetchpriority="high"{{ end }} decoding="async">
+{{- end -}}

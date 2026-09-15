@@ -1,0 +1,29 @@
+<script>
+    const preferredTheme = localStorage.getItem("pref-theme");
+    if (preferredTheme === "dark" || (!preferredTheme && window.matchMedia("(prefers-color-scheme: dark)").matches)) {
+        document.body.classList.add("dark");
+    } else {
+        document.body.classList.remove("dark");
+    }
+</script>
+<header class="header">
+    <nav class="nav" aria-label="Main navigation">
+        <div class="logo">
+            <a href="{{ "/" | relURL }}" accesskey="h" aria-label="Bethany Jep home">{{ partial "doodle.html" "flower" }}<span>bethany<span class="logo-dot">jep.</span></span></a>
+        </div>
+        <ul id="menu">
+            {{- $current := . -}}
+            {{- range site.Menus.main }}
+            {{- $active := or (eq $current.RelPermalink .URL) (and (ne .URL "/") (hasPrefix $current.RelPermalink .URL)) -}}
+            <li><a href="{{ .URL | relURL }}" {{ if $active }}aria-current="page"{{ end }} {{ if eq .URL "/search/" }}accesskey="/"{{ end }}><span {{ if $active }}class="active"{{ end }}>{{ .Name }}</span></a></li>
+            {{- end }}
+        </ul>
+        <div class="site-controls">
+            <button id="motion-toggle" type="button" aria-label="Pause animations" aria-pressed="false" title="Pause animations" hidden><span aria-hidden="true">Ⅱ</span></button>
+            <button id="theme-toggle" type="button" accesskey="t" aria-label="Switch color theme" title="Switch color theme">
+                <svg id="moon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M21 13a9 9 0 1 1-10-10 7 7 0 0 0 10 10Z"/></svg>
+                <svg id="sun" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 1v3m0 16v3M1 12h3m16 0h3M4 4l2 2m12 12 2 2M4 20l2-2M18 6l2-2"/></svg>
+            </button>
+        </div>
+    </nav>
+</header>

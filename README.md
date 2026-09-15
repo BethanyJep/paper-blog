@@ -62,6 +62,32 @@ Posts are written in Markdown and stored in `content/posts/`. Each post includes
 - `tags` - Categories for the post
 - `draft` - Set to `false` to publish
 
+## Personal design
+
+The site uses an analogue photo-journal identity inspired by instant photography,
+nature, play, and teaching. Project-owned templates in `layouts/` override
+PaperMod without modifying the theme submodule.
+
+- `assets/css/extended/portfolio-personality.css`: shared colors, typography,
+  responsive layouts, and dark-theme tokens.
+- `layouts/partials/doodle.html`: original SVG graphics.
+- `layouts/partials/moment-image.html`: responsive WebP photos, processed by Hugo.
+  Existing `static/assets/images` files are also mounted as `assets/moments`.
+- `layouts/index.html`: homepage stories and the interactive photo selection.
+- `assets/js/personality.js`: user-controlled photo development and animation
+  pause/play. Reduced-motion preferences are respected; content works without JS.
+- `static/fonts/`: self-hosted fonts; Caprasimo's license is included alongside it.
+
+Keep new stories and photographs factual. The photo button is a visual interaction,
+not an audio recording or a simulated camera permission flow.
+
+### Validation
+
+Run `python3 -m unittest discover -s tests`. The checks build minified production
+output into a temporary directory and verify navigation, local homepage links
+and images, About copy, Content dates, and series URLs. Requires Hugo and Python 3;
+no additional Python packages are needed.
+
 ## License
 
 The content of this blog is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). 

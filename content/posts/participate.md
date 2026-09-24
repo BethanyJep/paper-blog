@@ -1,5 +1,5 @@
 +++
-title = 'Participate: the perks of being a wallflower'
+title = 'Participate'
 date = 2026-09-24T06:30:17Z
 draft = false
 tags = ["personal", "reflection", "books"]
